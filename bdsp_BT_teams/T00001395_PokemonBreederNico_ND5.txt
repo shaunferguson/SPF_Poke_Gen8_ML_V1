@@ -1,0 +1,27 @@
+Whiscash @ Leftovers
+Ability: Hydration
+- Earthquake
+- Water Pulse
+- Tickle
+- Sandstorm
+
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Piloswine @ Soft Sand
+Ability: Thick Fat
+- Rock Tomb
+- Earthquake
+- Ice Shard
+- Light Screen

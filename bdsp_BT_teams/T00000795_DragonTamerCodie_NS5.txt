@@ -1,0 +1,20 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Vespiquen @ Razor Claw
+Ability: Pressure
+- Attack Order
+- Slash
+- Defend Order
+- -
+
+Quagsire @ Leftovers
+Ability: Water Absorb
+- Body Slam
+- Rock Slide
+- Ice Beam
+- Brick Break

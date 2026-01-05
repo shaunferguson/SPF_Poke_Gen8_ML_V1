@@ -1,0 +1,20 @@
+Shuckle @ Bright Powder
+Ability: Sturdy
+- Power Trick
+- Double Team
+- Wrap
+- Toxic
+
+Exploud @ Sitrus Berry
+Ability: Soundproof
+- Rest
+- Sleep Talk
+- Boomburst
+- Double Team
+
+Jolteon @ Razor Claw
+Ability: Volt Absorb
+- Thunder Wave
+- Thunderbolt
+- Shadow Ball
+- Flash

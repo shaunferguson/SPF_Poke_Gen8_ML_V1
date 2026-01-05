@@ -1,0 +1,20 @@
+Rotom @ Jaboca Berry
+Ability: Levitate
+- Hydro Pump
+- Thunderbolt
+- Volt Switch
+- Will-O-Wisp
+
+Magnezone @ Custap Berry
+Ability: Sturdy
+- Thunderbolt
+- Volt Switch
+- Flash Cannon
+- Body Press
+
+Luxray @ Sitrus Berry
+Ability: Intimidate
+- Volt Switch
+- Thunder Wave
+- Ice Fang
+- Wild Charge

@@ -1,0 +1,27 @@
+Weavile @ Razor Claw
+Ability: Pressure
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Shadow Claw
+
+Sceptile @ Bright Powder
+Ability: Overgrow
+- Energy Ball
+- Dragon Pulse
+- Focus Blast
+- Synthesis
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Synthesis
+- Leaf Blade
+- Leech Seed
+- Yawn
+
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect

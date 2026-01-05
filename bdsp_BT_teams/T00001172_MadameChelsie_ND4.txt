@@ -1,0 +1,27 @@
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm
+
+Bellossom @ Power Herb
+Ability: Chlorophyll
+- Solar Beam
+- Safeguard
+- Sunny Day
+- Synthesis
+
+Carnivine @ Rose Incense
+Ability: Levitate
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Kecleon @ Focus Band
+Ability: Color Change
+- Brick Break
+- Psybeam
+- Magic Coat
+- Shadow Sneak

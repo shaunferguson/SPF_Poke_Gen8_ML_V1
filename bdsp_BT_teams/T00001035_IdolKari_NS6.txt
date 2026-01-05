@@ -1,0 +1,20 @@
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Ninetales @ Rawst Berry
+Ability: Drought
+- Solar Beam
+- Disable
+- Will-O-Wisp
+- Flamethrower
+
+Golduck @ Pecha Berry
+Ability: Cloud Nine
+- Psychic
+- Disable
+- Surf
+- Brick Break

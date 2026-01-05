@@ -1,0 +1,27 @@
+Zangoose @ Persim Berry
+Ability: Toxic Boost
+- Slash
+- Double Kick
+- Roar
+- Quick Attack
+
+Relicanth @ Liechi Berry
+Ability: Sturdy
+- Ancient Power
+- Water Pulse
+- Harden
+- Amnesia
+
+Dusclops @ Leftovers
+Ability: Pressure
+- Will-O-Wisp
+- Night Shade
+- Pain Split
+- Confuse Ray
+
+Carnivine @ Rose Incense
+Ability: Levitate
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed

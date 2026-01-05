@@ -1,0 +1,20 @@
+Zapdos @ Bright Powder
+Ability: Pressure
+- Double Team
+- Roost
+- Discharge
+- Heat Wave
+
+Moltres @ King's Rock
+Ability: Flame Body
+- Air Slash
+- Agility
+- Heat Wave
+- Will-O-Wisp
+
+Pinsir @ Salac Berry
+Ability: Hyper Cutter
+- Endure
+- Flail
+- X-Scissor
+- Superpower

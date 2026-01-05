@@ -1,0 +1,27 @@
+Aerodactyl @ Leftovers
+Ability: Pressure
+- Swagger
+- Attract
+- Rock Slide
+- Roost
+
+Steelix @ Occa Berry
+Ability: Sturdy
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Armaldo @ Wide Lens
+Ability: Battle Armor
+- Stone Edge
+- Slash
+- X-Scissor
+- Iron Tail
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball

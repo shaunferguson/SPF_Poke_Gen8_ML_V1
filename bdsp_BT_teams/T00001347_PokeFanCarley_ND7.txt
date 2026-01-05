@@ -1,0 +1,27 @@
+Marowak @ Thick Club
+Ability: Battle Armor
+- Earthquake
+- Double-Edge
+- Aerial Ace
+- Brick Break
+
+Garchomp @ Persim Berry
+Ability: Rough Skin
+- Outrage
+- Swords Dance
+- Stone Edge
+- Earthquake
+
+Feraligatr @ Wise Glasses
+Ability: Torrent
+- Hydro Pump
+- Ice Beam
+- Dragon Pulse
+- Ancient Power
+
+Miltank @ Muscle Band
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Seismic Toss

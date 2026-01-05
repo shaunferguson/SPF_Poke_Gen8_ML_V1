@@ -1,0 +1,27 @@
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day
+
+Pupitar @ Soft Sand
+Ability: Shed Skin
+- Dig
+- Bite
+- Scary Face
+- Sandstorm

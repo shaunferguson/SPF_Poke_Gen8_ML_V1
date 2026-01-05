@@ -1,0 +1,27 @@
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap
+
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide
+
+Piloswine @ Soft Sand
+Ability: Thick Fat
+- Rock Tomb
+- Earthquake
+- Ice Shard
+- Light Screen
+
+Rotom @ Cheri Berry
+Ability: Levitate
+- Thunderbolt
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray

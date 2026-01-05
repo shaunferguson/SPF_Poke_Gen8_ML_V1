@@ -1,0 +1,20 @@
+Dodrio @ Chesto Berry
+Ability: Early Bird
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest
+
+Tropius @ Sitrus Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Whirlwind
+- Aerial Ace
+- Steel Wing
+
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech

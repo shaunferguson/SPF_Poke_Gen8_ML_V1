@@ -1,0 +1,27 @@
+Cubone @ Soft Sand
+Ability: Battle Armor
+- Bonemerang
+- Headbutt
+- Brick Break
+- Aerial Ace
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect
+
+Volbeat @ Liechi Berry
+Ability: Swarm
+- Bug Buzz
+- Confuse Ray
+- Quick Attack
+- Helping Hand
+
+Luvdisc @ Quick Claw
+Ability: Swift Swim
+- Sweet Kiss
+- Attract
+- Water Pulse
+- Rain Dance

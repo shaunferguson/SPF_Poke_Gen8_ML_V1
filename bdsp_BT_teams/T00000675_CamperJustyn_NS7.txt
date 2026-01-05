@@ -1,0 +1,27 @@
+Yanmega @ Charti Berry
+Ability: Speed Boost
+- Aerial Ace
+- Steel Wing
+- Thief
+- U-turn
+
+Milotic @ Salac Berry
+Ability: Competitive
+- Hydro Pump
+- Ice Beam
+- Recover
+- Hypnosis
+
+Probopass @ Rock Incense
+Ability: Sturdy
+- Rock Polish
+- Stealth Rock
+- Lock-On
+- Stone Edge
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball

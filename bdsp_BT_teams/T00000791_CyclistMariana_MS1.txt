@@ -1,0 +1,20 @@
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Swampert @ Sitrus Berry
+Ability: Damp
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Quagsire @ Leftovers
+Ability: Unaware
+- Stockpile
+- Whirlpool
+- Toxic
+- Recover

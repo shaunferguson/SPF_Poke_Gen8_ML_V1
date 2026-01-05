@@ -1,0 +1,27 @@
+Regice @ Shell Bell
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Hyper Beam
+- Flash Cannon
+
+Heatran @ Shuca Berry
+Ability: Flash Fire
+- Flamethrower
+- Earth Power
+- Dragon Pulse
+- Ancient Power
+
+Floatzel @ Bright Powder
+Ability: Swift Swim
+- Waterfall
+- Ice Fang
+- Crunch
+- Rain Dance
+
+Jynx @ Odd Incense
+Ability: Dry Skin
+- Lovely Kiss
+- Dream Eater
+- Sweet Kiss
+- Energy Ball

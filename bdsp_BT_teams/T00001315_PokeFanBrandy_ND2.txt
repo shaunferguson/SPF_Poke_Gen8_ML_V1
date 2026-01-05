@@ -1,0 +1,27 @@
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

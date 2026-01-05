@@ -1,0 +1,27 @@
+Monferno @ Coba Berry
+Ability: Blaze
+- Mach Punch
+- Feint
+- Torment
+- U-turn
+
+Marshtomp @ Focus Band
+Ability: Torrent
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Mud-Slap
+
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard
+
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm

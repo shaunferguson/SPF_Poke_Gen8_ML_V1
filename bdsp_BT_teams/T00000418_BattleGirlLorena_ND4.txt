@@ -1,0 +1,27 @@
+Octillery @ Leftovers
+Ability: Moody
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Kingler @ Scope Lens
+Ability: Hyper Cutter
+- Crabhammer
+- Metal Claw
+- Knock Off
+- Protect
+
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard

@@ -1,0 +1,27 @@
+Sceptile @ Bright Powder
+Ability: Overgrow
+- Energy Ball
+- Dragon Pulse
+- Focus Blast
+- Synthesis
+
+Salamence @ Cheri Berry
+Ability: Intimidate
+- Fly
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Tyranitar @ Expert Belt
+Ability: Sand Stream
+- Dark Pulse
+- Ice Beam
+- Flamethrower
+- Ancient Power
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt

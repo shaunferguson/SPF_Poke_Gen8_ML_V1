@@ -1,0 +1,27 @@
+Porygon-Z @ Silk Scarf
+Ability: Adaptability
+- Tri Attack
+- Thunderbolt
+- Ice Beam
+- Shadow Ball
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Regice @ Zoom Lens
+Ability: Clear Body
+- Thunder
+- Blizzard
+- Focus Blast
+- Flash Cannon
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Destiny Bond
+- Dazzling Gleam

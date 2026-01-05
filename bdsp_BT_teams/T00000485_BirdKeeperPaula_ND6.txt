@@ -1,0 +1,27 @@
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+- Mirror Coat
+- Recover
+- Waterfall
+- Earthquake
+
+Altaria @ Petaya Berry
+Ability: Cloud Nine
+- Dragon Pulse
+- Roost
+- Perish Song
+- Protect
+
+Exploud @ Focus Band
+Ability: Soundproof
+- Boomburst
+- Fire Blast
+- Solar Beam
+- Focus Blast

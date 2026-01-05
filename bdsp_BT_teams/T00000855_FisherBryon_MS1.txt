@@ -1,0 +1,20 @@
+Wailord @ Leftovers
+Ability: Pressure
+- Curse
+- Earthquake
+- Waterfall
+- Double Team
+
+Tentacruel @ Black Sludge
+Ability: Clear Body
+- Surf
+- Sludge Bomb
+- Giga Drain
+- Mirror Coat
+
+Absol @ Scope Lens
+Ability: Super Luck
+- Night Slash
+- Stone Edge
+- Perish Song
+- Psycho Cut

@@ -1,0 +1,27 @@
+Blastoise @ Iron Ball
+Ability: Torrent
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball
+
+Mantine @ Mystic Water
+Ability: Swift Swim
+- Bubble Beam
+- Aerial Ace
+- Rain Dance
+- Psybeam
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+- Mirror Coat
+- Recover
+- Waterfall
+- Earthquake
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash

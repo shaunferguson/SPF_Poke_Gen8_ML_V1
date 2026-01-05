@@ -1,0 +1,27 @@
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast
+
+Swampert @ Sitrus Berry
+Ability: Damp
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Latias @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire

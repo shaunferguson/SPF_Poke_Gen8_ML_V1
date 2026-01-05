@@ -1,0 +1,27 @@
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter
+
+Houndoom @ Focus Sash
+Ability: Flash Fire
+- Counter
+- Flame Charge
+- Crunch
+- Thunder Fang
+
+Porygon2 @ Leftovers
+Ability: Analytic
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam
+
+Wailord @ Wacan Berry
+Ability: Pressure
+- Defense Curl
+- Rollout
+- Waterfall
+- Avalanche

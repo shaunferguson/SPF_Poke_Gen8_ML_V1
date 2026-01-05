@@ -1,0 +1,27 @@
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Happiny @ Lucky Punch
+Ability: Serene Grace
+- Sweet Kiss
+- Psychic
+- Flamethrower
+- Shadow Ball
+
+Lombre @ Yache Berry
+Ability: Swift Swim
+- Water Pulse
+- Fake Out
+- Brick Break
+- Absorb
+
+Seel @ Aspear Berry
+Ability: Thick Fat
+- Aurora Beam
+- Dive
+- Encore
+- Surf

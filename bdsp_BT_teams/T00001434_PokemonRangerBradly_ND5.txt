@@ -1,0 +1,27 @@
+Marowak @ Thick Club
+Ability: Battle Armor
+- Brick Break
+- Earthquake
+- Rock Tomb
+- Iron Head
+
+Sceptile @ Leftovers
+Ability: Overgrow
+- Leech Seed
+- Double Team
+- Dragon Pulse
+- Giga Drain
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team
+
+Froslass @ Focus Band
+Ability: Cursed Body
+- Blizzard
+- Shadow Ball
+- Thunderbolt
+- Will-O-Wisp

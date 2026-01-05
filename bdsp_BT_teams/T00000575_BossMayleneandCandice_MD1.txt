@@ -1,0 +1,27 @@
+Hitmontop @ Sitrus Berry
+Ability: Intimidate
+- Close Combat
+- Fake Out
+- Wide Guard
+- Quick Guard
+
+Blaziken @ Muscle Band
+Ability: Speed Boost
+- Flare Blitz
+- Close Combat
+- Earthquake
+- Protect
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Night Slash
+- Ice Punch
+
+Abomasnow @ Choice Scarf
+Ability: Snow Warning
+- Blizzard
+- Energy Ball
+- Earth Power
+- Focus Blast

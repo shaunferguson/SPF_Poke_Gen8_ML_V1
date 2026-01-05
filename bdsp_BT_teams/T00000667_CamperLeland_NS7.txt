@@ -1,0 +1,20 @@
+Garchomp @ Persim Berry
+Ability: Rough Skin
+- Outrage
+- Swords Dance
+- Stone Edge
+- Earthquake
+
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake
+
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief

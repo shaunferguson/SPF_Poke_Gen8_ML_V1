@@ -1,0 +1,27 @@
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt
+
+Moltres @ Lax Incense
+Ability: Flame Body
+- Mystical Fire
+- Hurricane
+- Will-O-Wisp
+- Roost
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Calm Mind
+- Flamethrower
+- Substitute

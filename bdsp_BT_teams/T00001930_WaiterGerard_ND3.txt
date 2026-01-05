@@ -1,0 +1,27 @@
+Mightyena @ Mental Herb
+Ability: Intimidate
+- Bite
+- Poison Fang
+- Taunt
+- Roar
+
+Misdreavus @ Focus Band
+Ability: Levitate
+- Pain Split
+- Shadow Ball
+- Confuse Ray
+- Thunder Wave
+
+Monferno @ Coba Berry
+Ability: Blaze
+- Mach Punch
+- Feint
+- Torment
+- U-turn
+
+Gabite @ Yache Berry
+Ability: Rough Skin
+- Dragon Claw
+- Take Down
+- Sand Attack
+- Roar

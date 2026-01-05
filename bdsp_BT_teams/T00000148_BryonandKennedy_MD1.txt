@@ -1,0 +1,27 @@
+Rhyperior @ Muscle Band
+Ability: Solid Rock
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Thunder Punch
+
+Raikou @ Choice Specs
+Ability: Inner Focus
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+- Earthquake
+- Guillotine
+- Substitute
+- Protect
+
+Staraptor @ Choice Scarf
+Ability: Intimidate
+- Final Gambit
+- U-turn
+- -
+- -

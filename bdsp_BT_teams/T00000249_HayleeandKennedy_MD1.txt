@@ -1,0 +1,27 @@
+Politoed @ Bright Powder
+Ability: Drizzle
+- Surf
+- Focus Blast
+- Ice Beam
+- Perish Song
+
+Lanturn @ Expert Belt
+Ability: Volt Absorb
+- Thunderbolt
+- Charge
+- Scald
+- Surf
+
+Victreebel @ Power Herb
+Ability: Chlorophyll
+- Sludge Bomb
+- Energy Ball
+- Solar Beam
+- Synthesis
+
+Latios @ Lum Berry
+Ability: Levitate
+- Dragon Dance
+- Recover
+- Dragon Claw
+- Shadow Claw

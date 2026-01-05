@@ -1,0 +1,20 @@
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Miltank @ Muscle Band
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Seismic Toss

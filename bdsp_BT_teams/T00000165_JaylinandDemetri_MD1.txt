@@ -1,0 +1,27 @@
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Destiny Bond
+- Dazzling Gleam
+
+Staraptor @ Choice Scarf
+Ability: Intimidate
+- Final Gambit
+- U-turn
+- -
+- -
+
+Zapdos @ Magnet
+Ability: Static
+- Discharge
+- Volt Switch
+- Roost
+- Hurricane

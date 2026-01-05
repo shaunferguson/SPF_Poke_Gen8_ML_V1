@@ -1,0 +1,27 @@
+Claydol @ Sitrus Berry
+Ability: Levitate
+- Trick Room
+- Psychic
+- Ice Beam
+- Dazzling Gleam
+
+Cresselia @ Mental Herb
+Ability: Levitate
+- Trick Room
+- Icy Wind
+- Calm Mind
+- Psyshock
+
+Donphan @ Expert Belt
+Ability: Sturdy
+- Earthquake
+- Ice Shard
+- Play Rough
+- Rock Slide
+
+Rhyperior @ Muscle Band
+Ability: Solid Rock
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Thunder Punch

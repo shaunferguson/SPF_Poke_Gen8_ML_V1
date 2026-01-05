@@ -1,0 +1,27 @@
+Bastiodon @ Quick Claw
+Ability: Sturdy
+- Sandstorm
+- Thunder
+- Blizzard
+- Fire Blast
+
+Houndoom @ Passho Berry
+Ability: Flash Fire
+- Fire Fang
+- Thunder Fang
+- Crunch
+- Will-O-Wisp
+
+Metagross @ Wise Glasses
+Ability: Clear Body
+- Psychic
+- Flash Cannon
+- Shadow Ball
+- Sludge Bomb
+
+Probopass @ King's Rock
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Explosion

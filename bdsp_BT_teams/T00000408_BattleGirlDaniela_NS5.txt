@@ -1,0 +1,20 @@
+Kabutops @ Scope Lens
+Ability: Swift Swim
+- Slash
+- Dig
+- Night Slash
+- Metal Sound
+
+Raichu @ Wide Lens
+Ability: Lightning Rod
+- Thunderbolt
+- Quick Attack
+- Slam
+- Iron Tail
+
+Granbull @ Razor Claw
+Ability: Intimidate
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact

@@ -1,0 +1,20 @@
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout

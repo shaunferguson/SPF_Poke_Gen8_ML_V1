@@ -1,0 +1,27 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Minun @ Salac Berry
+Ability: Minus
+- Spark
+- Charm
+- Encore
+- Helping Hand
+
+Exeggcute @ Persim Berry
+Ability: Chlorophyll
+- Confusion
+- Giga Drain
+- Leech Seed
+- Light Screen
+
+Teddiursa @ Chesto Berry
+Ability: Pickup
+- Lick
+- Fake Tears
+- Brick Break
+- Rest

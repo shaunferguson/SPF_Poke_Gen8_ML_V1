@@ -1,0 +1,27 @@
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+- Earthquake
+- Guillotine
+- Substitute
+- Protect
+
+Hippowdon @ Life Orb
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Ice Fang
+- Yawn
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang

@@ -1,0 +1,20 @@
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief
+
+Blaziken @ Shell Bell
+Ability: Blaze
+- Aerial Ace
+- Flare Blitz
+- Will-O-Wisp
+- Bulk Up
+
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl

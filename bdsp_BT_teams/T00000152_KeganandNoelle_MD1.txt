@@ -1,0 +1,27 @@
+Staraptor @ Razor Claw
+Ability: Intimidate
+- Brave Bird
+- Roost
+- Endure
+- Endeavor
+
+Raikou @ Wise Glasses
+Ability: Pressure
+- Shadow Ball
+- Scald
+- Thunderbolt
+- Volt Switch
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+- Thunder Wave
+- Double Team
+- Substitute
+- Air Slash
+
+Mismagius @ Spell Tag
+Ability: Levitate
+- Shadow Ball
+- Payback
+- Energy Ball
+- Psychic

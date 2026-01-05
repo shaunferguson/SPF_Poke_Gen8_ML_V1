@@ -1,0 +1,20 @@
+Dugtrio @ Bright Powder
+Ability: Arena Trap
+- Swagger
+- Attract
+- Sand Attack
+- Sucker Punch
+
+Aggron @ Chople Berry
+Ability: Sturdy
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush
+
+Flareon @ Charcoal
+Ability: Flash Fire
+- Will-O-Wisp
+- Flare Blitz
+- Iron Tail
+- Quick Attack

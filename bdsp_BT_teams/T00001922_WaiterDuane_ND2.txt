@@ -1,0 +1,27 @@
+Remoraid @ Petaya Berry
+Ability: Sniper
+- Bubble Beam
+- Aurora Beam
+- Psybeam
+- Protect
+
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Buizel @ Wacan Berry
+Ability: Swift Swim
+- Aqua Jet
+- Quick Attack
+- Brick Break
+- Growl
+
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility

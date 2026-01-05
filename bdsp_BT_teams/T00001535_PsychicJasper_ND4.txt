@@ -1,0 +1,27 @@
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Metang @ Focus Band
+Ability: Clear Body
+- Metal Claw
+- Confusion
+- Take Down
+- Scary Face
+
+Kabutops @ Scope Lens
+Ability: Swift Swim
+- Slash
+- Dig
+- Night Slash
+- Metal Sound
+
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap

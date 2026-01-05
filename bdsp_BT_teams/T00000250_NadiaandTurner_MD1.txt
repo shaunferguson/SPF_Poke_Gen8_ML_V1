@@ -1,0 +1,27 @@
+Wailord @ Mystic Water
+Ability: Pressure
+- Water Spout
+- Brine
+- Whirlpool
+- Surf
+
+Tangrowth @ Leftovers
+Ability: Regenerator
+- Knock Off
+- Rock Tomb
+- Leech Seed
+- Poison Jab
+
+Tentacruel @ Black Sludge
+Ability: Clear Body
+- Surf
+- Sludge Bomb
+- Giga Drain
+- Mirror Coat
+
+Shiftry @ Focus Band
+Ability: Chlorophyll
+- Energy Ball
+- Dark Pulse
+- Focus Blast
+- Nasty Plot

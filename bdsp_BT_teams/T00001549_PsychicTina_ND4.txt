@@ -1,0 +1,27 @@
+Mantine @ Mystic Water
+Ability: Swift Swim
+- Bubble Beam
+- Aerial Ace
+- Rain Dance
+- Psybeam
+
+Marshtomp @ Focus Band
+Ability: Torrent
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Mud-Slap
+
+Banette @ Rawst Berry
+Ability: Cursed Body
+- Night Shade
+- Will-O-Wisp
+- Spite
+- Knock Off
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest

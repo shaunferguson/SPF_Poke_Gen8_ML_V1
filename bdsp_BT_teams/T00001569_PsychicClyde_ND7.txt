@@ -1,0 +1,27 @@
+Jolteon @ Magnet
+Ability: Volt Absorb
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn
+
+Muk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break
+
+Hippowdon @ Passho Berry
+Ability: Sand Stream
+- Yawn
+- Stealth Rock
+- Roar
+- Ice Fang
+
+Bastiodon @ Custap Berry
+Ability: Sturdy
+- Metal Burst
+- Taunt
+- Iron Head
+- Stone Edge

@@ -1,0 +1,20 @@
+Venusaur @ Power Herb
+Ability: Overgrow
+- Skull Bash
+- Worry Seed
+- Earthquake
+- Petal Dance
+
+Ambipom @ Bright Powder
+Ability: Technician
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit
+
+Quagsire @ Leftovers
+Ability: Water Absorb
+- Body Slam
+- Rock Slide
+- Ice Beam
+- Brick Break

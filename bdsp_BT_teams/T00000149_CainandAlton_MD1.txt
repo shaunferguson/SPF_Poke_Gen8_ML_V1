@@ -1,0 +1,27 @@
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+- Waterfall
+- Ice Punch
+- Crunch
+- Dragon Dance
+
+Probopass @ Custap Berry
+Ability: Sturdy
+- Flash Cannon
+- Dazzling Gleam
+- Volt Switch
+- Power Gem
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Protect
+- Perish Song

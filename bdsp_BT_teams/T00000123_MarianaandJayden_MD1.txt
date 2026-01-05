@@ -1,0 +1,27 @@
+Politoed @ Salac Berry
+Ability: Drizzle
+- Belly Drum
+- Waterfall
+- Earthquake
+- Rest
+
+Weezing @ Quick Claw
+Ability: Levitate
+- Sludge Bomb
+- Fire Blast
+- Dark Pulse
+- Destiny Bond
+
+Medicham @ Choice Scarf
+Ability: Pure Power
+- High Jump Kick
+- Thunder Punch
+- Zen Headbutt
+- Ice Punch
+
+Entei @ Leftovers
+Ability: Pressure
+- Fire Blast
+- Extrasensory
+- Shadow Ball
+- Calm Mind

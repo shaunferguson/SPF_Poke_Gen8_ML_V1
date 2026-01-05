@@ -1,0 +1,20 @@
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Ambipom @ Muscle Band
+Ability: Technician
+- Double Hit
+- Thief
+- Dual Chop
+- Fake Out
+
+Articuno @ Chesto Berry
+Ability: Pressure
+- Agility
+- Ice Beam
+- Water Pulse
+- Rest

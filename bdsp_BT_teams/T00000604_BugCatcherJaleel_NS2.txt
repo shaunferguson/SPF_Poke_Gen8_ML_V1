@@ -1,0 +1,20 @@
+Luxio @ Magnet
+Ability: Intimidate
+- Spark
+- Bite
+- Roar
+- Swagger
+
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Psyduck @ Persim Berry
+Ability: Cloud Nine
+- Confusion
+- Fury Swipes
+- Aerial Ace
+- Disable

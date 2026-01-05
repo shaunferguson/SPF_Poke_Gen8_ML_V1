@@ -1,0 +1,27 @@
+Skarmory @ Life Orb
+Ability: Weak Armor
+- Brave Bird
+- Iron Head
+- Swords Dance
+- Rock Slide
+
+Glalie @ Scope Lens
+Ability: Moody
+- Ice Beam
+- Shadow Ball
+- Water Pulse
+- Safeguard
+
+Toxicroak @ Light Ball
+Ability: Dry Skin
+- Fling
+- Poison Jab
+- Taunt
+- Sucker Punch
+
+Medicham @ Salac Berry
+Ability: Pure Power
+- Endure
+- Reversal
+- Psycho Cut
+- Thunder Punch

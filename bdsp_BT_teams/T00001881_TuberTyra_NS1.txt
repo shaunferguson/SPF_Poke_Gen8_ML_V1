@@ -1,0 +1,20 @@
+Riolu @ Focus Sash
+Ability: Prankster
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Rock Slide
+- Dig
+- Avalanche
+- Waterfall
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer

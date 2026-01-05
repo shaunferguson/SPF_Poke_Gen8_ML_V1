@@ -1,0 +1,27 @@
+Espeon @ Bright Powder
+Ability: Magic Bounce
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun
+
+Quagsire @ Quick Claw
+Ability: Water Absorb
+- Amnesia
+- Scald
+- Sludge Bomb
+- Recover
+
+Suicune @ Wacan Berry
+Ability: Pressure
+- Rest
+- Icy Wind
+- Calm Mind
+- Scald
+
+Ampharos @ Chesto Berry
+Ability: Static
+- Thunder Wave
+- Charge Beam
+- Dragon Pulse
+- Rest

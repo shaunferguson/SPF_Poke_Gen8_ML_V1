@@ -1,0 +1,27 @@
+Venusaur @ Black Sludge
+Ability: Chlorophyll
+- Sludge Bomb
+- Solar Beam
+- Earth Power
+- Energy Ball
+
+Roserade @ Life Orb
+Ability: Technician
+- Swift
+- Solar Beam
+- Energy Ball
+- Sludge Bomb
+
+Sableye @ Sitrus Berry
+Ability: Prankster
+- Sunny Day
+- Will-O-Wisp
+- Foul Play
+- Fake Out
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Icy Wind
+- Dazzling Gleam

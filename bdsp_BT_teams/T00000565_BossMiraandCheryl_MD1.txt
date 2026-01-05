@@ -1,0 +1,27 @@
+Zapdos @ Wise Glasses
+Ability: Static
+- Heat Wave
+- Hurricane
+- Thunderbolt
+- Volt Switch
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Dazzling Gleam
+- Focus Blast
+- Protect
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Icy Wind
+- Dazzling Gleam
+- Tri Attack
+- Flamethrower
+
+Porygon-Z @ Choice Scarf
+Ability: Adaptability
+- Tri Attack
+- Ice Beam
+- Thunderbolt
+- Dark Pulse

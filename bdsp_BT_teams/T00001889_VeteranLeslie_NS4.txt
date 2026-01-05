@@ -1,0 +1,20 @@
+Bellossom @ Power Herb
+Ability: Chlorophyll
+- Solar Beam
+- Safeguard
+- Sunny Day
+- Synthesis
+
+Crawdaunt @ Choice Band
+Ability: Adaptability
+- Superpower
+- Rock Slide
+- Knock Off
+- Aqua Jet
+
+Ninjask @ Petaya Berry
+Ability: Speed Boost
+- Baton Pass
+- Swords Dance
+- Endure
+- Dig

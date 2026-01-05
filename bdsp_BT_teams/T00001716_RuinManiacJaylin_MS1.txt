@@ -1,0 +1,20 @@
+Politoed @ Salac Berry
+Ability: Drizzle
+- Belly Drum
+- Waterfall
+- Earthquake
+- Rest
+
+Gliscor @ Yache Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Poison Jab
+- Thunder Fang
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

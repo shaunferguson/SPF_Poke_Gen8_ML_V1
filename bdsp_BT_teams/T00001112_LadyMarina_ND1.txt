@@ -1,0 +1,27 @@
+Vulpix @ Focus Sash
+Ability: Drought
+- Will-O-Wisp
+- Confuse Ray
+- Fire Spin
+- Quick Attack
+
+Bronzor @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Exeggcute @ Persim Berry
+Ability: Chlorophyll
+- Confusion
+- Giga Drain
+- Leech Seed
+- Light Screen
+
+Skorupi @ Payapa Berry
+Ability: Battle Armor
+- Poison Sting
+- Bite
+- Scary Face
+- Toxic Spikes

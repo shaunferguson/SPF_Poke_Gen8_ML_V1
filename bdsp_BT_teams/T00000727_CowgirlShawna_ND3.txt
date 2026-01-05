@@ -1,0 +1,27 @@
+Persian @ Silk Scarf
+Ability: Technician
+- Fake Out
+- Slash
+- Torment
+- Swagger
+
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+- Slash
+- Counter
+- Encore
+- Uproar
+
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm
+
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect

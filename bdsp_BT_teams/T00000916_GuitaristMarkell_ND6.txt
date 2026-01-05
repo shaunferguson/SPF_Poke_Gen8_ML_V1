@@ -1,0 +1,27 @@
+Cradily @ Focus Band
+Ability: Storm Drain
+- Stockpile
+- Recover
+- Leech Seed
+- Swagger
+
+Shiftry @ Leftovers
+Ability: Early Bird
+- Double Team
+- Leech Seed
+- Swagger
+- Synthesis
+
+Armaldo @ Wide Lens
+Ability: Battle Armor
+- Stone Edge
+- Slash
+- X-Scissor
+- Iron Tail
+
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl

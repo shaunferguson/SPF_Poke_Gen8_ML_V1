@@ -1,0 +1,20 @@
+Regice @ Shell Bell
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Hyper Beam
+- Flash Cannon
+
+Armaldo @ Focus Band
+Ability: Battle Armor
+- Sandstorm
+- Brick Break
+- Aerial Ace
+- Giga Impact
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

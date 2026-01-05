@@ -1,0 +1,20 @@
+Staraptor @ Muscle Band
+Ability: Reckless
+- Brave Bird
+- Double-Edge
+- U-turn
+- Feather Dance
+
+Dewgong @ Chesto Berry
+Ability: Thick Fat
+- Encore
+- Disable
+- Rest
+- Ice Beam
+
+Lickilicky @ Expert Belt
+Ability: Oblivious
+- Surf
+- Ice Beam
+- Thunderbolt
+- Shadow Ball

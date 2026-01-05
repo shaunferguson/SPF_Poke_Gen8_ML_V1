@@ -1,0 +1,20 @@
+Whiscash @ Chesto Berry
+Ability: Oblivious
+- Fissure
+- Amnesia
+- Spark
+- Rest
+
+Leafeon @ Shed Shell
+Ability: Chlorophyll
+- Grass Knot
+- Aerial Ace
+- Energy Ball
+- Bite
+
+Meganium @ Light Clay
+Ability: Overgrow
+- Leech Seed
+- Leaf Storm
+- Light Screen
+- Reflect

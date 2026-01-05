@@ -1,0 +1,20 @@
+Registeel @ Quick Claw
+Ability: Clear Body
+- Explosion
+- Double Team
+- Swagger
+- Substitute
+
+Golduck @ Wide Lens
+Ability: Cloud Nine
+- Hydro Pump
+- Zen Headbutt
+- Shadow Claw
+- Brine
+
+Wailord @ Mystic Water
+Ability: Pressure
+- Water Spout
+- Brine
+- Whirlpool
+- Surf

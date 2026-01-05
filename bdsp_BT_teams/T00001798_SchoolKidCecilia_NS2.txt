@@ -1,0 +1,20 @@
+Volbeat @ Liechi Berry
+Ability: Swarm
+- Bug Buzz
+- Confuse Ray
+- Quick Attack
+- Helping Hand
+
+Kadabra @ Twisted Spoon
+Ability: Inner Focus
+- Confusion
+- Role Play
+- Future Sight
+- Disable
+
+Murkrow @ Wacan Berry
+Ability: Prankster
+- Dark Pulse
+- Fly
+- Torment
+- Taunt

@@ -1,0 +1,27 @@
+Tangrowth @ Occa Berry
+Ability: Regenerator
+- Giga Drain
+- Sludge Bomb
+- Focus Blast
+- Sleep Powder
+
+Torterra @ Figy Berry
+Ability: Shell Armor
+- Wood Hammer
+- Crunch
+- Earthquake
+- Rock Slide
+
+Dusknoir @ Sitrus Berry
+Ability: Pressure
+- Trick Room
+- Fire Punch
+- Ice Punch
+- Rock Slide
+
+Banette @ Muscle Band
+Ability: Cursed Body
+- Shadow Sneak
+- Knock Off
+- Gunk Shot
+- Phantom Force

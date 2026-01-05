@@ -1,0 +1,27 @@
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Lickitung @ Sitrus Berry
+Ability: Own Tempo
+- Slam
+- Brick Break
+- Lick
+- Screech
+
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize
+
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block

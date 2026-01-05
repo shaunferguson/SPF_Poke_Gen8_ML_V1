@@ -1,0 +1,27 @@
+Squirtle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Withdraw
+- Protect
+
+Burmy @ Choice Scarf
+Ability: Shed Skin
+- Bug Bite
+- String Shot
+- -
+- -
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect
+
+Snover @ Icy Rock
+Ability: Snow Warning
+- Razor Leaf
+- Icy Wind
+- Blizzard
+- Ice Shard

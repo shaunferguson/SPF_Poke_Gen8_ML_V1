@@ -1,0 +1,27 @@
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Altaria @ Petaya Berry
+Ability: Cloud Nine
+- Dragon Pulse
+- Roost
+- Perish Song
+- Protect
+
+Rapidash @ Chesto Berry
+Ability: Flame Body
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Rest
+
+Roserade @ Big Root
+Ability: Poison Point
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute

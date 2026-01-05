@@ -1,0 +1,20 @@
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Salamence @ King's Rock
+Ability: Intimidate
+- Dragon Dance
+- Earthquake
+- Outrage
+- Zen Headbutt
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance

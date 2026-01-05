@@ -1,0 +1,20 @@
+Rhyperior @ Expert Belt
+Ability: Solid Rock
+- Rock Wrecker
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Hippowdon @ Passho Berry
+Ability: Sand Stream
+- Yawn
+- Stealth Rock
+- Roar
+- Ice Fang
+
+Meganium @ Occa Berry
+Ability: Overgrow
+- Solar Beam
+- Sunny Day
+- Synthesis
+- Ancient Power

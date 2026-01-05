@@ -1,0 +1,20 @@
+Torterra @ White Herb
+Ability: Overgrow
+- Leaf Storm
+- Worry Seed
+- Earthquake
+- Bite
+
+Salamence @ Cheri Berry
+Ability: Intimidate
+- Fly
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Kingdra @ Razor Claw
+Ability: Sniper
+- Waterfall
+- Focus Energy
+- Dragon Dance
+- Yawn

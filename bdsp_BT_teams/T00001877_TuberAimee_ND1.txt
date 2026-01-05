@@ -1,0 +1,27 @@
+Swablu @ Mental Herb
+Ability: Cloud Nine
+- Take Down
+- Dream Eater
+- Sing
+- Attract
+
+Squirtle @ Sitrus Berry
+Ability: Torrent
+- Water Pulse
+- Brine
+- Ice Beam
+- Protect
+
+Psyduck @ Persim Berry
+Ability: Cloud Nine
+- Confusion
+- Fury Swipes
+- Aerial Ace
+- Disable
+
+Snover @ Icy Rock
+Ability: Snow Warning
+- Razor Leaf
+- Icy Wind
+- Blizzard
+- Ice Shard

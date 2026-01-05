@@ -1,0 +1,27 @@
+Murkrow @ Wacan Berry
+Ability: Prankster
+- Dark Pulse
+- Fly
+- Torment
+- Taunt
+
+Kricketune @ Metronome
+Ability: Swarm
+- Fury Cutter
+- Sticky Web
+- Sing
+- Growl
+
+Delcatty @ Sitrus Berry
+Ability: Cute Charm
+- Fake Out
+- Sing
+- Double Team
+- Shadow Ball
+
+Sableye @ Black Glasses
+Ability: Prankster
+- Will-O-Wisp
+- Confuse Ray
+- Night Shade
+- Fake Out

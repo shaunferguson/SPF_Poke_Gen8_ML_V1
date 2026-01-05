@@ -1,0 +1,27 @@
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Rhydon @ Smooth Rock
+Ability: Lightning Rod
+- Rock Blast
+- Fire Fang
+- Earthquake
+- Avalanche
+
+Magmortar @ Sitrus Berry
+Ability: Flame Body
+- Overheat
+- Thunderbolt
+- Psychic
+- Belch
+
+Tyranitar @ Expert Belt
+Ability: Sand Stream
+- Dark Pulse
+- Ice Beam
+- Flamethrower
+- Ancient Power

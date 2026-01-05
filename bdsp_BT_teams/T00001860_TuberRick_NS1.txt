@@ -1,0 +1,20 @@
+Piplup @ Wacan Berry
+Ability: Torrent
+- Bubble Beam
+- Peck
+- Growl
+- Mist
+
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

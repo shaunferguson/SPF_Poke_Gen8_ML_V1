@@ -1,0 +1,27 @@
+Espeon @ Light Clay
+Ability: Magic Bounce
+- Psychic
+- Dazzling Gleam
+- Reflect
+- Light Screen
+
+Togekiss @ Choice Scarf
+Ability: Serene Grace
+- Air Slash
+- Flamethrower
+- Aura Sphere
+- Grass Knot
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Fake Out
+- Ice Punch
+- Night Slash
+- Ice Shard
+
+Entei @ Muscle Band
+Ability: Inner Focus
+- Sacred Fire
+- Extreme Speed
+- Bulldoze
+- Iron Head

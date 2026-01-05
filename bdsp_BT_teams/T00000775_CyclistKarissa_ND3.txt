@@ -1,0 +1,27 @@
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+- Slash
+- Counter
+- Encore
+- Uproar
+
+Dustox @ Silver Powder
+Ability: Shield Dust
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen
+
+Dunsparce @ Lax Incense
+Ability: Serene Grace
+- Headbutt
+- Glare
+- Defense Curl
+- Rollout

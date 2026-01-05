@@ -1,0 +1,27 @@
+Golem @ Passho Berry
+Ability: Sturdy
+- Substitute
+- Focus Punch
+- Earthquake
+- Rock Blast
+
+Cresselia @ Focus Band
+Ability: Levitate
+- Lunar Dance
+- Safeguard
+- Future Sight
+- Psychic
+
+Electrode @ Jaboca Berry
+Ability: Aftermath
+- Thunderbolt
+- Volt Switch
+- Swift
+- Thunder Wave
+
+Hariyama @ Quick Claw
+Ability: Thick Fat
+- Belly Drum
+- Brick Break
+- Earthquake
+- Stone Edge

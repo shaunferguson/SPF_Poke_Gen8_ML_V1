@@ -1,0 +1,27 @@
+Rhydon @ Wise Glasses
+Ability: Lightning Rod
+- Ice Beam
+- Thunderbolt
+- Dragon Pulse
+- Surf
+
+Relicanth @ Liechi Berry
+Ability: Sturdy
+- Ancient Power
+- Water Pulse
+- Harden
+- Amnesia
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team
+
+Hariyama @ Bright Powder
+Ability: Thick Fat
+- Sand Attack
+- Focus Punch
+- Rock Tomb
+- Fake Out

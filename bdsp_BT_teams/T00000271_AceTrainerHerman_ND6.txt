@@ -1,0 +1,27 @@
+Ninetales @ Rawst Berry
+Ability: Drought
+- Solar Beam
+- Disable
+- Will-O-Wisp
+- Flamethrower
+
+Muk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray

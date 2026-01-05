@@ -1,0 +1,20 @@
+Zapdos @ Choice Scarf
+Ability: Static
+- Thunderbolt
+- Volt Switch
+- Heat Wave
+- Hurricane
+
+Rotom @ Sitrus Berry
+Ability: Levitate
+- Overheat
+- Thunderbolt
+- Volt Switch
+- Will-O-Wisp
+
+Swampert @ Life Orb
+Ability: Torrent
+- Earthquake
+- Waterfall
+- Ice Punch
+- Counter

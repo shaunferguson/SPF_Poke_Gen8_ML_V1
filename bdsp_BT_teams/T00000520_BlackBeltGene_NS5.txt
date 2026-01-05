@@ -1,0 +1,27 @@
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl
+
+Vileplume @ Big Root
+Ability: Chlorophyll
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Victreebel @ Sitrus Berry
+Ability: Gluttony
+- Leaf Blade
+- Poison Jab
+- Leech Life
+- Strength Sap
+
+Shiftry @ Leftovers
+Ability: Early Bird
+- Double Team
+- Leech Seed
+- Swagger
+- Synthesis

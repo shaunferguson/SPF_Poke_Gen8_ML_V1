@@ -1,0 +1,27 @@
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Gabite @ Yache Berry
+Ability: Rough Skin
+- Dragon Claw
+- Take Down
+- Sand Attack
+- Roar
+
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn

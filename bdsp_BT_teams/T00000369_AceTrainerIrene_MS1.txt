@@ -1,0 +1,20 @@
+Espeon @ Light Clay
+Ability: Magic Bounce
+- Reflect
+- Dazzling Gleam
+- Baton Pass
+- Light Screen
+
+Cloyster @ King's Rock
+Ability: Skill Link
+- Shell Smash
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+
+Raikou @ Shuca Berry
+Ability: Pressure
+- Thunderbolt
+- Scald
+- Shadow Ball
+- Calm Mind

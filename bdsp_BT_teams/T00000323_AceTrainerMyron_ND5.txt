@@ -1,0 +1,27 @@
+Ninjask @ Petaya Berry
+Ability: Speed Boost
+- Baton Pass
+- Swords Dance
+- Endure
+- Dig
+
+Skuntank @ Bright Powder
+Ability: Aftermath
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough
+
+Whiscash @ Leftovers
+Ability: Hydration
+- Earthquake
+- Water Pulse
+- Tickle
+- Sandstorm
+
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm

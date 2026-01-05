@@ -1,0 +1,27 @@
+Machamp @ Focus Sash
+Ability: No Guard
+- Counter
+- Dynamic Punch
+- Payback
+- Earthquake
+
+Yanmega @ Charti Berry
+Ability: Speed Boost
+- Aerial Ace
+- Steel Wing
+- Thief
+- U-turn
+
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash
+
+Honchkrow @ Power Herb
+Ability: Super Luck
+- Night Slash
+- Sky Attack
+- Brave Bird
+- Payback

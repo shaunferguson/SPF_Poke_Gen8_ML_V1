@@ -1,0 +1,27 @@
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Tyranitar @ Expert Belt
+Ability: Sand Stream
+- Dark Pulse
+- Ice Beam
+- Flamethrower
+- Ancient Power
+
+Infernape @ Muscle Band
+Ability: Blaze
+- Flare Blitz
+- Thunder Punch
+- Close Combat
+- U-turn
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Counter
+- Encore
+- Body Slam
+- Slack Off

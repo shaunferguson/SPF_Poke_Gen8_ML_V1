@@ -1,0 +1,27 @@
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Quilava @ Focus Band
+Ability: Blaze
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm
+
+Prinplup @ Wacan Berry
+Ability: Torrent
+- Whirlpool
+- Metal Claw
+- Peck
+- Double Team

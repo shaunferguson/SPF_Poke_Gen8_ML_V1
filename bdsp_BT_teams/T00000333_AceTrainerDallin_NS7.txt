@@ -1,0 +1,20 @@
+Magnezone @ Quick Claw
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Synthesis
+- Leaf Blade
+- Leech Seed
+- Yawn
+
+Meganium @ Occa Berry
+Ability: Overgrow
+- Solar Beam
+- Sunny Day
+- Synthesis
+- Ancient Power

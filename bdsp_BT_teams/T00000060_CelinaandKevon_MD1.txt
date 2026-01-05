@@ -1,0 +1,27 @@
+Regigigas @ Shell Bell
+Ability: Slow Start
+- Thunderbolt
+- Focus Blast
+- Earthquake
+- Drain Punch
+
+Altaria @ Dragon Fang
+Ability: Cloud Nine
+- Roost
+- Dragon Pulse
+- Hyper Voice
+- Dragon Claw
+
+Venusaur @ Quick Claw
+Ability: Overgrow
+- Earthquake
+- Outrage
+- Petal Blizzard
+- Curse
+
+Alakazam @ Colbur Berry
+Ability: Magic Guard
+- Psychic
+- Calm Mind
+- Shadow Ball
+- Future Sight

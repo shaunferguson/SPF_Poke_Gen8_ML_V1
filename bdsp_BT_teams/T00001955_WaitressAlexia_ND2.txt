@@ -1,0 +1,27 @@
+Lickitung @ Sitrus Berry
+Ability: Own Tempo
+- Slam
+- Brick Break
+- Lick
+- Screech
+
+Beedrill @ Focus Sash
+Ability: Swarm
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Buizel @ Wacan Berry
+Ability: Swift Swim
+- Aqua Jet
+- Quick Attack
+- Brick Break
+- Growl
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect

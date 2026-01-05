@@ -1,0 +1,20 @@
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray
+
+Machamp @ Focus Sash
+Ability: No Guard
+- Counter
+- Dynamic Punch
+- Payback
+- Earthquake

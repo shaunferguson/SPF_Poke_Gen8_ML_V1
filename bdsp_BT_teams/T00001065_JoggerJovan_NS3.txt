@@ -1,0 +1,20 @@
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+- Slash
+- Counter
+- Encore
+- Uproar
+
+Dragonair @ Cheri Berry
+Ability: Shed Skin
+- Dragon Breath
+- Leer
+- Wrap
+- Safeguard
+
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace

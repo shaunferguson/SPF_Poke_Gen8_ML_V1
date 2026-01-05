@@ -1,0 +1,27 @@
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball
+
+Porygon2 @ Leftovers
+Ability: Analytic
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam
+
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Ampharos @ Toxic Orb
+Ability: Static
+- Thunder Wave
+- Facade
+- Fling
+- Rest

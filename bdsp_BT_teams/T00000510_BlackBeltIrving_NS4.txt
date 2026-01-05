@@ -1,0 +1,27 @@
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Kabutops @ Scope Lens
+Ability: Swift Swim
+- Slash
+- Dig
+- Night Slash
+- Metal Sound
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Tropius @ Sitrus Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Whirlwind
+- Aerial Ace
+- Steel Wing

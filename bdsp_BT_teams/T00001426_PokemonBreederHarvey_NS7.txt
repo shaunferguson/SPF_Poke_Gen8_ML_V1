@@ -1,0 +1,20 @@
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Jolteon @ Magnet
+Ability: Volt Absorb
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn

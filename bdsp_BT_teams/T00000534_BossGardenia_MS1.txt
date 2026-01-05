@@ -1,0 +1,20 @@
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Bullet Seed
+- Rock Tomb
+
+Cradily @ Leftovers
+Ability: Storm Drain
+- Giga Drain
+- Leech Seed
+- Sludge Bomb
+- Stockpile
+
+Roserade @ White Herb
+Ability: Poison Point
+- Leaf Storm
+- Sludge Bomb
+- Shadow Ball
+- Dazzling Gleam

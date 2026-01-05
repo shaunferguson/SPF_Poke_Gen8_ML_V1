@@ -1,0 +1,27 @@
+Latios @ Lum Berry
+Ability: Levitate
+- Dragon Dance
+- Recover
+- Dragon Claw
+- Shadow Claw
+
+Tauros @ Leftovers
+Ability: Intimidate
+- Double-Edge
+- Payback
+- Stone Edge
+- Substitute
+
+Heracross @ Scope Lens
+Ability: Moxie
+- Close Combat
+- Aerial Ace
+- Night Slash
+- Bulk Up
+
+Latias @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Energy Ball
+- Grass Knot
+- Recover

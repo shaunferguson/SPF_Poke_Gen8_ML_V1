@@ -1,0 +1,27 @@
+Banette @ Rawst Berry
+Ability: Cursed Body
+- Night Shade
+- Will-O-Wisp
+- Spite
+- Knock Off
+
+Rotom @ Cheri Berry
+Ability: Levitate
+- Thunderbolt
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Seaking @ Sitrus Berry
+Ability: Lightning Rod
+- Water Pulse
+- Psybeam
+- Poison Jab
+- Agility
+
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap

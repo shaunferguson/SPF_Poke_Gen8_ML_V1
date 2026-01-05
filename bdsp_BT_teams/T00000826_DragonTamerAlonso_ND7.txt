@@ -1,0 +1,27 @@
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Poliwrath @ Rindo Berry
+Ability: Water Absorb
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Mind Reader
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Synthesis
+- Leaf Blade
+- Leech Seed
+- Yawn
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain

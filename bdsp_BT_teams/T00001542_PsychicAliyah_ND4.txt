@@ -1,0 +1,27 @@
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash
+
+Chansey @ Sitrus Berry
+Ability: Serene Grace
+- Substitute
+- Seismic Toss
+- Soft-Boiled
+- Minimize
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down

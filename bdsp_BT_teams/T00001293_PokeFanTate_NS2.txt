@@ -1,0 +1,20 @@
+Roselia @ Black Sludge
+Ability: Poison Point
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore
+
+Combee @ Quick Claw
+Ability: Honey Gather
+- Sweet Scent
+- Gust
+- -
+- -
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze

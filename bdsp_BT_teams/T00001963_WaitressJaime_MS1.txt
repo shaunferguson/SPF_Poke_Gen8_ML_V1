@@ -1,0 +1,20 @@
+Rhyperior @ Muscle Band
+Ability: Solid Rock
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Thunder Punch
+
+Machamp @ Flame Orb
+Ability: Guts
+- Close Combat
+- Ice Punch
+- Knock Off
+- Bullet Punch
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Dazzling Gleam
+- Ice Beam
+- Psychic

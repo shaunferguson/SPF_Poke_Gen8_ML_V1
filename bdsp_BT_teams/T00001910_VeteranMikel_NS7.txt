@@ -1,0 +1,20 @@
+Armaldo @ Wide Lens
+Ability: Battle Armor
+- Stone Edge
+- Slash
+- X-Scissor
+- Iron Tail
+
+Glaceon @ Leftovers
+Ability: Ice Body
+- Mirror Coat
+- Tail Whip
+- Sand Attack
+- Last Resort
+
+Lucario @ Bright Powder
+Ability: Inner Focus
+- Dark Pulse
+- Dragon Pulse
+- Aura Sphere
+- Nasty Plot

@@ -1,0 +1,27 @@
+Salamence @ Cheri Berry
+Ability: Intimidate
+- Fly
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Cradily @ Focus Band
+Ability: Storm Drain
+- Stockpile
+- Recover
+- Leech Seed
+- Swagger
+
+Crobat @ Sharp Beak
+Ability: Inner Focus
+- Brave Bird
+- Zen Headbutt
+- Cross Poison
+- U-turn
+
+Probopass @ Rock Incense
+Ability: Sturdy
+- Rock Polish
+- Stealth Rock
+- Lock-On
+- Stone Edge

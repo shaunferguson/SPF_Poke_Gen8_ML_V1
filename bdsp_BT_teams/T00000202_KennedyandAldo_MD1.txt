@@ -1,0 +1,27 @@
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Foul Play
+- Swagger
+- Yawn
+- Protect
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+- Earthquake
+- Guillotine
+- Substitute
+- Protect

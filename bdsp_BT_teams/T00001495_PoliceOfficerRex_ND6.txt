@@ -1,0 +1,27 @@
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Muk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break
+
+Steelix @ Occa Berry
+Ability: Sturdy
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter

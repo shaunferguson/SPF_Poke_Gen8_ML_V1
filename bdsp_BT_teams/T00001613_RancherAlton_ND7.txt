@@ -1,0 +1,27 @@
+Walrein @ Quick Claw
+Ability: Thick Fat
+- Rest
+- Sleep Talk
+- Sheer Cold
+- Fissure
+
+Blastoise @ Power Herb
+Ability: Torrent
+- Skull Bash
+- Earthquake
+- Waterfall
+- Aqua Jet
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass
+
+Torterra @ White Herb
+Ability: Overgrow
+- Leaf Storm
+- Worry Seed
+- Earthquake
+- Bite

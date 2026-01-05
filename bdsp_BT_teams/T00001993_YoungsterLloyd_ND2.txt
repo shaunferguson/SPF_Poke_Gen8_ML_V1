@@ -1,0 +1,27 @@
+Anorith @ Scope Lens
+Ability: Battle Armor
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun
+
+Torchic @ Sitrus Berry
+Ability: Blaze
+- Will-O-Wisp
+- Feather Dance
+- Double Team
+- Flamethrower
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

@@ -1,0 +1,27 @@
+Gastrodon @ Bright Powder
+Ability: Storm Drain
+- Earth Power
+- Scald
+- Ice Beam
+- Yawn
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Counter
+- Encore
+- Body Slam
+- Slack Off
+
+Crobat @ Sharp Beak
+Ability: Inner Focus
+- Brave Bird
+- Zen Headbutt
+- Cross Poison
+- U-turn
+
+Machamp @ Focus Sash
+Ability: No Guard
+- Counter
+- Dynamic Punch
+- Payback
+- Earthquake

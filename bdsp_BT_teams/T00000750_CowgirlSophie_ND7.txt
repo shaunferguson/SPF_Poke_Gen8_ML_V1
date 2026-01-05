@@ -1,0 +1,27 @@
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Salamence @ Cheri Berry
+Ability: Intimidate
+- Fly
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Empoleon @ Wacan Berry
+Ability: Torrent
+- Drill Peck
+- Brick Break
+- Aqua Jet
+- Ice Beam
+
+Feraligatr @ Wise Glasses
+Ability: Torrent
+- Hydro Pump
+- Ice Beam
+- Dragon Pulse
+- Ancient Power

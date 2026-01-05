@@ -1,0 +1,20 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Croagunk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Mud-Slap
+- Taunt
+- Swagger
+
+Drifloon @ Grip Claw
+Ability: Aftermath
+- Shadow Ball
+- Will-O-Wisp
+- Gust
+- Astonish

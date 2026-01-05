@@ -1,0 +1,20 @@
+Espeon @ Bright Powder
+Ability: Magic Bounce
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun
+
+Zapdos @ King's Rock
+Ability: Pressure
+- Drill Peck
+- U-turn
+- Steel Wing
+- Ancient Power
+
+Altaria @ White Herb
+Ability: Cloud Nine
+- Draco Meteor
+- Hyper Beam
+- Ice Beam
+- Flamethrower

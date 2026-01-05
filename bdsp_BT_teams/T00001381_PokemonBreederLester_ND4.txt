@@ -1,0 +1,27 @@
+Carnivine @ Rose Incense
+Ability: Levitate
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Chansey @ Sitrus Berry
+Ability: Serene Grace
+- Substitute
+- Seismic Toss
+- Soft-Boiled
+- Minimize
+
+Hitmonchan @ King's Rock
+Ability: Iron Fist
+- Mach Punch
+- Ice Punch
+- Detect
+- Counter

@@ -1,0 +1,27 @@
+Zapdos @ King's Rock
+Ability: Pressure
+- Drill Peck
+- U-turn
+- Steel Wing
+- Ancient Power
+
+Weezing @ Bright Powder
+Ability: Levitate
+- Sludge Bomb
+- Fire Blast
+- Will-O-Wisp
+- Pain Split
+
+Whiscash @ Chesto Berry
+Ability: Oblivious
+- Fissure
+- Amnesia
+- Spark
+- Rest
+
+Altaria @ White Herb
+Ability: Cloud Nine
+- Draco Meteor
+- Hyper Beam
+- Ice Beam
+- Flamethrower

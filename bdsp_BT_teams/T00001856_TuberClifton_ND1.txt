@@ -1,0 +1,27 @@
+Snorunt @ King's Rock
+Ability: Moody
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Shuppet @ Rawst Berry
+Ability: Insomnia
+- Will-O-Wisp
+- Shadow Sneak
+- Grudge
+- Knock Off
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn
+
+Mime Jr. @ Lax Incense
+Ability: Soundproof
+- Copycat
+- Confusion
+- Reflect
+- Light Screen

@@ -1,0 +1,27 @@
+Mismagius @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Confuse Ray
+- Perish Song
+- Mean Look
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Machamp @ Focus Sash
+Ability: No Guard
+- Counter
+- Dynamic Punch
+- Payback
+- Earthquake
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower

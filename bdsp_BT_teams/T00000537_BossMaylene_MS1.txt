@@ -1,0 +1,20 @@
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Bullet Seed
+- Rock Tomb
+
+Blaziken @ Life Orb
+Ability: Speed Boost
+- Protect
+- Flare Blitz
+- Close Combat
+- Rock Slide
+
+Empoleon @ Choice Scarf
+Ability: Torrent
+- Hydro Pump
+- Flash Cannon
+- Ice Beam
+- Grass Knot

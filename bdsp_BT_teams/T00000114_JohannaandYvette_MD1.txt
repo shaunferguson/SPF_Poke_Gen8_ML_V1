@@ -1,0 +1,27 @@
+Regice @ Chesto Berry
+Ability: Clear Body
+- Ice Beam
+- Ancient Power
+- Charge Beam
+- Rest
+
+Shiftry @ Quick Claw
+Ability: Chlorophyll
+- Explosion
+- Fake Out
+- X-Scissor
+- Sucker Punch
+
+Houndoom @ White Herb
+Ability: Flash Fire
+- Sunny Day
+- Overheat
+- Solar Beam
+- Dark Pulse
+
+Mr. Mime @ Light Clay
+Ability: Filter
+- Psychic
+- Light Screen
+- Reflect
+- Thunder Wave

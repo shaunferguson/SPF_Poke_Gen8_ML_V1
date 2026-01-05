@@ -1,0 +1,27 @@
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Acid Armor
+- Rest
+
+Infernape @ Muscle Band
+Ability: Blaze
+- Flare Blitz
+- Thunder Punch
+- Close Combat
+- U-turn
+
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power

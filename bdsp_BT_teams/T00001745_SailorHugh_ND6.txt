@@ -1,0 +1,27 @@
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Claydol @ Hard Stone
+Ability: Levitate
+- Rock Polish
+- Earthquake
+- Rock Slide
+- Psychic
+
+Ninetales @ Rawst Berry
+Ability: Drought
+- Solar Beam
+- Disable
+- Will-O-Wisp
+- Flamethrower

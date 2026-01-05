@@ -1,0 +1,27 @@
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb
+
+Claydol @ Leftovers
+Ability: Levitate
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
+
+Probopass @ Custap Berry
+Ability: Sturdy
+- Flash Cannon
+- Dazzling Gleam
+- Volt Switch
+- Power Gem

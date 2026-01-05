@@ -1,0 +1,27 @@
+Arbok @ Persim Berry
+Ability: Intimidate
+- Poison Fang
+- Dig
+- Bite
+- Glare
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Mightyena @ Mental Herb
+Ability: Intimidate
+- Bite
+- Poison Fang
+- Taunt
+- Roar
+
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis

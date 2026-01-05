@@ -1,0 +1,27 @@
+Stunky @ Poison Barb
+Ability: Aftermath
+- Poison Gas
+- Fury Swipes
+- Screech
+- Smokescreen
+
+Butterfree @ Leftovers
+Ability: Compound Eyes
+- Sleep Powder
+- Quiver Dance
+- Substitute
+- Bug Buzz
+
+Nidorino @ Focus Band
+Ability: Poison Point
+- Double Kick
+- Water Pulse
+- Toxic Spikes
+- Flatter
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn

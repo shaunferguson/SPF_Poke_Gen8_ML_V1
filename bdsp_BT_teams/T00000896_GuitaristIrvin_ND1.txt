@@ -1,0 +1,27 @@
+Totodile @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Screech
+- Scary Face
+
+Venonat @ Sitrus Berry
+Ability: Compound Eyes
+- Psybeam
+- Supersonic
+- Stun Spore
+- Skill Swap
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize
+
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility

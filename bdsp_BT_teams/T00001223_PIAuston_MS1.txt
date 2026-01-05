@@ -1,0 +1,20 @@
+Drifblim @ Sitrus Berry
+Ability: Unburden
+- Baton Pass
+- Will-O-Wisp
+- Strength Sap
+- Minimize
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance

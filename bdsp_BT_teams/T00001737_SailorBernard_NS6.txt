@@ -1,0 +1,20 @@
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Bronzong @ Twisted Spoon
+Ability: Levitate
+- Trick Room
+- Gyro Ball
+- Flash Cannon
+- Hypnosis

@@ -1,0 +1,20 @@
+Slowking @ Wise Glasses
+Ability: Own Tempo
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam
+
+Steelix @ Occa Berry
+Ability: Sturdy
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Rapidash @ Chesto Berry
+Ability: Flame Body
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Rest

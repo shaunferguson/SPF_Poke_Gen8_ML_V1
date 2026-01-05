@@ -1,0 +1,20 @@
+Butterfree @ Leftovers
+Ability: Compound Eyes
+- Sleep Powder
+- Quiver Dance
+- Substitute
+- Bug Buzz
+
+Beautifly @ Mental Herb
+Ability: Swarm
+- Bug Buzz
+- Mega Drain
+- Attract
+- Quiver Dance
+
+Magby @ Lax Incense
+Ability: Flame Body
+- Fire Punch
+- Smokescreen
+- Confuse Ray
+- Smog

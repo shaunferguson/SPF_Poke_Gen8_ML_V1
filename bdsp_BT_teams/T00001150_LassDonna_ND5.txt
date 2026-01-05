@@ -1,0 +1,27 @@
+Granbull @ Razor Claw
+Ability: Intimidate
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact
+
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap
+
+Shiftry @ Leftovers
+Ability: Early Bird
+- Double Team
+- Leech Seed
+- Swagger
+- Synthesis
+
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm

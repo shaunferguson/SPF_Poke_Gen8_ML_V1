@@ -1,0 +1,20 @@
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Giga Impact
+- Earthquake
+- Night Slash
+- Hammer Arm
+
+Quagsire @ Leftovers
+Ability: Unaware
+- Stockpile
+- Whirlpool
+- Toxic
+- Recover

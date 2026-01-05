@@ -1,0 +1,27 @@
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Leaf Blade
+- Leech Seed
+- Synthesis
+- Protect
+
+Weezing @ Black Sludge
+Ability: Levitate
+- Fire Blast
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Protect
+- Perish Song
+
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+- Blizzard
+- Giga Drain
+- Earth Power
+- Ice Shard

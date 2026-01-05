@@ -1,0 +1,20 @@
+Blaziken @ Focus Sash
+Ability: Speed Boost
+- Fire Punch
+- Close Combat
+- Acrobatics
+- Swords Dance
+
+Salamence @ Choice Scarf
+Ability: Moxie
+- Outrage
+- Thrash
+- Crunch
+- Earthquake
+
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass

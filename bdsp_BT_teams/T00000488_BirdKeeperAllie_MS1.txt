@@ -1,0 +1,20 @@
+Lapras @ Sitrus Berry
+Ability: Water Absorb
+- Surf
+- Freeze-Dry
+- Thunderbolt
+- Sheer Cold
+
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head
+
+Electivire @ Focus Sash
+Ability: Motor Drive
+- Wild Charge
+- Earthquake
+- Ice Punch
+- Quick Attack

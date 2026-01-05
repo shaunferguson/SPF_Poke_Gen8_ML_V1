@@ -1,0 +1,27 @@
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize
+
+Weepinbell @ Aguav Berry
+Ability: Gluttony
+- Razor Leaf
+- Acid
+- Wrap
+- Sweet Scent
+
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore

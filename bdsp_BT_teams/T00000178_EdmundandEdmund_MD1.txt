@@ -1,0 +1,27 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Destiny Bond
+- Dazzling Gleam
+
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Regirock @ Liechi Berry
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Body Press
+
+Registeel @ Life Orb
+Ability: Clear Body
+- Explosion
+- Iron Head
+- Flash Cannon
+- Thunderbolt

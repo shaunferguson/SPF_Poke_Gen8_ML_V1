@@ -1,0 +1,20 @@
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Roserade @ Big Root
+Ability: Poison Point
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

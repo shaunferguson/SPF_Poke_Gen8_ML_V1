@@ -1,0 +1,27 @@
+Machamp @ Flame Orb
+Ability: Guts
+- Close Combat
+- Ice Punch
+- Knock Off
+- Bullet Punch
+
+Claydol @ Leftovers
+Ability: Levitate
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power
+
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+- Blizzard
+- Giga Drain
+- Earth Power
+- Ice Shard
+
+Probopass @ Custap Berry
+Ability: Sturdy
+- Flash Cannon
+- Dazzling Gleam
+- Volt Switch
+- Power Gem

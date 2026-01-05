@@ -1,0 +1,27 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast
+
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl
+
+Heracross @ Focus Band
+Ability: Moxie
+- Close Combat
+- Stone Edge
+- Megahorn
+- Earthquake
+
+Skuntank @ Bright Powder
+Ability: Aftermath
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough

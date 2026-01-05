@@ -1,0 +1,20 @@
+Chansey @ Sitrus Berry
+Ability: Serene Grace
+- Substitute
+- Seismic Toss
+- Soft-Boiled
+- Minimize
+
+Carnivine @ Rose Incense
+Ability: Levitate
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out

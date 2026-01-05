@@ -1,0 +1,27 @@
+Moltres @ Bright Powder
+Ability: Pressure
+- Roost
+- Air Slash
+- Will-O-Wisp
+- Double Team
+
+Regigigas @ Chople Berry
+Ability: Slow Start
+- Crush Grip
+- Protect
+- Stone Edge
+- Brick Break
+
+Ampharos @ Light Clay
+Ability: Static
+- Reflect
+- Double Team
+- Focus Punch
+- Thunder Punch
+
+Bastiodon @ Quick Claw
+Ability: Sturdy
+- Sandstorm
+- Thunder
+- Blizzard
+- Fire Blast

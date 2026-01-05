@@ -1,0 +1,20 @@
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Cyndaquil @ Sitrus Berry
+Ability: Blaze
+- Flame Charge
+- Lava Plume
+- Aerial Ace
+- Rollout
+
+Tentacool @ Pecha Berry
+Ability: Liquid Ooze
+- Bubble Beam
+- Acid
+- Sludge Bomb
+- Wrap

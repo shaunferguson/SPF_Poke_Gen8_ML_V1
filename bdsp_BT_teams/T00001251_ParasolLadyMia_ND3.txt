@@ -1,0 +1,27 @@
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen
+
+Lileep @ Lax Incense
+Ability: Storm Drain
+- Giga Drain
+- Acid
+- Ingrain
+- Confuse Ray
+
+Prinplup @ Wacan Berry
+Ability: Torrent
+- Whirlpool
+- Metal Claw
+- Peck
+- Double Team
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility

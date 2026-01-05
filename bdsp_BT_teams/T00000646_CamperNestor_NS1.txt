@@ -1,0 +1,27 @@
+Treecko @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Aerial Ace
+- Flash
+- Double Team
+
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Phanpy @ Lax Incense
+Ability: Pickup
+- Rollout
+- Defense Curl
+- Rock Tomb
+- Sandstorm
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn

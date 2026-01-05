@@ -1,0 +1,27 @@
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact
+
+Rotom @ Cheri Berry
+Ability: Levitate
+- Thunderbolt
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Rhydon @ Wise Glasses
+Ability: Lightning Rod
+- Ice Beam
+- Thunderbolt
+- Dragon Pulse
+- Surf
+
+Torkoal @ Sitrus Berry
+Ability: Drought
+- Lava Plume
+- Earthquake
+- Stealth Rock
+- Yawn

@@ -1,0 +1,27 @@
+Vileplume @ Big Root
+Ability: Chlorophyll
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast
+
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake
+
+Glalie @ Leftovers
+Ability: Moody
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold

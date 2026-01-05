@@ -1,0 +1,20 @@
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout
+
+Prinplup @ Wacan Berry
+Ability: Torrent
+- Whirlpool
+- Metal Claw
+- Peck
+- Double Team
+
+Arbok @ Persim Berry
+Ability: Intimidate
+- Poison Fang
+- Dig
+- Bite
+- Glare

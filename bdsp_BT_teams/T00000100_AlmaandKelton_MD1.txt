@@ -1,0 +1,27 @@
+Abomasnow @ Leftovers
+Ability: Snow Warning
+- Wood Hammer
+- Ingrain
+- Substitute
+- Avalanche
+
+Aerodactyl @ Yache Berry
+Ability: Pressure
+- Aerial Ace
+- Crunch
+- Rock Slide
+- Earthquake
+
+Typhlosion @ Shuca Berry
+Ability: Blaze
+- Flare Blitz
+- Earthquake
+- Shadow Claw
+- Aerial Ace
+
+Glaceon @ Focus Sash
+Ability: Ice Body
+- Hyper Beam
+- Mirror Coat
+- Avalanche
+- Freeze-Dry

@@ -1,0 +1,20 @@
+Raichu @ Wide Lens
+Ability: Lightning Rod
+- Thunderbolt
+- Quick Attack
+- Slam
+- Iron Tail
+
+Blastoise @ Iron Ball
+Ability: Torrent
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball
+
+Empoleon @ Chesto Berry
+Ability: Torrent
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest

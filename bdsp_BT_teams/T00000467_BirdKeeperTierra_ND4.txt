@@ -1,0 +1,27 @@
+Xatu @ Sharp Beak
+Ability: Magic Bounce
+- Air Slash
+- Night Shade
+- Wish
+- Future Sight
+
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide
+
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Piloswine @ Soft Sand
+Ability: Thick Fat
+- Rock Tomb
+- Earthquake
+- Ice Shard
+- Light Screen

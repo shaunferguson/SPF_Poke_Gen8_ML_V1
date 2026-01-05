@@ -1,0 +1,27 @@
+Mamoswine @ Leftovers
+Ability: Thick Fat
+- Fissure
+- Double Team
+- Avalanche
+- Earthquake
+
+Tauros @ Chesto Berry
+Ability: Intimidate
+- Earthquake
+- Facade
+- Iron Tail
+- Rest
+
+Gengar @ Bright Powder
+Ability: Cursed Body
+- Hypnosis
+- Dream Eater
+- Shadow Ball
+- Focus Blast
+
+Regirock @ Smooth Rock
+Ability: Sturdy
+- Sandstorm
+- Stone Edge
+- Earthquake
+- Iron Defense

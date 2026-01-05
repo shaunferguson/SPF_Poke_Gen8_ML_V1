@@ -1,0 +1,27 @@
+Glalie @ Leftovers
+Ability: Moody
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold
+
+Heracross @ Focus Band
+Ability: Moxie
+- Close Combat
+- Stone Edge
+- Megahorn
+- Earthquake
+
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Raichu @ Wide Lens
+Ability: Lightning Rod
+- Thunderbolt
+- Quick Attack
+- Slam
+- Iron Tail

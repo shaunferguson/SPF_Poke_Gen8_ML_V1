@@ -1,0 +1,27 @@
+Slowking @ Bright Powder
+Ability: Regenerator
+- Psychic
+- Surf
+- Nasty Plot
+- Swagger
+
+Moltres @ King's Rock
+Ability: Flame Body
+- Air Slash
+- Agility
+- Heat Wave
+- Will-O-Wisp
+
+Froslass @ Wise Glasses
+Ability: Cursed Body
+- Shadow Ball
+- Blizzard
+- Attract
+- Thunderbolt
+
+Blastoise @ Quick Claw
+Ability: Rain Dish
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Rain Dance

@@ -1,0 +1,27 @@
+Stantler @ Twisted Spoon
+Ability: Intimidate
+- Extrasensory
+- Confuse Ray
+- Stomp
+- Sand Attack
+
+Quilava @ Focus Band
+Ability: Blaze
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Zangoose @ Persim Berry
+Ability: Toxic Boost
+- Slash
+- Double Kick
+- Roar
+- Quick Attack
+
+Magmar @ Rawst Berry
+Ability: Flame Body
+- Flamethrower
+- Smokescreen
+- Brick Break
+- Psychic

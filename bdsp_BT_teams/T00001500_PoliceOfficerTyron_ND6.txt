@@ -1,0 +1,27 @@
+Drapion @ Rawst Berry
+Ability: Battle Armor
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison
+
+Ambipom @ Bright Powder
+Ability: Technician
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit
+
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray
+
+Porygon2 @ Leftovers
+Ability: Analytic
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam

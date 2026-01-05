@@ -1,0 +1,20 @@
+Slowking @ Wave Incense
+Ability: Oblivious
+- Grass Knot
+- Psychic
+- Scald
+- Flamethrower
+
+Granbull @ Muscle Band
+Ability: Intimidate
+- Fire Fang
+- Play Rough
+- Brick Break
+- Thunder Fang
+
+Vaporeon @ Rindo Berry
+Ability: Water Absorb
+- Surf
+- Aqua Ring
+- Acid Armor
+- Baton Pass

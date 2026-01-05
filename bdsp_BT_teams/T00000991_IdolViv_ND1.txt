@@ -1,0 +1,27 @@
+Swablu @ Mental Herb
+Ability: Cloud Nine
+- Take Down
+- Dream Eater
+- Sing
+- Attract
+
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Nuzleaf @ Sitrus Berry
+Ability: Chlorophyll
+- Extrasensory
+- Fake Out
+- Razor Leaf
+- Rock Tomb
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring

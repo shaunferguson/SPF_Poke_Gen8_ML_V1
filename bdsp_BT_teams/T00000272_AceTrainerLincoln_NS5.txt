@@ -1,0 +1,20 @@
+Blastoise @ Iron Ball
+Ability: Torrent
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball
+
+Victreebel @ Sitrus Berry
+Ability: Gluttony
+- Leaf Blade
+- Poison Jab
+- Leech Life
+- Strength Sap
+
+Infernape @ Coba Berry
+Ability: Blaze
+- Fake Out
+- Mach Punch
+- U-turn
+- Overheat

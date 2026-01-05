@@ -1,0 +1,27 @@
+Duskull @ Spell Tag
+Ability: Levitate
+- Shadow Sneak
+- Will-O-Wisp
+- Disable
+- Confuse Ray
+
+Bidoof @ Metronome
+Ability: Simple
+- Defense Curl
+- Headbutt
+- Rollout
+- Yawn
+
+Growlithe @ Shuca Berry
+Ability: Intimidate
+- Flame Wheel
+- Bite
+- Roar
+- Agility
+
+Snover @ Icy Rock
+Ability: Snow Warning
+- Razor Leaf
+- Icy Wind
+- Blizzard
+- Ice Shard

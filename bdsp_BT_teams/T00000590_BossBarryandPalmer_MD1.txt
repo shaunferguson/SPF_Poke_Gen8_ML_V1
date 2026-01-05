@@ -1,0 +1,27 @@
+Torterra @ Quick Claw
+Ability: Shell Armor
+- Bulldoze
+- Wood Hammer
+- Crunch
+- Synthesis
+
+Snorlax @ Mago Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Fire Punch
+- Crunch
+
+Milotic @ White Herb
+Ability: Competitive
+- Muddy Water
+- Ice Beam
+- Hydro Pump
+- Protect
+
+Heatran @ Focus Sash
+Ability: Flash Fire
+- Heat Wave
+- Flash Cannon
+- Dragon Pulse
+- Earth Power

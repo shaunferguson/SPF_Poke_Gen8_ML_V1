@@ -1,0 +1,27 @@
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Counter
+- Bullet Seed
+
+Claydol @ Leftovers
+Ability: Levitate
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power
+
+Raikou @ Choice Specs
+Ability: Inner Focus
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald
+
+Heatran @ Choice Scarf
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse

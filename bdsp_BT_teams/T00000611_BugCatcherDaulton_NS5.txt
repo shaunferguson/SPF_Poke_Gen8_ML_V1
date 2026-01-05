@@ -1,0 +1,27 @@
+Venusaur @ Power Herb
+Ability: Overgrow
+- Skull Bash
+- Worry Seed
+- Earthquake
+- Petal Dance
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing
+
+Ambipom @ Bright Powder
+Ability: Technician
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit
+
+Mantine @ Mystic Water
+Ability: Swift Swim
+- Bubble Beam
+- Aerial Ace
+- Rain Dance
+- Psybeam

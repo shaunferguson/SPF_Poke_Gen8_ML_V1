@@ -1,0 +1,20 @@
+Dustox @ Silver Powder
+Ability: Shield Dust
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Nosepass @ Hard Stone
+Ability: Sturdy
+- Rock Slide
+- Shock Wave
+- Thunder Wave
+- Sandstorm
+
+Spinda @ Silk Scarf
+Ability: Own Tempo
+- Flail
+- Teeter Dance
+- Psybeam
+- Icy Wind

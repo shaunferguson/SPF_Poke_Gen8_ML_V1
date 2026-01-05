@@ -1,0 +1,20 @@
+Pelipper @ Choice Scarf
+Ability: Drizzle
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- U-turn
+
+Kingdra @ Life Orb
+Ability: Swift Swim
+- Hydro Pump
+- Dragon Pulse
+- Hurricane
+- Ice Beam
+
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance

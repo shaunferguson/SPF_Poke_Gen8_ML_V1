@@ -1,0 +1,20 @@
+Tauros @ Chesto Berry
+Ability: Intimidate
+- Earthquake
+- Facade
+- Iron Tail
+- Rest
+
+Slowbro @ Lum Berry
+Ability: Regenerator
+- Yawn
+- Zen Headbutt
+- Earthquake
+- Brick Break
+
+Regirock @ Quick Claw
+Ability: Clear Body
+- Explosion
+- Stone Edge
+- Earthquake
+- Brick Break

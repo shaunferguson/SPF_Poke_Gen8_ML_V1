@@ -1,0 +1,27 @@
+Magmortar @ Sitrus Berry
+Ability: Flame Body
+- Overheat
+- Thunderbolt
+- Psychic
+- Belch
+
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect
+
+Aggron @ Chople Berry
+Ability: Sturdy
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush
+
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power

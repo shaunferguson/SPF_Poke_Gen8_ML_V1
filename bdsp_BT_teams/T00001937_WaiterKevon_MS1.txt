@@ -1,0 +1,20 @@
+Drifblim @ Sitrus Berry
+Ability: Unburden
+- Baton Pass
+- Will-O-Wisp
+- Strength Sap
+- Minimize
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+- Earthquake
+- Guillotine
+- Substitute
+- Protect
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower

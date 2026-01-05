@@ -1,0 +1,27 @@
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Probopass @ Custap Berry
+Ability: Sturdy
+- Flash Cannon
+- Dazzling Gleam
+- Volt Switch
+- Power Gem
+
+Articuno @ Bright Powder
+Ability: Pressure
+- Sheer Cold
+- Mind Reader
+- Substitute
+- Roost

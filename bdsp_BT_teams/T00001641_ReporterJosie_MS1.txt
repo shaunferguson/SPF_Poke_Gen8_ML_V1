@@ -1,0 +1,20 @@
+Latias @ Bright Powder
+Ability: Levitate
+- Psychic
+- Dragon Pulse
+- Thunderbolt
+- Surf
+
+Mamoswine @ Leftovers
+Ability: Thick Fat
+- Fissure
+- Double Team
+- Avalanche
+- Earthquake
+
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt

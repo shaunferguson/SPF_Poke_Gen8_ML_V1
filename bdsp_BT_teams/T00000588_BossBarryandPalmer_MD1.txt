@@ -1,0 +1,27 @@
+Empoleon @ Shuca Berry
+Ability: Defiant
+- Waterfall
+- Drill Peck
+- Protect
+- Aqua Jet
+
+Staraptor @ Choice Scarf
+Ability: Intimidate
+- Close Combat
+- Brave Bird
+- Double-Edge
+- U-turn
+
+Rhyperior @ Expert Belt
+Ability: Lightning Rod
+- Earthquake
+- Rock Blast
+- Ice Punch
+- Thunder Punch
+
+Heatran @ Leftovers
+Ability: Flash Fire
+- Heat Wave
+- Protect
+- Flash Cannon
+- Magma Storm

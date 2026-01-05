@@ -1,0 +1,20 @@
+Aerodactyl @ Lum Berry
+Ability: Unnerve
+- Aerial Ace
+- Stone Edge
+- Earthquake
+- Iron Head
+
+Slowbro @ Leftovers
+Ability: Regenerator
+- Scald
+- Grass Knot
+- Ice Beam
+- Slack Off
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+- Dragon Dance
+- Rock Slide
+- Crunch
+- Ice Punch

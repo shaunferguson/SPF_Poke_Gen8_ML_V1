@@ -1,0 +1,20 @@
+Muk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break
+
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Protect
+- Spore
+- Leech Seed
+- Low Sweep

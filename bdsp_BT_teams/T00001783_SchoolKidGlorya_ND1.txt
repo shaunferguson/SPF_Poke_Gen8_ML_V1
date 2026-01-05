@@ -1,0 +1,27 @@
+Machop @ Scope Lens
+Ability: No Guard
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Torchic @ Sitrus Berry
+Ability: Blaze
+- Will-O-Wisp
+- Feather Dance
+- Double Team
+- Flamethrower
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring
+
+Buizel @ Wacan Berry
+Ability: Swift Swim
+- Aqua Jet
+- Quick Attack
+- Brick Break
+- Growl

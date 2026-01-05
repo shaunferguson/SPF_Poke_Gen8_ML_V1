@@ -1,0 +1,27 @@
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash
+
+Swalot @ Black Sludge
+Ability: Sticky Hold
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb
+
+Magneton @ Choice Specs
+Ability: Sturdy
+- Shock Wave
+- Volt Switch
+- Thunder Wave
+- Flash Cannon
+
+Cacturne @ Scope Lens
+Ability: Water Absorb
+- Seed Bomb
+- Sucker Punch
+- Poison Jab
+- Revenge

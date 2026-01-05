@@ -1,0 +1,27 @@
+Exploud @ Focus Band
+Ability: Soundproof
+- Boomburst
+- Fire Blast
+- Solar Beam
+- Focus Blast
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+- Mirror Coat
+- Recover
+- Waterfall
+- Earthquake
+
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief
+
+Ludicolo @ Muscle Band
+Ability: Own Tempo
+- Waterfall
+- Razor Leaf
+- Drain Punch
+- Swords Dance

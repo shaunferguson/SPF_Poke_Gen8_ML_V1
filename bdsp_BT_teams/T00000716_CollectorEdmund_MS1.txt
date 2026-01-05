@@ -1,0 +1,20 @@
+Tyranitar @ Quick Claw
+Ability: Sand Stream
+- Earthquake
+- Dragon Claw
+- Shadow Claw
+- Iron Head
+
+Cresselia @ Wise Glasses
+Ability: Levitate
+- Psychic
+- Ice Beam
+- Shadow Ball
+- Energy Ball
+
+Aerodactyl @ Yache Berry
+Ability: Pressure
+- Aerial Ace
+- Crunch
+- Rock Slide
+- Earthquake

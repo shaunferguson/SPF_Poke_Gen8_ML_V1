@@ -1,0 +1,20 @@
+Butterfree @ Leftovers
+Ability: Compound Eyes
+- Sleep Powder
+- Quiver Dance
+- Substitute
+- Bug Buzz
+
+Dustox @ Silver Powder
+Ability: Shield Dust
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Nidorino @ Focus Band
+Ability: Poison Point
+- Double Kick
+- Water Pulse
+- Toxic Spikes
+- Flatter

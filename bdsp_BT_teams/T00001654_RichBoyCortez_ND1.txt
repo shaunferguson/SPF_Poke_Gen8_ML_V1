@@ -1,0 +1,27 @@
+Torchic @ Shuca Berry
+Ability: Blaze
+- Flame Charge
+- Quick Attack
+- Sand Attack
+- Double Team
+
+Remoraid @ Petaya Berry
+Ability: Sniper
+- Bubble Beam
+- Aurora Beam
+- Psybeam
+- Protect
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

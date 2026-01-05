@@ -1,0 +1,27 @@
+Growlithe @ Shuca Berry
+Ability: Intimidate
+- Flame Wheel
+- Bite
+- Roar
+- Agility
+
+Machoke @ Focus Band
+Ability: Guts
+- Low Kick
+- Rock Tomb
+- Facade
+- Scary Face
+
+Wobbuffet @ Leftovers
+Ability: Shadow Tag
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+Cubone @ Soft Sand
+Ability: Battle Armor
+- Bonemerang
+- Headbutt
+- Brick Break
+- Aerial Ace

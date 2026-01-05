@@ -1,0 +1,27 @@
+Budew @ Big Root
+Ability: Poison Point
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Spoink @ Sitrus Berry
+Ability: Thick Fat
+- Psychic
+- Bounce
+- Magic Coat
+- Confuse Ray
+
+Eevee @ Salac Berry
+Ability: Adaptability
+- Charm
+- Attract
+- Take Down
+- Endure

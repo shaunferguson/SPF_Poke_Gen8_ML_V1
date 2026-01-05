@@ -1,0 +1,20 @@
+Houndoom @ Focus Sash
+Ability: Flash Fire
+- Counter
+- Flame Charge
+- Crunch
+- Thunder Fang
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray

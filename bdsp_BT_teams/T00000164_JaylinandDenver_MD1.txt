@@ -1,0 +1,27 @@
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Draco Meteor
+- Earthquake
+- Rock Tomb
+- Stealth Rock
+
+Aggron @ Shuca Berry
+Ability: Sturdy
+- Stone Edge
+- Avalanche
+- Payback
+- Earthquake
+
+Abomasnow @ Leftovers
+Ability: Snow Warning
+- Wood Hammer
+- Ingrain
+- Substitute
+- Avalanche
+
+Floatzel @ Sitrus Berry
+Ability: Swift Swim
+- Crunch
+- Waterfall
+- Ice Beam
+- Aqua Jet

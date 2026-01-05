@@ -1,0 +1,20 @@
+Salamence @ Cheri Berry
+Ability: Intimidate
+- Fly
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Aerodactyl @ Leftovers
+Ability: Pressure
+- Swagger
+- Attract
+- Rock Slide
+- Roost
+
+Roserade @ Big Root
+Ability: Poison Point
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute

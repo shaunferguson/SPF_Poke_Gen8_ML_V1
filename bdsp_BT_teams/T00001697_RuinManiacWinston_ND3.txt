@@ -1,0 +1,27 @@
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout
+
+Chatot @ Yache Berry
+Ability: Big Pecks
+- Chatter
+- Torment
+- Sing
+- U-turn
+
+Pupitar @ Soft Sand
+Ability: Shed Skin
+- Dig
+- Bite
+- Scary Face
+- Sandstorm
+
+Kadabra @ Twisted Spoon
+Ability: Inner Focus
+- Confusion
+- Role Play
+- Future Sight
+- Disable

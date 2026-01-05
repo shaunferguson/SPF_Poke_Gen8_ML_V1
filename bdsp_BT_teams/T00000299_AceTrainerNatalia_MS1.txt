@@ -1,0 +1,20 @@
+Pelipper @ Damp Rock
+Ability: Drizzle
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- U-turn
+
+Relicanth @ Figy Berry
+Ability: Swift Swim
+- Waterfall
+- Head Smash
+- Earthquake
+- Body Press
+
+Zapdos @ Life Orb
+Ability: Static
+- Thunder
+- Hurricane
+- Heat Wave
+- Volt Switch

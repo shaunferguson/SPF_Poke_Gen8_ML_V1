@@ -1,0 +1,20 @@
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard
+
+Sneasel @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack

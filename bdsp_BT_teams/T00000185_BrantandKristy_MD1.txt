@@ -1,0 +1,27 @@
+Moltres @ Lax Incense
+Ability: Flame Body
+- Mystical Fire
+- Hurricane
+- Will-O-Wisp
+- Roost
+
+Swampert @ Sitrus Berry
+Ability: Damp
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Heracross @ Lum Berry
+Ability: Moxie
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Regigigas @ Leftovers
+Ability: Slow Start
+- Crush Grip
+- Drain Punch
+- Knock Off
+- Protect

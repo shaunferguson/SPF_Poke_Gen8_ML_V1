@@ -1,0 +1,27 @@
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard
+
+Nosepass @ Hard Stone
+Ability: Sturdy
+- Rock Slide
+- Shock Wave
+- Thunder Wave
+- Sandstorm
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow
+
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face

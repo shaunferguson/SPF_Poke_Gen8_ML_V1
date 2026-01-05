@@ -1,0 +1,27 @@
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Happiny @ Lucky Punch
+Ability: Serene Grace
+- Sweet Kiss
+- Psychic
+- Flamethrower
+- Shadow Ball
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen

@@ -1,0 +1,27 @@
+Mawile @ Bright Powder
+Ability: Intimidate
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass
+
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout

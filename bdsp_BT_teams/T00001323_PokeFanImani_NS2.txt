@@ -1,0 +1,20 @@
+Beedrill @ Focus Sash
+Ability: Swarm
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Beautifly @ Mental Herb
+Ability: Swarm
+- Bug Buzz
+- Mega Drain
+- Attract
+- Quiver Dance
+
+Ledian @ Focus Band
+Ability: Early Bird
+- Light Screen
+- Baton Pass
+- Swords Dance
+- Agility

@@ -1,0 +1,20 @@
+Zangoose @ Persim Berry
+Ability: Toxic Boost
+- Slash
+- Double Kick
+- Roar
+- Quick Attack
+
+Dewgong @ Razor Fang
+Ability: Thick Fat
+- Aqua Jet
+- Ice Shard
+- Fake Out
+- Protect
+
+Whiscash @ Leftovers
+Ability: Hydration
+- Earthquake
+- Water Pulse
+- Tickle
+- Sandstorm

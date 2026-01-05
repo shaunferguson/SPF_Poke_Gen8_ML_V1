@@ -1,0 +1,20 @@
+Latios @ Expert Belt
+Ability: Levitate
+- Psychic
+- Dragon Pulse
+- Ice Beam
+- Shadow Ball
+
+Granbull @ Quick Claw
+Ability: Intimidate
+- Ice Fang
+- Stone Edge
+- Crunch
+- Earthquake
+
+Sceptile @ Occa Berry
+Ability: Overgrow
+- Leaf Storm
+- Aerial Ace
+- Leaf Blade
+- Focus Blast

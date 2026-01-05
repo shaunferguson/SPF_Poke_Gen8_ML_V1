@@ -1,0 +1,20 @@
+Swellow @ Flame Orb
+Ability: Guts
+- Fly
+- Endeavor
+- Facade
+- Quick Attack
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen

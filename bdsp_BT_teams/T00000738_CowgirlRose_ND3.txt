@@ -1,0 +1,27 @@
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind
+
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace
+
+Wormadam @ Coba Berry
+Ability: Overcoat
+- Razor Leaf
+- Psybeam
+- Protect
+- Bug Buzz
+
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack

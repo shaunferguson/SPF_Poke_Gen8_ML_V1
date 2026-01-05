@@ -1,0 +1,20 @@
+Armaldo @ Wide Lens
+Ability: Battle Armor
+- Stone Edge
+- Slash
+- X-Scissor
+- Iron Tail
+
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

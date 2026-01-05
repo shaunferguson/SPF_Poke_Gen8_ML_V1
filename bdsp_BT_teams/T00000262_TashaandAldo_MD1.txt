@@ -1,0 +1,27 @@
+Vaporeon @ Rindo Berry
+Ability: Water Absorb
+- Surf
+- Aqua Ring
+- Acid Armor
+- Baton Pass
+
+Alakazam @ Colbur Berry
+Ability: Magic Guard
+- Psychic
+- Calm Mind
+- Shadow Ball
+- Future Sight
+
+Gyarados @ Leftovers
+Ability: Intimidate
+- Rest
+- Earthquake
+- Dragon Dance
+- Waterfall
+
+Lickilicky @ Expert Belt
+Ability: Oblivious
+- Surf
+- Ice Beam
+- Thunderbolt
+- Shadow Ball

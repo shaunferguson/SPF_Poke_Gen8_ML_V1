@@ -1,0 +1,20 @@
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Kingdra @ Razor Claw
+Ability: Sniper
+- Waterfall
+- Focus Energy
+- Dragon Dance
+- Yawn
+
+Venusaur @ Big Root
+Ability: Overgrow
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Sleep Powder

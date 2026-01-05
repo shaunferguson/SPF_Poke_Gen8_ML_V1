@@ -1,0 +1,27 @@
+Hippowdon @ Leftovers
+Ability: Sand Stream
+- Earthquake
+- Ice Fang
+- Slack Off
+- Yawn
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Spore
+- Substitute
+- Bulk Up
+- Rock Tomb
+
+Glaceon @ Focus Sash
+Ability: Ice Body
+- Hyper Beam
+- Mirror Coat
+- Avalanche
+- Freeze-Dry
+
+Raikou @ Wise Glasses
+Ability: Pressure
+- Shadow Ball
+- Scald
+- Thunderbolt
+- Volt Switch

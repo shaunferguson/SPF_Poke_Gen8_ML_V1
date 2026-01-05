@@ -1,0 +1,27 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Shuppet @ Rawst Berry
+Ability: Insomnia
+- Will-O-Wisp
+- Shadow Sneak
+- Grudge
+- Knock Off
+
+Phanpy @ Lax Incense
+Ability: Pickup
+- Rollout
+- Defense Curl
+- Rock Tomb
+- Sandstorm
+
+Drifloon @ Grip Claw
+Ability: Aftermath
+- Shadow Ball
+- Will-O-Wisp
+- Gust
+- Astonish

@@ -1,0 +1,20 @@
+Clefable @ Life Orb
+Ability: Magic Guard
+- Moonblast
+- Flamethrower
+- Thunderbolt
+- Moonlight
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing
+
+Stantler @ Twisted Spoon
+Ability: Intimidate
+- Extrasensory
+- Confuse Ray
+- Stomp
+- Sand Attack

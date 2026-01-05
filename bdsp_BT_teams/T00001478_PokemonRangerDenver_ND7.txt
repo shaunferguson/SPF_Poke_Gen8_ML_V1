@@ -1,0 +1,27 @@
+Rhyperior @ Expert Belt
+Ability: Solid Rock
+- Rock Wrecker
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Kingdra @ Razor Claw
+Ability: Sniper
+- Waterfall
+- Focus Energy
+- Dragon Dance
+- Yawn
+
+Flareon @ Charcoal
+Ability: Flash Fire
+- Will-O-Wisp
+- Flare Blitz
+- Iron Tail
+- Quick Attack

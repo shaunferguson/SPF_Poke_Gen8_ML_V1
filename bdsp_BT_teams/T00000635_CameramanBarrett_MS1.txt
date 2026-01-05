@@ -1,0 +1,20 @@
+Ambipom @ Muscle Band
+Ability: Technician
+- Double Hit
+- Thief
+- Dual Chop
+- Fake Out
+
+Jynx @ Odd Incense
+Ability: Dry Skin
+- Lovely Kiss
+- Dream Eater
+- Sweet Kiss
+- Energy Ball
+
+Regice @ Chesto Berry
+Ability: Clear Body
+- Ice Beam
+- Ancient Power
+- Charge Beam
+- Rest

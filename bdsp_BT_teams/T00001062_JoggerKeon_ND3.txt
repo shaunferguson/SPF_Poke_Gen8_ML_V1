@@ -1,0 +1,27 @@
+Grovyle @ Bright Powder
+Ability: Overgrow
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Wartortle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn
+
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace

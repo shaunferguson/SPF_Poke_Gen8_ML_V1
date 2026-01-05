@@ -1,0 +1,27 @@
+Togetic @ Lax Incense
+Ability: Serene Grace
+- Aerial Ace
+- Dazzling Gleam
+- Wish
+- Follow Me
+
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Seadra @ Mystic Water
+Ability: Sniper
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Luxio @ Magnet
+Ability: Intimidate
+- Spark
+- Bite
+- Roar
+- Swagger

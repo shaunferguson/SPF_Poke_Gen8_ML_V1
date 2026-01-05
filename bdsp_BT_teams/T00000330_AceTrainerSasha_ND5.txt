@@ -1,0 +1,27 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Weezing @ Leftovers
+Ability: Levitate
+- Will-O-Wisp
+- Double Team
+- Sludge Bomb
+- Substitute
+
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl
+
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+- Shadow Claw
+- Earthquake
+- Rock Slide
+- Thief

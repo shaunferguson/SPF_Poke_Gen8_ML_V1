@@ -1,0 +1,27 @@
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Lucario @ Lum Berry
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Ice Punch
+- Bullet Punch
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Leaf Blade
+- Leech Seed
+- Synthesis
+- Protect
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Giga Impact
+- Earthquake
+- Night Slash
+- Hammer Arm

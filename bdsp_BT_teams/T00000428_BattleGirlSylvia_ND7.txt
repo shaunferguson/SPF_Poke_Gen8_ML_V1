@@ -1,0 +1,27 @@
+Hippowdon @ Passho Berry
+Ability: Sand Stream
+- Yawn
+- Stealth Rock
+- Roar
+- Ice Fang
+
+Dragonite @ Wide Lens
+Ability: Multiscale
+- Outrage
+- Aqua Tail
+- Iron Tail
+- Stone Edge
+
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Earthquake
+- Curse
+- Yawn
+
+Aggron @ Chople Berry
+Ability: Sturdy
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush

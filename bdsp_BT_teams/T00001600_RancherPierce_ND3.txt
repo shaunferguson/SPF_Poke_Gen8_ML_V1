@@ -1,0 +1,27 @@
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Combusken @ Scope Lens
+Ability: Blaze
+- Ember
+- Double Kick
+- Quick Attack
+- Sand Attack
+
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen
+
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect

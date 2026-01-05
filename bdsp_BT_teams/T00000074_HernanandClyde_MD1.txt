@@ -1,0 +1,27 @@
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+- Earthquake
+- Guillotine
+- Substitute
+- Protect
+
+Ninetales @ Choice Specs
+Ability: Drought
+- Flamethrower
+- Solar Beam
+- Psyshock
+- Shadow Ball
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Steelix @ Life Orb
+Ability: Sheer Force
+- Iron Tail
+- Fire Fang
+- Stone Edge
+- Ice Fang

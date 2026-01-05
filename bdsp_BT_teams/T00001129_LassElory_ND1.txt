@@ -1,0 +1,27 @@
+Venonat @ Sitrus Berry
+Ability: Compound Eyes
+- Psybeam
+- Supersonic
+- Stun Spore
+- Skill Swap
+
+Budew @ Big Root
+Ability: Poison Point
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Mantyke @ Bright Powder
+Ability: Swift Swim
+- Bubble Beam
+- Agility
+- Aqua Ring
+- Air Slash
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

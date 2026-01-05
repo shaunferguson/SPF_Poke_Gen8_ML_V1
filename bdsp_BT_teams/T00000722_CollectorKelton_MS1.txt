@@ -1,0 +1,20 @@
+Lickilicky @ Expert Belt
+Ability: Oblivious
+- Surf
+- Ice Beam
+- Thunderbolt
+- Shadow Ball
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Spore
+- Substitute
+- Bulk Up
+- Rock Tomb
+
+Milotic @ Life Orb
+Ability: Competitive
+- Scald
+- Ice Beam
+- Hydro Pump
+- Dragon Pulse

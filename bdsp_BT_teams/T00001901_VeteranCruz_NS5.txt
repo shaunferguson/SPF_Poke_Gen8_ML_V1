@@ -1,0 +1,20 @@
+Torterra @ Heat Rock
+Ability: Overgrow
+- Sunny Day
+- Synthesis
+- Solar Beam
+- Stone Edge
+
+Medicham @ Focus Band
+Ability: Pure Power
+- High Jump Kick
+- Thunder Punch
+- Ice Punch
+- Fire Punch
+
+Blaziken @ Shell Bell
+Ability: Blaze
+- Aerial Ace
+- Flare Blitz
+- Will-O-Wisp
+- Bulk Up

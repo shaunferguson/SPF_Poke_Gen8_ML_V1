@@ -1,0 +1,27 @@
+Bellossom @ Power Herb
+Ability: Chlorophyll
+- Solar Beam
+- Safeguard
+- Sunny Day
+- Synthesis
+
+Ninjask @ Petaya Berry
+Ability: Speed Boost
+- Baton Pass
+- Swords Dance
+- Endure
+- Dig
+
+Rotom @ Cheri Berry
+Ability: Levitate
+- Thunderbolt
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash

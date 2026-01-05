@@ -1,0 +1,27 @@
+Sunflora @ Persim Berry
+Ability: Solar Power
+- Petal Dance
+- Ingrain
+- Leech Seed
+- Light Screen
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout
+
+Swellow @ Flame Orb
+Ability: Guts
+- Fly
+- Endeavor
+- Facade
+- Quick Attack
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility

@@ -1,0 +1,27 @@
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Chikorita @ Leftovers
+Ability: Overgrow
+- Magical Leaf
+- Reflect
+- Synthesis
+- Poison Powder
+
+Nuzleaf @ Sitrus Berry
+Ability: Chlorophyll
+- Extrasensory
+- Fake Out
+- Razor Leaf
+- Rock Tomb
+
+Seel @ Aspear Berry
+Ability: Thick Fat
+- Aurora Beam
+- Dive
+- Encore
+- Surf

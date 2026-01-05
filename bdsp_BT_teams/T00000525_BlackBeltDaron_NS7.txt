@@ -1,0 +1,27 @@
+Hippowdon @ Passho Berry
+Ability: Sand Stream
+- Yawn
+- Stealth Rock
+- Roar
+- Ice Fang
+
+Crobat @ Sharp Beak
+Ability: Inner Focus
+- Brave Bird
+- Zen Headbutt
+- Cross Poison
+- U-turn
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Synthesis
+- Leaf Blade
+- Leech Seed
+- Yawn
+
+Electivire @ Cheri Berry
+Ability: Motor Drive
+- Thunder Punch
+- Cross Chop
+- Thunder Wave
+- Screech

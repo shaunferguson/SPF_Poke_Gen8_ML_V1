@@ -1,0 +1,20 @@
+Garchomp @ Persim Berry
+Ability: Rough Skin
+- Outrage
+- Swords Dance
+- Stone Edge
+- Earthquake
+
+Togekiss @ Wide Lens
+Ability: Hustle
+- Extreme Speed
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic

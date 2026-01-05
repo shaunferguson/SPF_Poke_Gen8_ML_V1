@@ -1,0 +1,27 @@
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Quagsire @ Leftovers
+Ability: Unaware
+- Stockpile
+- Whirlpool
+- Toxic
+- Recover

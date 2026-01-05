@@ -1,0 +1,20 @@
+Luxray @ Life Orb
+Ability: Intimidate
+- Play Rough
+- Quick Attack
+- Wild Charge
+- Fire Fang
+
+Whiscash @ Chesto Berry
+Ability: Oblivious
+- Fissure
+- Amnesia
+- Spark
+- Rest
+
+Shiftry @ Focus Band
+Ability: Chlorophyll
+- Energy Ball
+- Dark Pulse
+- Focus Blast
+- Nasty Plot

@@ -1,0 +1,27 @@
+Raichu @ Light Clay
+Ability: Lightning Rod
+- Thunderbolt
+- Reflect
+- Light Screen
+- Grass Knot
+
+Bronzong @ Muscle Band
+Ability: Levitate
+- Gyro Ball
+- Explosion
+- Zen Headbutt
+- Earthquake
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Ice Fang
+- Power Whip
+
+Salamence @ White Herb
+Ability: Intimidate
+- Heat Wave
+- Draco Meteor
+- Hurricane
+- Protect

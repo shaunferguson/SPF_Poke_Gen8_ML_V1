@@ -1,0 +1,20 @@
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Venonat @ Sitrus Berry
+Ability: Compound Eyes
+- Psybeam
+- Supersonic
+- Stun Spore
+- Skill Swap
+
+Mantyke @ Bright Powder
+Ability: Swift Swim
+- Bubble Beam
+- Agility
+- Aqua Ring
+- Air Slash

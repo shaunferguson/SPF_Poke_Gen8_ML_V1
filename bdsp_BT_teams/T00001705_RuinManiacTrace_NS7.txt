@@ -1,0 +1,20 @@
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray
+
+Venusaur @ Big Root
+Ability: Overgrow
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Sleep Powder
+
+Tyranitar @ Expert Belt
+Ability: Sand Stream
+- Dark Pulse
+- Ice Beam
+- Flamethrower
+- Ancient Power

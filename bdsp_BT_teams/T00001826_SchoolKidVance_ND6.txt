@@ -1,0 +1,27 @@
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest
+
+Swampert @ Quick Claw
+Ability: Torrent
+- Ancient Power
+- Muddy Water
+- Avalanche
+- Focus Blast
+
+Golduck @ Pecha Berry
+Ability: Cloud Nine
+- Psychic
+- Disable
+- Surf
+- Brick Break
+
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter

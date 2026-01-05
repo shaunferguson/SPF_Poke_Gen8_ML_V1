@@ -1,0 +1,27 @@
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day
+
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Monferno @ Coba Berry
+Ability: Blaze
+- Mach Punch
+- Feint
+- Torment
+- U-turn
+
+Kecleon @ Focus Band
+Ability: Color Change
+- Brick Break
+- Psybeam
+- Magic Coat
+- Shadow Sneak

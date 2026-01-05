@@ -1,0 +1,27 @@
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact
+
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief
+
+Infernape @ Coba Berry
+Ability: Blaze
+- Fake Out
+- Mach Punch
+- U-turn
+- Overheat
+
+Blaziken @ Shell Bell
+Ability: Blaze
+- Aerial Ace
+- Flare Blitz
+- Will-O-Wisp
+- Bulk Up

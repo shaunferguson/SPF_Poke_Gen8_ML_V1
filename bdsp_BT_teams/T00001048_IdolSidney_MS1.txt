@@ -1,0 +1,20 @@
+Porygon-Z @ Silk Scarf
+Ability: Adaptability
+- Tri Attack
+- Thunderbolt
+- Ice Beam
+- Shadow Ball
+
+Cradily @ Leftovers
+Ability: Storm Drain
+- Giga Drain
+- Sludge Bomb
+- Stockpile
+- Leech Seed
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance

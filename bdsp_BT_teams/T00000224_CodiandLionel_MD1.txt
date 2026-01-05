@@ -1,0 +1,27 @@
+Regigigas @ Leftovers
+Ability: Slow Start
+- Substitute
+- Double Team
+- Thunder Wave
+- Ice Punch
+
+Raikou @ Lax Incense
+Ability: Pressure
+- Scald
+- Calm Mind
+- Rest
+- Double Team
+
+Toxicroak @ Light Ball
+Ability: Dry Skin
+- Fling
+- Poison Jab
+- Taunt
+- Sucker Punch
+
+Latios @ Expert Belt
+Ability: Levitate
+- Psychic
+- Dragon Pulse
+- Ice Beam
+- Shadow Ball

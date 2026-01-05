@@ -1,0 +1,27 @@
+Registeel @ Quick Claw
+Ability: Clear Body
+- Explosion
+- Double Team
+- Swagger
+- Substitute
+
+Gyarados @ Leftovers
+Ability: Intimidate
+- Rest
+- Earthquake
+- Dragon Dance
+- Waterfall
+
+Porygon-Z @ Bright Powder
+Ability: Download
+- Thunderbolt
+- Ice Beam
+- Shadow Ball
+- Tri Attack
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

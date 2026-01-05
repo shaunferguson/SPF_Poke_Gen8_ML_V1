@@ -1,0 +1,27 @@
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout
+
+Lickitung @ Sitrus Berry
+Ability: Own Tempo
+- Slam
+- Brick Break
+- Lick
+- Screech
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash
+
+Mawile @ Bright Powder
+Ability: Intimidate
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass

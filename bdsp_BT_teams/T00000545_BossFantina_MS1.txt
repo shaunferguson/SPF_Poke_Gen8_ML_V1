@@ -1,0 +1,20 @@
+Sableye @ Sitrus Berry
+Ability: Prankster
+- Will-O-Wisp
+- Recover
+- Night Shade
+- Foul Play
+
+Spiritomb @ Quick Claw
+Ability: Infiltrator
+- Memento
+- Night Shade
+- Shadow Sneak
+- Hypnosis
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Dragon Dance
+- Outrage
+- Earthquake
+- Thunder Punch

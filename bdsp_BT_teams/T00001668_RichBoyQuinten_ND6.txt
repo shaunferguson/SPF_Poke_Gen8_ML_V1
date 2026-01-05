@@ -1,0 +1,27 @@
+Bronzong @ Twisted Spoon
+Ability: Levitate
+- Trick Room
+- Gyro Ball
+- Flash Cannon
+- Hypnosis
+
+Vespiquen @ Razor Claw
+Ability: Pressure
+- Attack Order
+- Slash
+- Defend Order
+- -
+
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter
+
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief

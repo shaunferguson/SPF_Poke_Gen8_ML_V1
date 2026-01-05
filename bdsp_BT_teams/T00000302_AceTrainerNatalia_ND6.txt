@@ -1,0 +1,27 @@
+Blaziken @ Shell Bell
+Ability: Blaze
+- Aerial Ace
+- Flare Blitz
+- Will-O-Wisp
+- Bulk Up
+
+Miltank @ Muscle Band
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Seismic Toss
+
+Rampardos @ Persim Berry
+Ability: Mold Breaker
+- Thrash
+- Headbutt
+- Zen Headbutt
+- Head Smash
+
+Meganium @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Leech Seed
+- Synthesis
+- Substitute

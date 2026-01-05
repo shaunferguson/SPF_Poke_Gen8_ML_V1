@@ -1,0 +1,27 @@
+Baltoy @ Twisted Spoon
+Ability: Levitate
+- Psybeam
+- Ancient Power
+- Light Screen
+- Mud-Slap
+
+Happiny @ Lucky Punch
+Ability: Serene Grace
+- Sweet Kiss
+- Psychic
+- Flamethrower
+- Shadow Ball
+
+Hippopotas @ Passho Berry
+Ability: Sand Stream
+- Bite
+- Sand Attack
+- Sand Tomb
+- Yawn
+
+Drifloon @ Grip Claw
+Ability: Aftermath
+- Shadow Ball
+- Will-O-Wisp
+- Gust
+- Astonish

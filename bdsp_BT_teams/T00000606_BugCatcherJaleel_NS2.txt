@@ -1,0 +1,27 @@
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Baltoy @ Twisted Spoon
+Ability: Levitate
+- Psybeam
+- Ancient Power
+- Light Screen
+- Mud-Slap
+
+Buizel @ Wacan Berry
+Ability: Swift Swim
+- Aqua Jet
+- Quick Attack
+- Brick Break
+- Growl
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn

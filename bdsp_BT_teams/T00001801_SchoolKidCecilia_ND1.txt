@@ -1,0 +1,27 @@
+Turtwig @ Occa Berry
+Ability: Overgrow
+- Grass Knot
+- Bite
+- Curse
+- Withdraw
+
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Hippopotas @ Passho Berry
+Ability: Sand Stream
+- Bite
+- Sand Attack
+- Sand Tomb
+- Yawn
+
+Stunky @ Poison Barb
+Ability: Aftermath
+- Poison Gas
+- Fury Swipes
+- Screech
+- Smokescreen

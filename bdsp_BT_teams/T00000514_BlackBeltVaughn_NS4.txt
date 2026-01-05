@@ -1,0 +1,27 @@
+Clefable @ Life Orb
+Ability: Magic Guard
+- Moonblast
+- Flamethrower
+- Thunderbolt
+- Moonlight
+
+Shelgon @ Cheri Berry
+Ability: Overcoat
+- Headbutt
+- Dragon Breath
+- Protect
+- Scary Face
+
+Seaking @ Sitrus Berry
+Ability: Lightning Rod
+- Water Pulse
+- Psybeam
+- Poison Jab
+- Agility
+
+Monferno @ Coba Berry
+Ability: Blaze
+- Mach Punch
+- Feint
+- Torment
+- U-turn

@@ -1,0 +1,20 @@
+Gastrodon @ Leftovers
+Ability: Storm Drain
+- Mirror Coat
+- Recover
+- Waterfall
+- Earthquake
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Brick Break
+- Earthquake
+- Rock Tomb
+- Iron Head
+
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch

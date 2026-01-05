@@ -1,0 +1,27 @@
+Rampardos @ Persim Berry
+Ability: Mold Breaker
+- Thrash
+- Headbutt
+- Zen Headbutt
+- Head Smash
+
+Tentacruel @ Leftovers
+Ability: Liquid Ooze
+- Acupressure
+- Rest
+- Sleep Talk
+- Surf
+
+Donphan @ Lum Berry
+Ability: Sturdy
+- Earthquake
+- Ice Shard
+- Rock Slide
+- Play Rough
+
+Roserade @ Big Root
+Ability: Poison Point
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute

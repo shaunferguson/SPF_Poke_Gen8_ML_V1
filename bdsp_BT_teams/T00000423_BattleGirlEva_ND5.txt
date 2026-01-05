@@ -1,0 +1,27 @@
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Protect
+- Spore
+- Leech Seed
+- Low Sweep
+
+Glalie @ Leftovers
+Ability: Moody
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold
+
+Typhlosion @ Wide Lens
+Ability: Blaze
+- Will-O-Wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Hariyama @ Bright Powder
+Ability: Thick Fat
+- Sand Attack
+- Focus Punch
+- Rock Tomb
+- Fake Out

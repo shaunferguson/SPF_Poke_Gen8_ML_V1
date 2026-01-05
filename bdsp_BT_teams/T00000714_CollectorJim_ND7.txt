@@ -1,0 +1,27 @@
+Tyranitar @ Expert Belt
+Ability: Sand Stream
+- Dark Pulse
+- Ice Beam
+- Flamethrower
+- Ancient Power
+
+Politoed @ Quick Claw
+Ability: Drizzle
+- Perish Song
+- Ice Beam
+- Surf
+- Hypnosis
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Acid Armor
+- Rest
+
+Swampert @ Lum Berry
+Ability: Torrent
+- Earthquake
+- Waterfall
+- Hammer Arm
+- Curse

@@ -1,0 +1,27 @@
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt
+
+Steelix @ Life Orb
+Ability: Sheer Force
+- Iron Tail
+- Fire Fang
+- Stone Edge
+- Ice Fang
+
+Ninetales @ Choice Specs
+Ability: Drought
+- Flamethrower
+- Solar Beam
+- Psyshock
+- Shadow Ball
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Dazzling Gleam
+- Ice Beam
+- Psychic

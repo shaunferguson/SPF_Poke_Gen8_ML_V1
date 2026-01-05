@@ -1,0 +1,27 @@
+Monferno @ Coba Berry
+Ability: Blaze
+- Mach Punch
+- Feint
+- Torment
+- U-turn
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Stantler @ Twisted Spoon
+Ability: Intimidate
+- Extrasensory
+- Confuse Ray
+- Stomp
+- Sand Attack
+
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore

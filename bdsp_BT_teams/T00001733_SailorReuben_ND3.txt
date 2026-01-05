@@ -1,0 +1,27 @@
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard
+
+Linoone @ Sitrus Berry
+Ability: Gluttony
+- Extreme Speed
+- Sand Attack
+- Covet
+- Tickle
+
+Dragonair @ Cheri Berry
+Ability: Shed Skin
+- Dragon Breath
+- Leer
+- Wrap
+- Safeguard

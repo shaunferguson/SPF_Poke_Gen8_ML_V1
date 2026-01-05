@@ -1,0 +1,27 @@
+Donphan @ Focus Band
+Ability: Sturdy
+- Counter
+- Stealth Rock
+- Roar
+- Fire Fang
+
+Shuckle @ Bright Powder
+Ability: Sturdy
+- Power Trick
+- Double Team
+- Wrap
+- Toxic
+
+Vileplume @ Black Sludge
+Ability: Chlorophyll
+- Toxic
+- Grass Knot
+- Double Team
+- Attract
+
+Lucario @ Focus Sash
+Ability: Inner Focus
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Vacuum Wave

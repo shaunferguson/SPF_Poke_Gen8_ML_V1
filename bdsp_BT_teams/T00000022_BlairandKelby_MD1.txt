@@ -1,0 +1,27 @@
+Tangrowth @ Leftovers
+Ability: Regenerator
+- Knock Off
+- Rock Tomb
+- Leech Seed
+- Poison Jab
+
+Registeel @ Occa Berry
+Ability: Clear Body
+- Iron Defense
+- Rest
+- Substitute
+- Earthquake
+
+Forretress @ Custap Berry
+Ability: Sturdy
+- Gyro Ball
+- Earthquake
+- Explosion
+- Rock Tomb
+
+Exploud @ Sitrus Berry
+Ability: Soundproof
+- Rest
+- Sleep Talk
+- Boomburst
+- Double Team

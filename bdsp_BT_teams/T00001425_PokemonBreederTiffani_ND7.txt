@@ -1,0 +1,27 @@
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Earthquake
+- Curse
+- Yawn
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Walrein @ Quick Claw
+Ability: Thick Fat
+- Rest
+- Sleep Talk
+- Sheer Cold
+- Fissure
+
+Bronzong @ Twisted Spoon
+Ability: Levitate
+- Trick Room
+- Gyro Ball
+- Flash Cannon
+- Hypnosis

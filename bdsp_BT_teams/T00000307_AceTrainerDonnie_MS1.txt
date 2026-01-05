@@ -1,0 +1,20 @@
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam
+
+Latios @ Choice Specs
+Ability: Levitate
+- Draco Meteor
+- Surf
+- Psychic
+- Thunderbolt

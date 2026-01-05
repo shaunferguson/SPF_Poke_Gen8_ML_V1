@@ -1,0 +1,20 @@
+Absol @ White Herb
+Ability: Pressure
+- Slash
+- Night Slash
+- Double Team
+- Taunt
+
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis

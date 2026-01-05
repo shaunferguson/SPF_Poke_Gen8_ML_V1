@@ -1,0 +1,27 @@
+Staraptor @ Muscle Band
+Ability: Reckless
+- Brave Bird
+- Double-Edge
+- U-turn
+- Feather Dance
+
+Rhydon @ Smooth Rock
+Ability: Lightning Rod
+- Rock Blast
+- Fire Fang
+- Earthquake
+- Avalanche
+
+Torterra @ Bright Powder
+Ability: Overgrow
+- Frenzy Plant
+- Double Team
+- Hyper Beam
+- Leech Seed
+
+Blastoise @ Quick Claw
+Ability: Rain Dish
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Rain Dance

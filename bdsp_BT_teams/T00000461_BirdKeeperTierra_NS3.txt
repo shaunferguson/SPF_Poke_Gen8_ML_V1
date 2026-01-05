@@ -1,0 +1,20 @@
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Anorith @ Scope Lens
+Ability: Battle Armor
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun

@@ -1,0 +1,27 @@
+Seadra @ Mystic Water
+Ability: Sniper
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Beedrill @ Focus Sash
+Ability: Swarm
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Ponyta @ Passho Berry
+Ability: Flame Body
+- Flame Charge
+- Iron Tail
+- Take Down
+- Tail Whip

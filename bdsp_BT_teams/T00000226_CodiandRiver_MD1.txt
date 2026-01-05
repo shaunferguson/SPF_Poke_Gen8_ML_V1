@@ -1,0 +1,27 @@
+Golem @ Focus Band
+Ability: Sand Veil
+- Sandstorm
+- Defense Curl
+- Rock Blast
+- Gyro Ball
+
+Flareon @ White Herb
+Ability: Flash Fire
+- Overheat
+- Giga Impact
+- Iron Tail
+- Quick Attack
+
+Heatran @ Focus Sash
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse
+
+Mismagius @ Leftovers
+Ability: Levitate
+- Shadow Ball
+- Dark Pulse
+- Charge Beam
+- Imprison

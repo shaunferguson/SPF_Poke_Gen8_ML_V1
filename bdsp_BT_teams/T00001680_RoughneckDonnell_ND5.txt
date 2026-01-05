@@ -1,0 +1,27 @@
+Sceptile @ Leftovers
+Ability: Overgrow
+- Leech Seed
+- Double Team
+- Dragon Pulse
+- Giga Drain
+
+Medicham @ Focus Band
+Ability: Pure Power
+- High Jump Kick
+- Thunder Punch
+- Ice Punch
+- Fire Punch
+
+Raichu @ Wide Lens
+Ability: Lightning Rod
+- Thunderbolt
+- Quick Attack
+- Slam
+- Iron Tail
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team

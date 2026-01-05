@@ -1,0 +1,20 @@
+Onix @ Sitrus Berry
+Ability: Sturdy
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm
+
+Minun @ Salac Berry
+Ability: Minus
+- Spark
+- Charm
+- Encore
+- Helping Hand
+
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge

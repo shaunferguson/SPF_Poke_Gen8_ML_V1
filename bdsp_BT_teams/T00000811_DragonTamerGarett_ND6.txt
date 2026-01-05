@@ -1,0 +1,27 @@
+Mismagius @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Confuse Ray
+- Perish Song
+- Mean Look
+
+Blaziken @ Shell Bell
+Ability: Blaze
+- Aerial Ace
+- Flare Blitz
+- Will-O-Wisp
+- Bulk Up
+
+Houndoom @ Focus Sash
+Ability: Flash Fire
+- Counter
+- Flame Charge
+- Crunch
+- Thunder Fang
+
+Aerodactyl @ Leftovers
+Ability: Pressure
+- Swagger
+- Attract
+- Rock Slide
+- Roost

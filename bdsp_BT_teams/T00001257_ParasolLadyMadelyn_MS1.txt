@@ -1,0 +1,20 @@
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+- Earthquake
+- Guillotine
+- Substitute
+- Protect

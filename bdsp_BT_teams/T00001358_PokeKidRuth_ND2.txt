@@ -1,0 +1,27 @@
+Bronzor @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Charmander @ Scope Lens
+Ability: Blaze
+- Dragon Breath
+- Inferno
+- Fire Spin
+- Scary Face
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound

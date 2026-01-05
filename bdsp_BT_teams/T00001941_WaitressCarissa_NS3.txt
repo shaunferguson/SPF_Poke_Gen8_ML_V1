@@ -1,0 +1,20 @@
+Murkrow @ Wacan Berry
+Ability: Prankster
+- Dark Pulse
+- Fly
+- Torment
+- Taunt
+
+Sneasel @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind

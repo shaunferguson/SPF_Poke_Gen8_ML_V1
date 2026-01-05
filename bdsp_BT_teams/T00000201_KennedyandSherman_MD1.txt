@@ -1,0 +1,27 @@
+Skarmory @ Life Orb
+Ability: Weak Armor
+- Brave Bird
+- Iron Head
+- Swords Dance
+- Rock Slide
+
+Jynx @ Wise Glasses
+Ability: Dry Skin
+- Ice Beam
+- Psychic
+- Focus Blast
+- Shadow Ball
+
+Toxicroak @ Light Ball
+Ability: Dry Skin
+- Fling
+- Poison Jab
+- Taunt
+- Sucker Punch
+
+Shuckle @ Bright Powder
+Ability: Sturdy
+- Power Trick
+- Double Team
+- Wrap
+- Toxic

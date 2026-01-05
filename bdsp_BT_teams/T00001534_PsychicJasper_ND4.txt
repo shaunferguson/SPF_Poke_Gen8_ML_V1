@@ -1,0 +1,27 @@
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Chansey @ Sitrus Berry
+Ability: Serene Grace
+- Substitute
+- Seismic Toss
+- Soft-Boiled
+- Minimize
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz

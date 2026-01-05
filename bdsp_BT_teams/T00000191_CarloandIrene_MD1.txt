@@ -1,0 +1,27 @@
+Gastrodon @ Wiki Berry
+Ability: Storm Drain
+- Scald
+- Earth Power
+- Recover
+- Mirror Coat
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast
+
+Rhyperior @ Muscle Band
+Ability: Solid Rock
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Thunder Punch
+
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang

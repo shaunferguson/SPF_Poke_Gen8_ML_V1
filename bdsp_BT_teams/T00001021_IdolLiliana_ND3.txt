@@ -1,0 +1,27 @@
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow
+
+Furret @ Liechi Berry
+Ability: Keen Eye
+- Slam
+- Protect
+- Helping Hand
+- Follow Me
+
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz
+
+Shelgon @ Cheri Berry
+Ability: Overcoat
+- Headbutt
+- Dragon Breath
+- Protect
+- Scary Face

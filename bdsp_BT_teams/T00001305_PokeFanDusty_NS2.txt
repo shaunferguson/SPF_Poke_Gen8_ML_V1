@@ -1,0 +1,20 @@
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility
+
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Psyduck @ Persim Berry
+Ability: Cloud Nine
+- Confusion
+- Fury Swipes
+- Aerial Ace
+- Disable

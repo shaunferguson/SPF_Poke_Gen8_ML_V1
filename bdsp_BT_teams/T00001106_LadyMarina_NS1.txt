@@ -1,0 +1,20 @@
+Totodile @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Screech
+- Scary Face
+
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash

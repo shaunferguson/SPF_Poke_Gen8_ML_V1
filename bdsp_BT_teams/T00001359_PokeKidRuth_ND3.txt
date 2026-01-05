@@ -1,0 +1,27 @@
+Furret @ Liechi Berry
+Ability: Keen Eye
+- Slam
+- Protect
+- Helping Hand
+- Follow Me
+
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+- Slash
+- Counter
+- Encore
+- Uproar
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Mightyena @ Mental Herb
+Ability: Intimidate
+- Bite
+- Poison Fang
+- Taunt
+- Roar

@@ -1,0 +1,20 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Giga Impact
+- Earthquake
+- Night Slash
+- Hammer Arm
+
+Suicune @ Leftovers
+Ability: Pressure
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam

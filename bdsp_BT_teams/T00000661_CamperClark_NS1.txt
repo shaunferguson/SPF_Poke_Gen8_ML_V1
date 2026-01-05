@@ -1,0 +1,27 @@
+Shuppet @ Rawst Berry
+Ability: Insomnia
+- Will-O-Wisp
+- Shadow Sneak
+- Grudge
+- Knock Off
+
+Duskull @ Spell Tag
+Ability: Levitate
+- Shadow Sneak
+- Will-O-Wisp
+- Disable
+- Confuse Ray
+
+Growlithe @ Shuca Berry
+Ability: Intimidate
+- Flame Wheel
+- Bite
+- Roar
+- Agility
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize

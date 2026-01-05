@@ -1,0 +1,20 @@
+Riolu @ Focus Sash
+Ability: Prankster
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Budew @ Big Root
+Ability: Poison Point
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

@@ -1,0 +1,27 @@
+Raikou @ Choice Specs
+Ability: Inner Focus
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+- Fire Punch
+- Close Combat
+- Acrobatics
+- Swords Dance
+
+Honchkrow @ Black Glasses
+Ability: Moxie
+- Night Slash
+- Sucker Punch
+- Brave Bird
+- Thunder Wave
+
+Moltres @ Lax Incense
+Ability: Flame Body
+- Mystical Fire
+- Hurricane
+- Will-O-Wisp
+- Roost

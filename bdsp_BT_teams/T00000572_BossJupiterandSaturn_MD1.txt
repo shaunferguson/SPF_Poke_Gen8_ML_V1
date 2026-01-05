@@ -1,0 +1,27 @@
+Crobat @ Choice Band
+Ability: Inner Focus
+- Cross Poison
+- Brave Bird
+- U-turn
+- Zen Headbutt
+
+Toxicroak @ Muscle Band
+Ability: Poison Touch
+- Poison Jab
+- Cross Chop
+- Fake Out
+- Bullet Punch
+
+Sharpedo @ Mystic Water
+Ability: Speed Boost
+- Waterfall
+- Crunch
+- Ice Fang
+- Protect
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+- Ice Punch
+- Rock Slide
+- Fire Punch
+- Earthquake

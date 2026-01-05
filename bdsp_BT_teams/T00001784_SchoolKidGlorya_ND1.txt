@@ -1,0 +1,27 @@
+Torchic @ Shuca Berry
+Ability: Blaze
+- Flame Charge
+- Quick Attack
+- Sand Attack
+- Double Team
+
+Smoochum @ Bright Powder
+Ability: Oblivious
+- Sweet Kiss
+- Sing
+- Confusion
+- Ice Beam
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer
+
+Psyduck @ Persim Berry
+Ability: Cloud Nine
+- Confusion
+- Fury Swipes
+- Aerial Ace
+- Disable

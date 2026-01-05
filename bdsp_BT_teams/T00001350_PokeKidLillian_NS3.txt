@@ -1,0 +1,20 @@
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow
+
+Quilava @ Focus Band
+Ability: Blaze
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Sunflora @ Persim Berry
+Ability: Solar Power
+- Petal Dance
+- Ingrain
+- Leech Seed
+- Light Screen

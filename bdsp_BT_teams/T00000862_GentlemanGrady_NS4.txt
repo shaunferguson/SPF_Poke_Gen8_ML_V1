@@ -1,0 +1,27 @@
+Sneasel @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Octillery @ Leftovers
+Ability: Moody
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect
+
+Wormadam @ Coba Berry
+Ability: Overcoat
+- Razor Leaf
+- Psybeam
+- Protect
+- Bug Buzz

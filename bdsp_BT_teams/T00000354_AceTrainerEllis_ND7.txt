@@ -1,0 +1,27 @@
+Magmortar @ Sitrus Berry
+Ability: Flame Body
+- Overheat
+- Thunderbolt
+- Psychic
+- Belch
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Walrein @ Quick Claw
+Ability: Thick Fat
+- Rest
+- Sleep Talk
+- Sheer Cold
+- Fissure
+
+Flygon @ Soft Sand
+Ability: Levitate
+- Earthquake
+- Dragon Claw
+- Stone Edge
+- Dragon Dance

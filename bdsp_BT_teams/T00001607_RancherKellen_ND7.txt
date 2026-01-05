@@ -1,0 +1,27 @@
+Jolteon @ Magnet
+Ability: Volt Absorb
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn
+
+Rhyperior @ Expert Belt
+Ability: Solid Rock
+- Rock Wrecker
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Dugtrio @ Bright Powder
+Ability: Arena Trap
+- Swagger
+- Attract
+- Sand Attack
+- Sucker Punch
+
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal

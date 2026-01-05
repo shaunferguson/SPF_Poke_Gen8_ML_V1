@@ -1,0 +1,27 @@
+Vulpix @ Focus Sash
+Ability: Drought
+- Will-O-Wisp
+- Confuse Ray
+- Fire Spin
+- Quick Attack
+
+Snorunt @ King's Rock
+Ability: Moody
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect
+
+Tentacool @ Pecha Berry
+Ability: Liquid Ooze
+- Bubble Beam
+- Acid
+- Sludge Bomb
+- Wrap

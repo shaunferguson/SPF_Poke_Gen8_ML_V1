@@ -1,0 +1,27 @@
+Primeape @ Sitrus Berry
+Ability: Defiant
+- Cross Chop
+- Stomping Tantrum
+- Swagger
+- Thief
+
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack
+
+Grumpig @ Petaya Berry
+Ability: Thick Fat
+- Psybeam
+- Confuse Ray
+- Future Sight
+- Magic Coat
+
+Mantine @ Mystic Water
+Ability: Swift Swim
+- Bubble Beam
+- Aerial Ace
+- Rain Dance
+- Psybeam

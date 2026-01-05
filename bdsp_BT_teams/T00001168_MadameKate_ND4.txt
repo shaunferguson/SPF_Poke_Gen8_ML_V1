@@ -1,0 +1,27 @@
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap
+
+Chatot @ Yache Berry
+Ability: Big Pecks
+- Chatter
+- Torment
+- Sing
+- U-turn
+
+Dusclops @ Leftovers
+Ability: Pressure
+- Will-O-Wisp
+- Night Shade
+- Pain Split
+- Confuse Ray
+
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack

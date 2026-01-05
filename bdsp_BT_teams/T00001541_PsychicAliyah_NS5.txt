@@ -1,0 +1,20 @@
+Gastrodon @ Leftovers
+Ability: Storm Drain
+- Mirror Coat
+- Recover
+- Waterfall
+- Earthquake
+
+Mantine @ Mystic Water
+Ability: Swift Swim
+- Bubble Beam
+- Aerial Ace
+- Rain Dance
+- Psybeam
+
+Clefable @ Life Orb
+Ability: Magic Guard
+- Moonblast
+- Flamethrower
+- Thunderbolt
+- Moonlight

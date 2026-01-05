@@ -1,0 +1,27 @@
+Raichu @ Wide Lens
+Ability: Lightning Rod
+- Thunderbolt
+- Quick Attack
+- Slam
+- Iron Tail
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Claydol @ Hard Stone
+Ability: Levitate
+- Rock Polish
+- Earthquake
+- Rock Slide
+- Psychic
+
+Shiftry @ Leftovers
+Ability: Early Bird
+- Double Team
+- Leech Seed
+- Swagger
+- Synthesis

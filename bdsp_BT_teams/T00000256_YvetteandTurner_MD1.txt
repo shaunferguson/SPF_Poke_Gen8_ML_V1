@@ -1,0 +1,27 @@
+Regigigas @ Chople Berry
+Ability: Slow Start
+- Crush Grip
+- Protect
+- Stone Edge
+- Brick Break
+
+Golduck @ Muscle Band
+Ability: Cloud Nine
+- Swagger
+- Psych Up
+- Waterfall
+- Cross Chop
+
+Aerodactyl @ Yache Berry
+Ability: Pressure
+- Aerial Ace
+- Crunch
+- Rock Slide
+- Earthquake
+
+Regirock @ Passho Berry
+Ability: Sturdy
+- Superpower
+- Stone Edge
+- Rock Tomb
+- Strength

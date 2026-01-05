@@ -1,0 +1,27 @@
+Typhlosion @ Wide Lens
+Ability: Blaze
+- Will-O-Wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Muk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break
+
+Slowking @ Wise Glasses
+Ability: Own Tempo
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam
+
+Blastoise @ Iron Ball
+Ability: Torrent
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball

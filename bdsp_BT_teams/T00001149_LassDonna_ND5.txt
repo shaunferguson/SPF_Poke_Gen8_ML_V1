@@ -1,0 +1,27 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech
+
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl
+
+Xatu @ Sharp Beak
+Ability: Magic Bounce
+- Air Slash
+- Night Shade
+- Wish
+- Future Sight

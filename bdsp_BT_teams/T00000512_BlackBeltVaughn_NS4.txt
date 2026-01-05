@@ -1,0 +1,20 @@
+Seaking @ Sitrus Berry
+Ability: Lightning Rod
+- Water Pulse
+- Psybeam
+- Poison Jab
+- Agility
+
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap
+
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite

@@ -1,0 +1,27 @@
+Flareon @ Charcoal
+Ability: Flash Fire
+- Will-O-Wisp
+- Flare Blitz
+- Iron Tail
+- Quick Attack
+
+Swampert @ Lum Berry
+Ability: Torrent
+- Earthquake
+- Waterfall
+- Hammer Arm
+- Curse
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass
+
+Sceptile @ Bright Powder
+Ability: Overgrow
+- Energy Ball
+- Dragon Pulse
+- Focus Blast
+- Synthesis

@@ -1,0 +1,27 @@
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest
+
+Golduck @ Pecha Berry
+Ability: Cloud Nine
+- Psychic
+- Disable
+- Surf
+- Brick Break
+
+Armaldo @ Wide Lens
+Ability: Battle Armor
+- Stone Edge
+- Slash
+- X-Scissor
+- Iron Tail

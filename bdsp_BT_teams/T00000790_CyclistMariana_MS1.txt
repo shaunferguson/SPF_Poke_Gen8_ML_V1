@@ -1,0 +1,20 @@
+Houndoom @ Passho Berry
+Ability: Flash Fire
+- Fire Fang
+- Thunder Fang
+- Crunch
+- Will-O-Wisp
+
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Protect
+- Earthquake
+- Crunch
+
+Nidoking @ Expert Belt
+Ability: Poison Point
+- Earth Power
+- Sludge Bomb
+- Ice Beam
+- Shadow Ball

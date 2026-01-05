@@ -1,0 +1,20 @@
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day

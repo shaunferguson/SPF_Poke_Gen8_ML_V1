@@ -1,0 +1,20 @@
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Bronzor @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Natu @ Twisted Spoon
+Ability: Magic Bounce
+- Night Shade
+- Future Sight
+- Psychic
+- Flash

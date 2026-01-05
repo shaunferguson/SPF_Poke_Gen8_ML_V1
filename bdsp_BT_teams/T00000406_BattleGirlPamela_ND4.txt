@@ -1,0 +1,27 @@
+Combusken @ Scope Lens
+Ability: Blaze
+- Ember
+- Double Kick
+- Quick Attack
+- Sand Attack
+
+Dodrio @ Chesto Berry
+Ability: Early Bird
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest
+
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide
+
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball

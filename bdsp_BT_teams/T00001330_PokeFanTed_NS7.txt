@@ -1,0 +1,20 @@
+Espeon @ Focus Sash
+Ability: Magic Bounce
+- Light Screen
+- Psychic
+- Shadow Ball
+- Dazzling Gleam
+
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower

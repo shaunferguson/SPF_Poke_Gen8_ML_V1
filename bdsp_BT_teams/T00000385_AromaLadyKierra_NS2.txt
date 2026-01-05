@@ -1,0 +1,20 @@
+Bonsly @ Passho Berry
+Ability: Sturdy
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Munchlax @ Figy Berry
+Ability: Gluttony
+- Metronome
+- Recycle
+- Stockpile
+- Fissure
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout

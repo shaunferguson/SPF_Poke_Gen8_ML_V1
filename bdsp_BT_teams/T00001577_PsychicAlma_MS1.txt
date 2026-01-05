@@ -1,0 +1,20 @@
+Quagsire @ Focus Sash
+Ability: Unaware
+- Counter
+- Focus Punch
+- Yawn
+- Ice Beam
+
+Regirock @ Quick Claw
+Ability: Clear Body
+- Explosion
+- Stone Edge
+- Earthquake
+- Brick Break
+
+Regigigas @ Bright Powder
+Ability: Slow Start
+- Swagger
+- Psych Up
+- Crush Grip
+- Aerial Ace

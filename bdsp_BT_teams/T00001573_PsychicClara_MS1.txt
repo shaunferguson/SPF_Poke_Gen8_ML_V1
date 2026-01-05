@@ -1,0 +1,20 @@
+Latias @ Lum Berry
+Ability: Levitate
+- Calm Mind
+- Dragon Pulse
+- Psychic
+- Roost
+
+Medicham @ Salac Berry
+Ability: Pure Power
+- Endure
+- Reversal
+- Psycho Cut
+- Thunder Punch
+
+Blaziken @ Passho Berry
+Ability: Speed Boost
+- Overheat
+- Flare Blitz
+- Protect
+- Close Combat

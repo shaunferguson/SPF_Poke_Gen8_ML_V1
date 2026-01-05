@@ -1,0 +1,27 @@
+Arcanine @ Wiki Berry
+Ability: Intimidate
+- Heat Wave
+- Snarl
+- Will-O-Wisp
+- Flamethrower
+
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head
+
+Lucario @ Focus Sash
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Earthquake
+- Rock Slide
+
+Garchomp @ Yache Berry
+Ability: Rough Skin
+- Earthquake
+- Rock Slide
+- Dragon Claw
+- Crunch

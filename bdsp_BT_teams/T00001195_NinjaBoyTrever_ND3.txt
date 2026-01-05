@@ -1,0 +1,27 @@
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Nosepass @ Hard Stone
+Ability: Sturdy
+- Rock Slide
+- Shock Wave
+- Thunder Wave
+- Sandstorm
+
+Linoone @ Sitrus Berry
+Ability: Gluttony
+- Extreme Speed
+- Sand Attack
+- Covet
+- Tickle
+
+Roselia @ Black Sludge
+Ability: Poison Point
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore

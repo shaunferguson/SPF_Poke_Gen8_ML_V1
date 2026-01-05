@@ -1,0 +1,27 @@
+Arcanine @ Wiki Berry
+Ability: Intimidate
+- Heat Wave
+- Snarl
+- Will-O-Wisp
+- Flamethrower
+
+Starmie @ Focus Sash
+Ability: Analytic
+- Blizzard
+- Dazzling Gleam
+- Hydro Pump
+- Reflect
+
+Salamence @ Yache Berry
+Ability: Intimidate
+- Rock Slide
+- Dragon Claw
+- Zen Headbutt
+- Protect
+
+Metagross @ Sitrus Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash

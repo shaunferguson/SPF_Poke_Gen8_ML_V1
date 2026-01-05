@@ -1,0 +1,27 @@
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+- Waterfall
+- Ice Punch
+- Crunch
+- Dragon Dance
+
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang
+
+Abomasnow @ Choice Scarf
+Ability: Snow Warning
+- Blizzard
+- Energy Ball
+- Earth Power
+- Focus Blast

@@ -1,0 +1,27 @@
+Claydol @ Hard Stone
+Ability: Levitate
+- Rock Polish
+- Earthquake
+- Rock Slide
+- Psychic
+
+Garchomp @ Persim Berry
+Ability: Rough Skin
+- Outrage
+- Swords Dance
+- Stone Edge
+- Earthquake
+
+Meganium @ Occa Berry
+Ability: Overgrow
+- Solar Beam
+- Sunny Day
+- Synthesis
+- Ancient Power
+
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray

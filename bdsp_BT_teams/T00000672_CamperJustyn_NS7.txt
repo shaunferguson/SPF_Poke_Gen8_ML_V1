@@ -1,0 +1,20 @@
+Arcanine @ Lum Berry
+Ability: Intimidate
+- Flamethrower
+- Dragon Pulse
+- Will-O-Wisp
+- Extreme Speed
+
+Garchomp @ Persim Berry
+Ability: Rough Skin
+- Outrage
+- Swords Dance
+- Stone Edge
+- Earthquake
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+- Soft-Boiled

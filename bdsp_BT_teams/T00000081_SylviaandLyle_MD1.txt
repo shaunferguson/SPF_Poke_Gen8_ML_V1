@@ -1,0 +1,27 @@
+Absol @ Scope Lens
+Ability: Super Luck
+- Night Slash
+- Stone Edge
+- Perish Song
+- Psycho Cut
+
+Regigigas @ Bright Powder
+Ability: Slow Start
+- Swagger
+- Psych Up
+- Crush Grip
+- Aerial Ace
+
+Registeel @ Chesto Berry
+Ability: Clear Body
+- Curse
+- Rest
+- Flash Cannon
+- Metal Claw
+
+Golem @ Passho Berry
+Ability: Sturdy
+- Substitute
+- Focus Punch
+- Earthquake
+- Rock Blast

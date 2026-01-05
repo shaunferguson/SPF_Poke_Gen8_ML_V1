@@ -1,0 +1,27 @@
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Aerial Ace
+- Sleep Talk
+- Rest
+
+Articuno @ Bright Powder
+Ability: Pressure
+- Roost
+- Ice Beam
+- Sheer Cold
+- Double Team
+
+Porygon2 @ Wise Glasses
+Ability: Trace
+- Ice Beam
+- Defense Curl
+- Recover
+- Tri Attack
+
+Suicune @ Icy Rock
+Ability: Pressure
+- Hail
+- Scald
+- Ice Beam
+- Blizzard

@@ -1,0 +1,20 @@
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Chimchar @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Acrobatics
+- Fury Swipes
+- Bulk Up
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+- Surf
+- Protect
+- Iron Defense
+- Double Team

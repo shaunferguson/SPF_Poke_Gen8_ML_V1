@@ -1,0 +1,27 @@
+Luxio @ Magnet
+Ability: Intimidate
+- Spark
+- Bite
+- Roar
+- Swagger
+
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Rock Slide
+- Dig
+- Avalanche
+- Waterfall
+
+Ariados @ Focus Sash
+Ability: Insomnia
+- Sticky Web
+- Toxic Spikes
+- Night Shade
+- Toxic Thread
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility

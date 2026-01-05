@@ -1,0 +1,20 @@
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head
+
+Regice @ Zoom Lens
+Ability: Clear Body
+- Thunder
+- Blizzard
+- Focus Blast
+- Flash Cannon
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance

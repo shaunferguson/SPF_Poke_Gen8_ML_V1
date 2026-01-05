@@ -1,0 +1,27 @@
+Scizor @ Occa Berry
+Ability: Swarm
+- X-Scissor
+- Iron Head
+- Aerial Ace
+- Night Slash
+
+Cradily @ Quick Claw
+Ability: Storm Drain
+- Sandstorm
+- Ancient Power
+- Giga Drain
+- Hyper Beam
+
+Froslass @ Lax Incense
+Ability: Cursed Body
+- Light Screen
+- Ice Beam
+- Shadow Ball
+- Psychic
+
+Magmortar @ Wiki Berry
+Ability: Flame Body
+- Earthquake
+- Flamethrower
+- Thunderbolt
+- Will-O-Wisp

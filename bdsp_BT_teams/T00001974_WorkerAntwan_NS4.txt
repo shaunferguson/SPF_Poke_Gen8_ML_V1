@@ -1,0 +1,20 @@
+Octillery @ Leftovers
+Ability: Moody
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect
+
+Piloswine @ Soft Sand
+Ability: Thick Fat
+- Rock Tomb
+- Earthquake
+- Ice Shard
+- Light Screen
+
+Dodrio @ Chesto Berry
+Ability: Early Bird
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest

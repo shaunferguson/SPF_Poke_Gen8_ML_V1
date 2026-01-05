@@ -1,0 +1,27 @@
+Blaziken @ Shell Bell
+Ability: Blaze
+- Aerial Ace
+- Flare Blitz
+- Will-O-Wisp
+- Bulk Up
+
+Victreebel @ Sitrus Berry
+Ability: Gluttony
+- Leaf Blade
+- Poison Jab
+- Leech Life
+- Strength Sap
+
+Vileplume @ Big Root
+Ability: Chlorophyll
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Glalie @ Leftovers
+Ability: Moody
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold

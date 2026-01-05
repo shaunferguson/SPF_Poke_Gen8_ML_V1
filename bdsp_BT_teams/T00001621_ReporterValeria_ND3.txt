@@ -1,0 +1,27 @@
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack
+
+Gloom @ Persim Berry
+Ability: Chlorophyll
+- Petal Dance
+- Acid
+- Stun Spore
+- Moonlight
+
+Dunsparce @ Lax Incense
+Ability: Serene Grace
+- Headbutt
+- Glare
+- Defense Curl
+- Rollout
+
+Plusle @ Petaya Berry
+Ability: Plus
+- Spark
+- Fake Tears
+- Quick Attack
+- Helping Hand

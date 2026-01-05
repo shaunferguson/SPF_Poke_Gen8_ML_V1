@@ -1,0 +1,27 @@
+Scyther @ Liechi Berry
+Ability: Technician
+- Fury Cutter
+- Aerial Ace
+- Light Screen
+- Double Team
+
+Omastar @ Shell Bell
+Ability: Swift Swim
+- Bubble Beam
+- Rock Blast
+- Tickle
+- Ancient Power
+
+Purugly @ Silk Scarf
+Ability: Thick Fat
+- Slash
+- U-turn
+- Attract
+- Fake Out
+
+Sharpedo @ Scope Lens
+Ability: Speed Boost
+- Slash
+- Bite
+- Water Pulse
+- Scary Face

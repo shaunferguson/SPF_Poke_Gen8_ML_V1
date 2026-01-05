@@ -1,0 +1,27 @@
+Miltank @ Metronome
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Thunder Wave
+
+Honchkrow @ Black Glasses
+Ability: Moxie
+- Night Slash
+- Sucker Punch
+- Brave Bird
+- Thunder Wave
+
+Milotic @ Life Orb
+Ability: Competitive
+- Scald
+- Ice Beam
+- Hydro Pump
+- Dragon Pulse
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance

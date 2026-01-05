@@ -1,0 +1,20 @@
+Honchkrow @ Black Glasses
+Ability: Moxie
+- Night Slash
+- Sucker Punch
+- Brave Bird
+- Thunder Wave
+
+Claydol @ Leftovers
+Ability: Levitate
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder

@@ -1,0 +1,20 @@
+Milotic @ Leftovers
+Ability: Cute Charm
+- Surf
+- Ice Beam
+- Aqua Ring
+- Haze
+
+Lanturn @ Quick Claw
+Ability: Volt Absorb
+- Charge
+- Charge Beam
+- Hydro Pump
+- Ice Beam
+
+Regice @ Ganlon Berry
+Ability: Clear Body
+- Focus Blast
+- Blizzard
+- Giga Impact
+- Rock Polish

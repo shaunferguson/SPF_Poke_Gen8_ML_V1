@@ -1,0 +1,20 @@
+Ampharos @ Toxic Orb
+Ability: Static
+- Thunder Wave
+- Facade
+- Fling
+- Rest
+
+Tyranitar @ Expert Belt
+Ability: Sand Stream
+- Dark Pulse
+- Ice Beam
+- Flamethrower
+- Ancient Power
+
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal

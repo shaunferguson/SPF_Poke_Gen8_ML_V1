@@ -1,0 +1,27 @@
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Cacturne @ Scope Lens
+Ability: Water Absorb
+- Seed Bomb
+- Sucker Punch
+- Poison Jab
+- Revenge
+
+Chatot @ Yache Berry
+Ability: Big Pecks
+- Chatter
+- Torment
+- Sing
+- U-turn

@@ -1,0 +1,27 @@
+Glalie @ Leftovers
+Ability: Moody
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold
+
+Skuntank @ Bright Powder
+Ability: Aftermath
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough
+
+Empoleon @ Chesto Berry
+Ability: Torrent
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest
+
+Raichu @ Wide Lens
+Ability: Lightning Rod
+- Thunderbolt
+- Quick Attack
+- Slam
+- Iron Tail

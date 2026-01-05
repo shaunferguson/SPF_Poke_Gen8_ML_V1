@@ -1,0 +1,27 @@
+Baltoy @ Twisted Spoon
+Ability: Levitate
+- Psybeam
+- Ancient Power
+- Light Screen
+- Mud-Slap
+
+Dratini @ Persim Berry
+Ability: Shed Skin
+- Outrage
+- Thunder Wave
+- Dragon Dance
+- Water Pulse
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect
+
+Elekid @ Cheri Berry
+Ability: Static
+- Thunder Punch
+- Quick Attack
+- Swift
+- Light Screen

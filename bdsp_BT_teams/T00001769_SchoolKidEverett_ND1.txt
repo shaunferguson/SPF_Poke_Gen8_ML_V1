@@ -1,0 +1,27 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Piplup @ Wacan Berry
+Ability: Torrent
+- Brine
+- Ice Beam
+- Grass Knot
+- Scald
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance
+
+Spoink @ Sitrus Berry
+Ability: Thick Fat
+- Psychic
+- Bounce
+- Magic Coat
+- Confuse Ray

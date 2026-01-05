@@ -1,0 +1,20 @@
+Chimchar @ Sitrus Berry
+Ability: Blaze
+- Fire Spin
+- Double Team
+- Nasty Plot
+- Grass Knot
+
+Glameow @ Quick Claw
+Ability: Limber
+- Fake Out
+- Fury Swipes
+- Growl
+- Attract
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance

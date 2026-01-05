@@ -1,0 +1,27 @@
+Whiscash @ Zoom Lens
+Ability: Oblivious
+- Hydro Pump
+- Blizzard
+- Fissure
+- Future Sight
+
+Pinsir @ Bright Powder
+Ability: Mold Breaker
+- Bulk Up
+- Earthquake
+- X-Scissor
+- Stone Edge
+
+Raichu @ Focus Band
+Ability: Lightning Rod
+- Thunder Punch
+- Feint
+- Brick Break
+- Double Team
+
+Tauros @ Chesto Berry
+Ability: Intimidate
+- Earthquake
+- Facade
+- Iron Tail
+- Rest

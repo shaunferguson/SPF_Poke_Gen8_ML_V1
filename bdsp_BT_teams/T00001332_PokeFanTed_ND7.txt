@@ -1,0 +1,27 @@
+Steelix @ Occa Berry
+Ability: Sturdy
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Dusknoir @ Ganlon Berry
+Ability: Pressure
+- Curse
+- Pain Split
+- Ice Punch
+- Protect
+
+Torterra @ White Herb
+Ability: Overgrow
+- Leaf Storm
+- Worry Seed
+- Earthquake
+- Bite
+
+Roserade @ Big Root
+Ability: Poison Point
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute

@@ -1,0 +1,27 @@
+Feraligatr @ Wise Glasses
+Ability: Torrent
+- Hydro Pump
+- Ice Beam
+- Dragon Pulse
+- Ancient Power
+
+Flygon @ Soft Sand
+Ability: Levitate
+- Earthquake
+- Dragon Claw
+- Stone Edge
+- Dragon Dance
+
+Magmortar @ Sitrus Berry
+Ability: Flame Body
+- Overheat
+- Thunderbolt
+- Psychic
+- Belch
+
+Empoleon @ Wacan Berry
+Ability: Torrent
+- Drill Peck
+- Brick Break
+- Aqua Jet
+- Ice Beam

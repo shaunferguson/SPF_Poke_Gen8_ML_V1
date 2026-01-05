@@ -1,0 +1,20 @@
+Espeon @ Light Clay
+Ability: Magic Bounce
+- Reflect
+- Dazzling Gleam
+- Baton Pass
+- Light Screen
+
+Blaziken @ Expert Belt
+Ability: Speed Boost
+- Flare Blitz
+- Close Combat
+- Thunder Punch
+- Swords Dance
+
+Clefable @ Sitrus Berry
+Ability: Unaware
+- Moonblast
+- Calm Mind
+- Minimize
+- Moonlight

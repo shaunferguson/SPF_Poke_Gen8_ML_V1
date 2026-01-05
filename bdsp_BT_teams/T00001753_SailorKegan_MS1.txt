@@ -1,0 +1,20 @@
+Suicune @ Wacan Berry
+Ability: Pressure
+- Rest
+- Icy Wind
+- Calm Mind
+- Scald
+
+Raikou @ Shuca Berry
+Ability: Pressure
+- Thunderbolt
+- Scald
+- Shadow Ball
+- Calm Mind
+
+Golem @ Passho Berry
+Ability: Sturdy
+- Substitute
+- Focus Punch
+- Earthquake
+- Rock Blast

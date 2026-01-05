@@ -1,0 +1,20 @@
+Arbok @ Persim Berry
+Ability: Intimidate
+- Poison Fang
+- Dig
+- Bite
+- Glare
+
+Sharpedo @ Scope Lens
+Ability: Speed Boost
+- Slash
+- Bite
+- Water Pulse
+- Scary Face
+
+Stantler @ Twisted Spoon
+Ability: Intimidate
+- Extrasensory
+- Confuse Ray
+- Stomp
+- Sand Attack

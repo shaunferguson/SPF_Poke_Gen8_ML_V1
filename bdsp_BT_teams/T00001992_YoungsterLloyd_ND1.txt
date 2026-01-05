@@ -1,0 +1,27 @@
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Water Pulse
+- Endeavor
+- Rock Slide
+- Dig
+
+Bulbasaur @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Toxic
+- Synthesis
+- Leech Seed
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen

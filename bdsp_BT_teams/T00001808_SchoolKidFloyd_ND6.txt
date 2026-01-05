@@ -1,0 +1,27 @@
+Absol @ White Herb
+Ability: Pressure
+- Slash
+- Night Slash
+- Double Team
+- Taunt
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Tentacruel @ Leftovers
+Ability: Liquid Ooze
+- Acupressure
+- Rest
+- Sleep Talk
+- Surf
+
+Typhlosion @ Wide Lens
+Ability: Blaze
+- Will-O-Wisp
+- Focus Blast
+- Double Team
+- Fire Blast

@@ -1,0 +1,20 @@
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+- Soft-Boiled
+
+Infernape @ Muscle Band
+Ability: Blaze
+- Flare Blitz
+- Thunder Punch
+- Close Combat
+- U-turn

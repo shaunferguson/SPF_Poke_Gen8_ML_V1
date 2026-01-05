@@ -1,0 +1,20 @@
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect
+
+Lickitung @ Sitrus Berry
+Ability: Own Tempo
+- Slam
+- Brick Break
+- Lick
+- Screech
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect

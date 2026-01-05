@@ -1,0 +1,20 @@
+Forretress @ Occa Berry
+Ability: Sturdy
+- Gyro Ball
+- Counter
+- Spikes
+- Toxic Spikes
+
+Fearow @ Sharp Beak
+Ability: Keen Eye
+- Drill Peck
+- Tri Attack
+- Facade
+- Roost
+
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech

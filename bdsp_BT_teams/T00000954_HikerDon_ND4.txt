@@ -1,0 +1,27 @@
+Scyther @ Liechi Berry
+Ability: Technician
+- Fury Cutter
+- Aerial Ace
+- Light Screen
+- Double Team
+
+Wormadam @ Coba Berry
+Ability: Overcoat
+- Razor Leaf
+- Psybeam
+- Protect
+- Bug Buzz
+
+Carnivine @ Rose Incense
+Ability: Levitate
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Octillery @ Leftovers
+Ability: Moody
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect

@@ -1,0 +1,27 @@
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Starly @ Muscle Band
+Ability: Reckless
+- Wing Attack
+- Quick Attack
+- Thief
+- Take Down
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring
+
+Chinchou @ Lax Incense
+Ability: Volt Absorb
+- Spark
+- Bubble Beam
+- Confuse Ray
+- Take Down

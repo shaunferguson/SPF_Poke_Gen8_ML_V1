@@ -1,0 +1,20 @@
+Chimchar @ Sitrus Berry
+Ability: Blaze
+- Fire Spin
+- Double Team
+- Nasty Plot
+- Grass Knot
+
+Beedrill @ Focus Sash
+Ability: Swarm
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Pachirisu @ Shuca Berry
+Ability: Volt Absorb
+- Discharge
+- Sweet Kiss
+- Quick Attack
+- Nuzzle

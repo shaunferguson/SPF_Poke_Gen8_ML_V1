@@ -1,0 +1,27 @@
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam
+
+Loudred @ Focus Band
+Ability: Scrappy
+- Hyper Voice
+- Howl
+- Astonish
+- Supersonic
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Magby @ Lax Incense
+Ability: Flame Body
+- Fire Punch
+- Smokescreen
+- Confuse Ray
+- Smog

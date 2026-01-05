@@ -1,0 +1,27 @@
+Ponyta @ Passho Berry
+Ability: Flame Body
+- Flame Charge
+- Iron Tail
+- Take Down
+- Tail Whip
+
+Linoone @ Sitrus Berry
+Ability: Gluttony
+- Extreme Speed
+- Sand Attack
+- Covet
+- Tickle
+
+Marshtomp @ Focus Band
+Ability: Torrent
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Mud-Slap
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility

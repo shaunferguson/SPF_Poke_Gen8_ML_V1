@@ -1,0 +1,27 @@
+Piplup @ Wacan Berry
+Ability: Torrent
+- Bubble Beam
+- Peck
+- Growl
+- Mist
+
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

@@ -1,0 +1,27 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Riolu @ Focus Sash
+Ability: Prankster
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Snover @ Icy Rock
+Ability: Snow Warning
+- Razor Leaf
+- Icy Wind
+- Blizzard
+- Ice Shard
+
+Staravia @ Charti Berry
+Ability: Intimidate
+- Endeavor
+- Aerial Ace
+- Whirlwind
+- Quick Attack

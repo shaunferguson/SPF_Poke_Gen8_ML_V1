@@ -1,0 +1,27 @@
+Poliwhirl @ Petaya Berry
+Ability: Water Absorb
+- Water Pulse
+- Earth Power
+- Hypnosis
+- Rain Dance
+
+Geodude @ Sitrus Berry
+Ability: Sturdy
+- Bulldoze
+- Rock Blast
+- Strength
+- Protect
+
+Ledian @ Focus Band
+Ability: Early Bird
+- Light Screen
+- Baton Pass
+- Swords Dance
+- Agility
+
+Munchlax @ Figy Berry
+Ability: Gluttony
+- Metronome
+- Recycle
+- Stockpile
+- Fissure

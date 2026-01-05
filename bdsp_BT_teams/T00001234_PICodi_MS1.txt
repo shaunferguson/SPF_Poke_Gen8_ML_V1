@@ -1,0 +1,20 @@
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Salamence @ Choice Scarf
+Ability: Moxie
+- Outrage
+- Thrash
+- Crunch
+- Earthquake
+
+Exeggutor @ Sitrus Berry
+Ability: Harvest
+- Trick Room
+- Giga Drain
+- Psychic
+- Sludge Bomb

@@ -1,0 +1,20 @@
+Dugtrio @ Bright Powder
+Ability: Arena Trap
+- Swagger
+- Attract
+- Sand Attack
+- Sucker Punch
+
+Crobat @ Sharp Beak
+Ability: Inner Focus
+- Brave Bird
+- Zen Headbutt
+- Cross Poison
+- U-turn
+
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Earthquake
+- Curse
+- Yawn

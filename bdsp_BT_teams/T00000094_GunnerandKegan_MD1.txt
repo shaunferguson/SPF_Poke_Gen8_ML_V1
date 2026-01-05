@@ -1,0 +1,27 @@
+Wailord @ Leftovers
+Ability: Pressure
+- Curse
+- Earthquake
+- Waterfall
+- Double Team
+
+Golduck @ Muscle Band
+Ability: Cloud Nine
+- Swagger
+- Psych Up
+- Waterfall
+- Cross Chop
+
+Blaziken @ Passho Berry
+Ability: Speed Boost
+- Overheat
+- Flare Blitz
+- Protect
+- Close Combat
+
+Alakazam @ Sitrus Berry
+Ability: Magic Guard
+- Psychic
+- Shadow Ball
+- Charge Beam
+- Energy Ball

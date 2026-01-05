@@ -1,0 +1,27 @@
+Forretress @ Sitrus Berry
+Ability: Sturdy
+- Payback
+- Toxic Spikes
+- Gyro Ball
+- Spikes
+
+Zapdos @ Sharp Beak
+Ability: Static
+- Rain Dance
+- Thunder
+- Charge Beam
+- Drill Peck
+
+Regice @ Leftovers
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Protect
+- Focus Blast
+
+Jynx @ Wise Glasses
+Ability: Dry Skin
+- Ice Beam
+- Psychic
+- Focus Blast
+- Shadow Ball

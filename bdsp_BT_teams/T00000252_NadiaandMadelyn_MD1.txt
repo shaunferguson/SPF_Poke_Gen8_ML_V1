@@ -1,0 +1,27 @@
+Regirock @ Liechi Berry
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Body Press
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Latias @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire
+
+Lapras @ Sitrus Berry
+Ability: Water Absorb
+- Surf
+- Freeze-Dry
+- Thunderbolt
+- Sheer Cold

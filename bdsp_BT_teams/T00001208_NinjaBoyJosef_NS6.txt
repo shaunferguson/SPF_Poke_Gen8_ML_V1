@@ -1,0 +1,20 @@
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb
+
+Wailord @ Wacan Berry
+Ability: Pressure
+- Defense Curl
+- Rollout
+- Waterfall
+- Avalanche
+
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash

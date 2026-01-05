@@ -1,0 +1,20 @@
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Chikorita @ Leftovers
+Ability: Overgrow
+- Magical Leaf
+- Reflect
+- Synthesis
+- Poison Powder
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize

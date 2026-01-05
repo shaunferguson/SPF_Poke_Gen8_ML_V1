@@ -1,0 +1,27 @@
+Golem @ Passho Berry
+Ability: Sturdy
+- Substitute
+- Focus Punch
+- Earthquake
+- Rock Blast
+
+Politoed @ Bright Powder
+Ability: Drizzle
+- Surf
+- Focus Blast
+- Ice Beam
+- Perish Song
+
+Pinsir @ Salac Berry
+Ability: Hyper Cutter
+- Endure
+- Flail
+- X-Scissor
+- Superpower
+
+Lanturn @ Quick Claw
+Ability: Volt Absorb
+- Charge
+- Charge Beam
+- Hydro Pump
+- Ice Beam

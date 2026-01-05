@@ -1,0 +1,27 @@
+Torchic @ Shuca Berry
+Ability: Blaze
+- Flame Charge
+- Quick Attack
+- Sand Attack
+- Double Team
+
+Duskull @ Spell Tag
+Ability: Levitate
+- Shadow Sneak
+- Will-O-Wisp
+- Disable
+- Confuse Ray
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash
+
+Cacnea @ Sitrus Berry
+Ability: Water Absorb
+- Pin Missile
+- Payback
+- Cotton Spore
+- Sand Attack

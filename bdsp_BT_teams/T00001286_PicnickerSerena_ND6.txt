@@ -1,0 +1,27 @@
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash
+
+Pinsir @ Toxic Orb
+Ability: Mold Breaker
+- Facade
+- Guillotine
+- Earthquake
+- Swords Dance
+
+Exeggutor @ Leftovers
+Ability: Chlorophyll
+- Giga Drain
+- Leech Seed
+- Double Team
+- Substitute
+
+Rampardos @ Persim Berry
+Ability: Mold Breaker
+- Thrash
+- Headbutt
+- Zen Headbutt
+- Head Smash

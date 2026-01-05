@@ -1,0 +1,20 @@
+Articuno @ Bright Powder
+Ability: Pressure
+- Sheer Cold
+- Mind Reader
+- Substitute
+- Roost
+
+Entei @ Choice Band
+Ability: Inner Focus
+- Sacred Fire
+- Extreme Speed
+- Crunch
+- Stone Edge
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower

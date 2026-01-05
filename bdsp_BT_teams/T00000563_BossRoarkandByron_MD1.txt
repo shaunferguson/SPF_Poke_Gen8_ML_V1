@@ -1,0 +1,27 @@
+Aerodactyl @ Muscle Band
+Ability: Unnerve
+- Rock Slide
+- Iron Head
+- Aerial Ace
+- Ice Fang
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+- Ice Punch
+- Rock Slide
+- Fire Punch
+- Earthquake
+
+Metagross @ Sitrus Berry
+Ability: Clear Body
+- Meteor Mash
+- Earthquake
+- Ice Punch
+- Bullet Punch
+
+Heatran @ Focus Sash
+Ability: Flash Fire
+- Heat Wave
+- Flash Cannon
+- Dragon Pulse
+- Earth Power

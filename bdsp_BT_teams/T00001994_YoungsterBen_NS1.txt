@@ -1,0 +1,20 @@
+Shedinja @ Lax Incense
+Ability: Wonder Guard
+- Shadow Sneak
+- Confuse Ray
+- X-Scissor
+- Sand Attack
+
+Bidoof @ Metronome
+Ability: Simple
+- Defense Curl
+- Headbutt
+- Rollout
+- Yawn
+
+Snover @ Icy Rock
+Ability: Snow Warning
+- Razor Leaf
+- Icy Wind
+- Blizzard
+- Ice Shard

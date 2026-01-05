@@ -1,0 +1,27 @@
+Torterra @ Heat Rock
+Ability: Overgrow
+- Sunny Day
+- Synthesis
+- Solar Beam
+- Stone Edge
+
+Absol @ White Herb
+Ability: Pressure
+- Slash
+- Night Slash
+- Double Team
+- Taunt
+
+Feraligatr @ King's Rock
+Ability: Torrent
+- Scary Face
+- Waterfall
+- Rock Slide
+- Ice Fang
+
+Weezing @ Leftovers
+Ability: Levitate
+- Will-O-Wisp
+- Double Team
+- Sludge Bomb
+- Substitute

@@ -1,0 +1,27 @@
+Claydol @ Hard Stone
+Ability: Levitate
+- Rock Polish
+- Earthquake
+- Rock Slide
+- Psychic
+
+Togekiss @ Wide Lens
+Ability: Hustle
+- Extreme Speed
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Arcanine @ Lum Berry
+Ability: Intimidate
+- Flamethrower
+- Dragon Pulse
+- Will-O-Wisp
+- Extreme Speed
+
+Drapion @ Rawst Berry
+Ability: Battle Armor
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison

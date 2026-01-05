@@ -1,0 +1,20 @@
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+- Blizzard
+- Giga Drain
+- Earth Power
+- Ice Shard
+
+Regice @ Leftovers
+Ability: Ice Body
+- Blizzard
+- Thunderbolt
+- Amnesia
+- Rest
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Shell Smash
+- Razor Shell
+- Icicle Spear
+- Rock Blast

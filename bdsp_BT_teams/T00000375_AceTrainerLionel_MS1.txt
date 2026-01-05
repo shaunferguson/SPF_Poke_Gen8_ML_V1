@@ -1,0 +1,20 @@
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+- Stealth Rock
+- Thunder Wave
+- Rock Tomb
+- Crunch
+
+Garchomp @ Bright Powder
+Ability: Sand Veil
+- Earthquake
+- Outrage
+- Aerial Ace
+- Swords Dance
+
+Gastrodon @ Leftovers
+Ability: Sand Force
+- Stone Edge
+- Surf
+- Ice Beam
+- Earth Power

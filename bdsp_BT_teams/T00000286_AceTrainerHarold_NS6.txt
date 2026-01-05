@@ -1,0 +1,20 @@
+Altaria @ Petaya Berry
+Ability: Cloud Nine
+- Dragon Pulse
+- Roost
+- Perish Song
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

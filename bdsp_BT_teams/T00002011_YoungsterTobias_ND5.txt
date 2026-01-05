@@ -1,0 +1,27 @@
+Staraptor @ Choice Band
+Ability: Intimidate
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade
+
+Mantine @ Mystic Water
+Ability: Swift Swim
+- Bubble Beam
+- Aerial Ace
+- Rain Dance
+- Psybeam
+
+Absol @ White Herb
+Ability: Pressure
+- Slash
+- Night Slash
+- Double Team
+- Taunt
+
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb

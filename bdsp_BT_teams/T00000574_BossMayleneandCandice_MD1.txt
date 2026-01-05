@@ -1,0 +1,27 @@
+Hitmontop @ Sitrus Berry
+Ability: Intimidate
+- Close Combat
+- Fake Out
+- Wide Guard
+- Quick Guard
+
+Lucario @ Muscle Band
+Ability: Inner Focus
+- Close Combat
+- Extreme Speed
+- Meteor Mash
+- Protect
+
+Abomasnow @ Choice Scarf
+Ability: Snow Warning
+- Blizzard
+- Energy Ball
+- Earth Power
+- Focus Blast
+
+Articuno @ Choice Specs
+Ability: Snow Cloak
+- Blizzard
+- Hurricane
+- Freeze-Dry
+- Ancient Power

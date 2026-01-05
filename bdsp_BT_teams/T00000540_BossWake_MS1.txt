@@ -1,0 +1,20 @@
+Swampert @ Rindo Berry
+Ability: Torrent
+- Earthquake
+- Waterfall
+- Rock Tomb
+- Avalanche
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Scald
+- Ice Beam
+- Calm Mind
+- Rest
+
+Floatzel @ King's Rock
+Ability: Water Veil
+- Aqua Jet
+- Waterfall
+- Ice Beam
+- Focus Blast

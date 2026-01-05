@@ -1,0 +1,20 @@
+Vileplume @ Big Root
+Ability: Chlorophyll
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Swampert @ Quick Claw
+Ability: Torrent
+- Ancient Power
+- Muddy Water
+- Avalanche
+- Focus Blast
+
+Ludicolo @ Muscle Band
+Ability: Own Tempo
+- Waterfall
+- Razor Leaf
+- Drain Punch
+- Swords Dance

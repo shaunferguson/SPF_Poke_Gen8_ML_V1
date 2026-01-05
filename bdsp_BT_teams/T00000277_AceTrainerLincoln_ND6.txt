@@ -1,0 +1,27 @@
+Aerodactyl @ Leftovers
+Ability: Pressure
+- Swagger
+- Attract
+- Rock Slide
+- Roost
+
+Altaria @ Petaya Berry
+Ability: Cloud Nine
+- Dragon Pulse
+- Roost
+- Perish Song
+- Protect
+
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic

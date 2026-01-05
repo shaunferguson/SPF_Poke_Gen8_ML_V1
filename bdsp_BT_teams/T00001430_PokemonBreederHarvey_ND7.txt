@@ -1,0 +1,27 @@
+Togekiss @ Wide Lens
+Ability: Hustle
+- Extreme Speed
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Magnezone @ Quick Claw
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+- Soft-Boiled

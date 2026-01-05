@@ -1,0 +1,27 @@
+Latias @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass
+
+Articuno @ Bright Powder
+Ability: Pressure
+- Sheer Cold
+- Mind Reader
+- Substitute
+- Roost

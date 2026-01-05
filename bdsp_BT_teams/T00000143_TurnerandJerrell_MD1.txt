@@ -1,0 +1,27 @@
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Ninetales @ Choice Specs
+Ability: Drought
+- Flamethrower
+- Solar Beam
+- Psyshock
+- Shadow Ball
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn

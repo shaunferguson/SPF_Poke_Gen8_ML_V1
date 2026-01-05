@@ -1,0 +1,20 @@
+Clefable @ Life Orb
+Ability: Magic Guard
+- Moonblast
+- Flamethrower
+- Thunderbolt
+- Moonlight
+
+Hitmonlee @ Black Belt
+Ability: Limber
+- Blaze Kick
+- Close Combat
+- Focus Energy
+- Facade
+
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash

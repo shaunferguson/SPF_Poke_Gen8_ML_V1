@@ -1,0 +1,27 @@
+Dugtrio @ Bright Powder
+Ability: Arena Trap
+- Swagger
+- Attract
+- Sand Attack
+- Sucker Punch
+
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Dusknoir @ Ganlon Berry
+Ability: Pressure
+- Curse
+- Pain Split
+- Ice Punch
+- Protect
+
+Arcanine @ Lum Berry
+Ability: Intimidate
+- Flamethrower
+- Dragon Pulse
+- Will-O-Wisp
+- Extreme Speed

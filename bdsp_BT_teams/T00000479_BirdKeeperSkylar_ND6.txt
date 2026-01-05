@@ -1,0 +1,27 @@
+Miltank @ Muscle Band
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Seismic Toss
+
+Weavile @ Razor Claw
+Ability: Pressure
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Shadow Claw
+
+Exeggutor @ Leftovers
+Ability: Chlorophyll
+- Giga Drain
+- Leech Seed
+- Double Team
+- Substitute
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

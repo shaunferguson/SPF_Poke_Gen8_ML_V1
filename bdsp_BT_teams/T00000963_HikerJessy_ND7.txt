@@ -1,0 +1,27 @@
+Milotic @ Salac Berry
+Ability: Competitive
+- Hydro Pump
+- Ice Beam
+- Recover
+- Hypnosis
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt
+
+Tangrowth @ Big Root
+Ability: Regenerator
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain

@@ -1,0 +1,20 @@
+Ampharos @ Toxic Orb
+Ability: Static
+- Thunder Wave
+- Facade
+- Fling
+- Rest
+
+Tangrowth @ Big Root
+Ability: Regenerator
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt

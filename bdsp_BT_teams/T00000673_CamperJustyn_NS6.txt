@@ -1,0 +1,27 @@
+Politoed @ Quick Claw
+Ability: Drizzle
+- Perish Song
+- Ice Beam
+- Surf
+- Hypnosis
+
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect
+
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash
+
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief

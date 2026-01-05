@@ -1,0 +1,27 @@
+Raikou @ Wise Glasses
+Ability: Pressure
+- Shadow Ball
+- Scald
+- Thunderbolt
+- Volt Switch
+
+Regice @ Shell Bell
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Hyper Beam
+- Flash Cannon
+
+Zapdos @ Focus Band
+Ability: Pressure
+- Roost
+- Ancient Power
+- Drill Peck
+- Discharge
+
+Rampardos @ Focus Sash
+Ability: Mold Breaker
+- Rock Polish
+- Stone Edge
+- Earthquake
+- Zen Headbutt

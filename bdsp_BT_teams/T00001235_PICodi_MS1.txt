@@ -1,0 +1,20 @@
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Salamence @ King's Rock
+Ability: Intimidate
+- Dragon Dance
+- Earthquake
+- Outrage
+- Zen Headbutt
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance

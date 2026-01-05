@@ -1,0 +1,20 @@
+Croagunk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Mud-Slap
+- Taunt
+- Swagger
+
+Chikorita @ Leftovers
+Ability: Overgrow
+- Magical Leaf
+- Reflect
+- Synthesis
+- Poison Powder
+
+Luvdisc @ Quick Claw
+Ability: Swift Swim
+- Sweet Kiss
+- Attract
+- Water Pulse
+- Rain Dance

@@ -1,0 +1,20 @@
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Bastiodon @ Custap Berry
+Ability: Sturdy
+- Metal Burst
+- Taunt
+- Iron Head
+- Stone Edge

@@ -1,0 +1,20 @@
+Rampardos @ Persim Berry
+Ability: Mold Breaker
+- Thrash
+- Headbutt
+- Zen Headbutt
+- Head Smash
+
+Ampharos @ Toxic Orb
+Ability: Static
+- Thunder Wave
+- Facade
+- Fling
+- Rest
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

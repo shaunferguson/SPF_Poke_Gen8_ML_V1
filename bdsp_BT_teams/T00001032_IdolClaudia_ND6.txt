@@ -1,0 +1,27 @@
+Poliwrath @ Rindo Berry
+Ability: Water Absorb
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Mind Reader
+
+Miltank @ Muscle Band
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Seismic Toss
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast
+
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake

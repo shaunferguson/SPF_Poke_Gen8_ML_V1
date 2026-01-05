@@ -1,0 +1,27 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Infernape @ Coba Berry
+Ability: Blaze
+- Fake Out
+- Mach Punch
+- U-turn
+- Overheat
+
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact
+
+Weezing @ Leftovers
+Ability: Levitate
+- Will-O-Wisp
+- Double Team
+- Sludge Bomb
+- Substitute

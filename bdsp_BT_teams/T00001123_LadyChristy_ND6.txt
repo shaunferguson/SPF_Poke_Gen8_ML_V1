@@ -1,0 +1,27 @@
+Roserade @ Big Root
+Ability: Poison Point
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Brick Break
+- Earthquake
+- Rock Tomb
+- Iron Head
+
+Slowking @ Wise Glasses
+Ability: Own Tempo
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam
+
+Yanmega @ Charti Berry
+Ability: Speed Boost
+- Aerial Ace
+- Steel Wing
+- Thief
+- U-turn

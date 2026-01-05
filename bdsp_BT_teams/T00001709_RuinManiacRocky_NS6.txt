@@ -1,0 +1,20 @@
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash
+
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter

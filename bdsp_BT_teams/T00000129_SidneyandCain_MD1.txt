@@ -1,0 +1,27 @@
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Protect
+- Earthquake
+- Crunch
+
+Sceptile @ Occa Berry
+Ability: Overgrow
+- Leaf Storm
+- Aerial Ace
+- Leaf Blade
+- Focus Blast
+
+Roserade @ White Herb
+Ability: Poison Point
+- Leaf Storm
+- Sludge Bomb
+- Shadow Ball
+- Dazzling Gleam
+
+Shiftry @ Focus Band
+Ability: Chlorophyll
+- Energy Ball
+- Dark Pulse
+- Focus Blast
+- Nasty Plot

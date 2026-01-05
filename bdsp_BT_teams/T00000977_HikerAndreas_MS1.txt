@@ -1,0 +1,20 @@
+Hippowdon @ Life Orb
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Ice Fang
+- Yawn
+
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder
+
+Suicune @ Leftovers
+Ability: Pressure
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam

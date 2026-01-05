@@ -1,0 +1,27 @@
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Protect
+- Earthquake
+- Crunch
+
+Rhydon @ Passho Berry
+Ability: Lightning Rod
+- Earthquake
+- Hammer Arm
+- Shadow Claw
+- Stone Edge
+
+Exeggutor @ Miracle Seed
+Ability: Chlorophyll
+- Leech Seed
+- Worry Seed
+- Bullet Seed
+- Psychic
+
+Infernape @ Wise Glasses
+Ability: Blaze
+- Flamethrower
+- Focus Blast
+- Calm Mind
+- Grass Knot

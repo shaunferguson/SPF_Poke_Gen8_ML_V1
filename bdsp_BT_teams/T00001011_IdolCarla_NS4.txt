@@ -1,0 +1,20 @@
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Hitmonlee @ Black Belt
+Ability: Limber
+- Blaze Kick
+- Close Combat
+- Focus Energy
+- Facade

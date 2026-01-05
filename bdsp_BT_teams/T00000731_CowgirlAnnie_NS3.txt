@@ -1,0 +1,20 @@
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Dunsparce @ Lax Incense
+Ability: Serene Grace
+- Headbutt
+- Glare
+- Defense Curl
+- Rollout

@@ -1,0 +1,27 @@
+Lucario @ Lum Berry
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Ice Punch
+- Bullet Punch
+
+Lickilicky @ Choice Band
+Ability: Cloud Nine
+- Explosion
+- Power Whip
+- Gyro Ball
+- Knock Off
+
+Articuno @ Bright Powder
+Ability: Pressure
+- Sheer Cold
+- Mind Reader
+- Substitute
+- Roost
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower

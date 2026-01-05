@@ -1,0 +1,27 @@
+Tauros @ Leftovers
+Ability: Intimidate
+- Double-Edge
+- Payback
+- Stone Edge
+- Substitute
+
+Quagsire @ Focus Sash
+Ability: Unaware
+- Counter
+- Focus Punch
+- Yawn
+- Ice Beam
+
+Slowking @ Bright Powder
+Ability: Regenerator
+- Psychic
+- Surf
+- Nasty Plot
+- Swagger
+
+Moltres @ King's Rock
+Ability: Flame Body
+- Air Slash
+- Agility
+- Heat Wave
+- Will-O-Wisp

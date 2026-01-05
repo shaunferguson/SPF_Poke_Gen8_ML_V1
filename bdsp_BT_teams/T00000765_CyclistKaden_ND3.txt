@@ -1,0 +1,27 @@
+Persian @ Silk Scarf
+Ability: Technician
+- Fake Out
+- Slash
+- Torment
+- Swagger
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect
+
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect
+
+Gligar @ Scope Lens
+Ability: Hyper Cutter
+- Metal Claw
+- Dig
+- Aerial Ace
+- Quick Attack

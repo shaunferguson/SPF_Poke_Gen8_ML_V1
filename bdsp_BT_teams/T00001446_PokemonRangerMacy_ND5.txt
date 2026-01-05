@@ -1,0 +1,27 @@
+Slowbro @ Leftovers
+Ability: Oblivious
+- Calm Mind
+- Slack Off
+- Psychic
+- Surf
+
+Grumpig @ Petaya Berry
+Ability: Thick Fat
+- Psybeam
+- Confuse Ray
+- Future Sight
+- Magic Coat
+
+Torterra @ Heat Rock
+Ability: Overgrow
+- Sunny Day
+- Synthesis
+- Solar Beam
+- Stone Edge
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis

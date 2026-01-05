@@ -1,0 +1,20 @@
+Glameow @ Quick Claw
+Ability: Limber
+- Fake Out
+- Fury Swipes
+- Growl
+- Attract
+
+Riolu @ Focus Sash
+Ability: Prankster
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen

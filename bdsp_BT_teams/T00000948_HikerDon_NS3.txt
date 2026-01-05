@@ -1,0 +1,20 @@
+Dragonair @ Cheri Berry
+Ability: Shed Skin
+- Dragon Breath
+- Leer
+- Wrap
+- Safeguard
+
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

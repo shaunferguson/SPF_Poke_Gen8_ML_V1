@@ -1,0 +1,20 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash
+
+Kabutops @ Scope Lens
+Ability: Swift Swim
+- Slash
+- Dig
+- Night Slash
+- Metal Sound

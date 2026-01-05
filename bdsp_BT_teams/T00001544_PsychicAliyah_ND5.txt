@@ -1,0 +1,27 @@
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Staraptor @ Choice Band
+Ability: Intimidate
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade
+
+Swampert @ Quick Claw
+Ability: Torrent
+- Ancient Power
+- Muddy Water
+- Avalanche
+- Focus Blast
+
+Kabutops @ Scope Lens
+Ability: Swift Swim
+- Slash
+- Dig
+- Night Slash
+- Metal Sound

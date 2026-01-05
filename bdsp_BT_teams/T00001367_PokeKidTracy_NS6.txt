@@ -1,0 +1,20 @@
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball
+
+Mismagius @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Confuse Ray
+- Perish Song
+- Mean Look
+
+Pinsir @ Toxic Orb
+Ability: Mold Breaker
+- Facade
+- Guillotine
+- Earthquake
+- Swords Dance

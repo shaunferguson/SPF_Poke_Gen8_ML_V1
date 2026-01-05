@@ -1,0 +1,20 @@
+Floatzel @ Sitrus Berry
+Ability: Swift Swim
+- Crunch
+- Waterfall
+- Ice Beam
+- Aqua Jet
+
+Rhydon @ Passho Berry
+Ability: Lightning Rod
+- Earthquake
+- Hammer Arm
+- Shadow Claw
+- Stone Edge
+
+Houndoom @ White Herb
+Ability: Flash Fire
+- Sunny Day
+- Overheat
+- Solar Beam
+- Dark Pulse

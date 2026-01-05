@@ -1,0 +1,27 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Luvdisc @ Quick Claw
+Ability: Swift Swim
+- Sweet Kiss
+- Attract
+- Water Pulse
+- Rain Dance
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect

@@ -1,0 +1,27 @@
+Registeel @ Chesto Berry
+Ability: Clear Body
+- Curse
+- Rest
+- Flash Cannon
+- Metal Claw
+
+Wailord @ Mystic Water
+Ability: Pressure
+- Water Spout
+- Brine
+- Whirlpool
+- Surf
+
+Heatran @ Focus Sash
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse
+
+Poliwrath @ King's Rock
+Ability: Water Absorb
+- Focus Punch
+- Strength
+- Giga Impact
+- Earthquake

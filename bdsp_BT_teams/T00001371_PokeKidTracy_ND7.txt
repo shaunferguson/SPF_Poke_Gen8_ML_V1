@@ -1,0 +1,27 @@
+Milotic @ Salac Berry
+Ability: Competitive
+- Hydro Pump
+- Ice Beam
+- Recover
+- Hypnosis
+
+Feraligatr @ Wise Glasses
+Ability: Torrent
+- Hydro Pump
+- Ice Beam
+- Dragon Pulse
+- Ancient Power
+
+Dragonite @ Wide Lens
+Ability: Multiscale
+- Outrage
+- Aqua Tail
+- Iron Tail
+- Stone Edge
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Acid Armor
+- Rest

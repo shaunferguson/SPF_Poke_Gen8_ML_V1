@@ -1,0 +1,20 @@
+Lapras @ Sitrus Berry
+Ability: Shell Armor
+- Sheer Cold
+- Sleep Talk
+- Rest
+- Double Team
+
+Vespiquen @ Leftovers
+Ability: Pressure
+- Double Team
+- Defend Order
+- Roost
+- Toxic
+
+Raichu @ Focus Band
+Ability: Lightning Rod
+- Thunder Punch
+- Feint
+- Brick Break
+- Double Team

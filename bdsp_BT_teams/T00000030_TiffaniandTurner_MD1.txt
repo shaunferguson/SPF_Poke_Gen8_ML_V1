@@ -1,0 +1,27 @@
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder
+
+Hippowdon @ Life Orb
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Ice Fang
+- Yawn
+
+Zapdos @ Magnet
+Ability: Static
+- Discharge
+- Volt Switch
+- Roost
+- Hurricane
+
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang

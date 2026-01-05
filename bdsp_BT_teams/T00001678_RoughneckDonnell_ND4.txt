@@ -1,0 +1,27 @@
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash
+
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm
+
+Zangoose @ Persim Berry
+Ability: Toxic Boost
+- Slash
+- Double Kick
+- Roar
+- Quick Attack
+
+Wartortle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn

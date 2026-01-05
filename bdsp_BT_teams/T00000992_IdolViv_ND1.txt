@@ -1,0 +1,27 @@
+Dratini @ Persim Berry
+Ability: Shed Skin
+- Outrage
+- Thunder Wave
+- Dragon Dance
+- Water Pulse
+
+Turtwig @ Leftovers
+Ability: Overgrow
+- Razor Leaf
+- Curse
+- Leech Seed
+- Synthesis
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+- Surf
+- Protect
+- Iron Defense
+- Double Team
+
+Skiploom @ Big Root
+Ability: Chlorophyll
+- Mega Drain
+- Leech Seed
+- Cotton Spore
+- Synthesis

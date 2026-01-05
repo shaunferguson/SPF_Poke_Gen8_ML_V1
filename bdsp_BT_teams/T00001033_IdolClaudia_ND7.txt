@@ -1,0 +1,27 @@
+Garchomp @ Persim Berry
+Ability: Rough Skin
+- Outrage
+- Swords Dance
+- Stone Edge
+- Earthquake
+
+Gardevoir @ Choice Scarf
+Ability: Trace
+- Dazzling Gleam
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Earthquake
+- Double-Edge
+- Aerial Ace
+- Brick Break
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang

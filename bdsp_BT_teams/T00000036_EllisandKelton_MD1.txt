@@ -1,0 +1,27 @@
+Houndoom @ Passho Berry
+Ability: Flash Fire
+- Fire Fang
+- Thunder Fang
+- Crunch
+- Will-O-Wisp
+
+Kangaskhan @ Salac Berry
+Ability: Scrappy
+- Endure
+- Reversal
+- Crunch
+- Earthquake
+
+Ampharos @ Chesto Berry
+Ability: Static
+- Thunder Wave
+- Charge Beam
+- Dragon Pulse
+- Rest
+
+Cresselia @ Wise Glasses
+Ability: Levitate
+- Psychic
+- Ice Beam
+- Shadow Ball
+- Energy Ball

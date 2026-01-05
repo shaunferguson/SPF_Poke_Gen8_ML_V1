@@ -1,0 +1,20 @@
+Beedrill @ Focus Sash
+Ability: Swarm
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Omanyte @ Sitrus Berry
+Ability: Shell Armor
+- Mud Shot
+- Water Gun
+- Ancient Power
+- Tickle

@@ -1,0 +1,20 @@
+Raikou @ Shuca Berry
+Ability: Pressure
+- Thunderbolt
+- Scald
+- Shadow Ball
+- Calm Mind
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Leaf Blade
+- Leech Seed
+- Synthesis
+- Protect
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance

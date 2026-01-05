@@ -1,0 +1,27 @@
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team
+
+Blastoise @ Iron Ball
+Ability: Torrent
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball
+
+Glalie @ Leftovers
+Ability: Moody
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold
+
+Froslass @ Focus Band
+Ability: Cursed Body
+- Blizzard
+- Shadow Ball
+- Thunderbolt
+- Will-O-Wisp

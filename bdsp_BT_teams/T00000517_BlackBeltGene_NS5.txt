@@ -1,0 +1,20 @@
+Vileplume @ Big Root
+Ability: Chlorophyll
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team
+
+Sceptile @ Leftovers
+Ability: Overgrow
+- Leech Seed
+- Double Team
+- Dragon Pulse
+- Giga Drain

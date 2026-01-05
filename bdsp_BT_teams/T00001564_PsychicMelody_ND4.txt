@@ -1,0 +1,27 @@
+Seadra @ Mystic Water
+Ability: Sniper
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Kingler @ Scope Lens
+Ability: Hyper Cutter
+- Crabhammer
+- Metal Claw
+- Knock Off
+- Protect
+
+Hitmonlee @ Black Belt
+Ability: Limber
+- Blaze Kick
+- Close Combat
+- Focus Energy
+- Facade
+
+Furret @ Liechi Berry
+Ability: Keen Eye
+- Slam
+- Protect
+- Helping Hand
+- Follow Me

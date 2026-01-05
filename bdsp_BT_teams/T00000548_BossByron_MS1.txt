@@ -1,0 +1,20 @@
+Metagross @ Lum Berry
+Ability: Clear Body
+- Meteor Mash
+- Zen Headbutt
+- Ice Punch
+- Bullet Punch
+
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- X-Scissor
+- Roost
+- Swords Dance
+
+Heatran @ Focus Sash
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse

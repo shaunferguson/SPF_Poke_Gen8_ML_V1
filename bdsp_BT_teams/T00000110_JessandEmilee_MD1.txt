@@ -1,0 +1,27 @@
+Whiscash @ Chesto Berry
+Ability: Oblivious
+- Fissure
+- Amnesia
+- Spark
+- Rest
+
+Vaporeon @ Rindo Berry
+Ability: Water Absorb
+- Surf
+- Aqua Ring
+- Acid Armor
+- Baton Pass
+
+Manectric @ Shuca Berry
+Ability: Lightning Rod
+- Thunderbolt
+- Overheat
+- Roar
+- Thunder Wave
+
+Luxray @ Life Orb
+Ability: Intimidate
+- Play Rough
+- Quick Attack
+- Wild Charge
+- Fire Fang

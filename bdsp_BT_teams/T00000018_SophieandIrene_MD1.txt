@@ -1,0 +1,27 @@
+Regirock @ Quick Claw
+Ability: Clear Body
+- Explosion
+- Stone Edge
+- Earthquake
+- Brick Break
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Tri Attack
+- Thunderbolt
+- Flamethrower
+
+Latios @ White Herb
+Ability: Levitate
+- Draco Meteor
+- Psychic
+- Thunder
+- Hyper Beam
+
+Lapras @ Sitrus Berry
+Ability: Shell Armor
+- Sheer Cold
+- Sleep Talk
+- Rest
+- Double Team

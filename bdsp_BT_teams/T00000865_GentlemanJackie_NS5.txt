@@ -1,0 +1,20 @@
+Rhydon @ Wise Glasses
+Ability: Lightning Rod
+- Ice Beam
+- Thunderbolt
+- Dragon Pulse
+- Surf
+
+Glalie @ Leftovers
+Ability: Moody
+- Protect
+- Substitute
+- Frost Breath
+- Sheer Cold
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team

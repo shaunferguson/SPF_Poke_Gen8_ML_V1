@@ -1,0 +1,27 @@
+Bellossom @ Power Herb
+Ability: Chlorophyll
+- Solar Beam
+- Safeguard
+- Sunny Day
+- Synthesis
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing
+
+Ninjask @ Petaya Berry
+Ability: Speed Boost
+- Baton Pass
+- Swords Dance
+- Endure
+- Dig
+
+Lumineon @ Rindo Berry
+Ability: Storm Drain
+- Brine
+- Gust
+- Whirlpool
+- U-turn

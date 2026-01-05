@@ -1,0 +1,27 @@
+Slowbro @ Lum Berry
+Ability: Regenerator
+- Yawn
+- Zen Headbutt
+- Earthquake
+- Brick Break
+
+Swampert @ Sitrus Berry
+Ability: Torrent
+- Waterfall
+- Earthquake
+- Ice Punch
+- Curse
+
+Nidoking @ Wise Glasses
+Ability: Sheer Force
+- Earth Power
+- Dragon Pulse
+- Sludge Bomb
+- Sandstorm
+
+Regice @ Chesto Berry
+Ability: Clear Body
+- Ice Beam
+- Ancient Power
+- Charge Beam
+- Rest

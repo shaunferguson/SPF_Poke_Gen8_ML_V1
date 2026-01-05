@@ -1,0 +1,20 @@
+Vulpix @ Focus Sash
+Ability: Drought
+- Will-O-Wisp
+- Confuse Ray
+- Fire Spin
+- Quick Attack
+
+Geodude @ Sitrus Berry
+Ability: Sturdy
+- Bulldoze
+- Rock Blast
+- Strength
+- Protect
+
+Chinchou @ Lax Incense
+Ability: Volt Absorb
+- Spark
+- Bubble Beam
+- Confuse Ray
+- Take Down

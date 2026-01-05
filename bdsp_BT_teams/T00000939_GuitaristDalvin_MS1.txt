@@ -1,0 +1,20 @@
+Kangaskhan @ Salac Berry
+Ability: Scrappy
+- Endure
+- Reversal
+- Crunch
+- Earthquake
+
+Heracross @ Coba Berry
+Ability: Moxie
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Gallade @ Kasib Berry
+Ability: Steadfast
+- Psycho Cut
+- Close Combat
+- Shadow Sneak
+- Destiny Bond

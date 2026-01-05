@@ -1,0 +1,20 @@
+Shinx @ King's Rock
+Ability: Intimidate
+- Spark
+- Bite
+- Roar
+- Leer
+
+Totodile @ Wacan Berry
+Ability: Torrent
+- Waterfall
+- Aerial Ace
+- Slash
+- Screech
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash

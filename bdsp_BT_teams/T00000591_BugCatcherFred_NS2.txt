@@ -1,0 +1,20 @@
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout
+
+Roselia @ Black Sludge
+Ability: Poison Point
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore
+
+Anorith @ Scope Lens
+Ability: Battle Armor
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun

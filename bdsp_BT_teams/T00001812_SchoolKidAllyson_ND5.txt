@@ -1,0 +1,27 @@
+Whiscash @ Leftovers
+Ability: Hydration
+- Earthquake
+- Water Pulse
+- Tickle
+- Sandstorm
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing
+
+Swampert @ Quick Claw
+Ability: Torrent
+- Ancient Power
+- Muddy Water
+- Avalanche
+- Focus Blast
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team

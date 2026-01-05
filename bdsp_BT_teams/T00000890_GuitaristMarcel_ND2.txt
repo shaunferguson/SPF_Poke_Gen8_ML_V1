@@ -1,0 +1,27 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+- Surf
+- Protect
+- Iron Defense
+- Double Team
+
+Drowzee @ Sitrus Berry
+Ability: Insomnia
+- Confusion
+- Headbutt
+- Disable
+- Shadow Ball

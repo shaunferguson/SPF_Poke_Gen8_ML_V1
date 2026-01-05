@@ -1,0 +1,27 @@
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash
+
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance
+
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head

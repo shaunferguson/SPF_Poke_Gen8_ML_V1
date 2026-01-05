@@ -1,0 +1,20 @@
+Zangoose @ Persim Berry
+Ability: Toxic Boost
+- Slash
+- Double Kick
+- Roar
+- Quick Attack
+
+Skarmory @ Leftovers
+Ability: Sturdy
+- Stealth Rock
+- Roar
+- Drill Peck
+- Roost
+
+Exploud @ Focus Band
+Ability: Soundproof
+- Boomburst
+- Fire Blast
+- Solar Beam
+- Focus Blast

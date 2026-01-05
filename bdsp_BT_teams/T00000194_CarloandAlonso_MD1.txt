@@ -1,0 +1,27 @@
+Articuno @ Wacan Berry
+Ability: Pressure
+- Sheer Cold
+- Ice Beam
+- Aerial Ace
+- Roar
+
+Glalie @ Leftovers
+Ability: Moody
+- Double Team
+- Sheer Cold
+- Rest
+- Sleep Talk
+
+Magnezone @ Bright Powder
+Ability: Sturdy
+- Body Press
+- Thunderbolt
+- Volt Switch
+- Flash Cannon
+
+Latias @ Lum Berry
+Ability: Levitate
+- Calm Mind
+- Dragon Pulse
+- Psychic
+- Roost

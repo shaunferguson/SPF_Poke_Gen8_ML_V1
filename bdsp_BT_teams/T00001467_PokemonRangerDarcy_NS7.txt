@@ -1,0 +1,20 @@
+Charizard @ Scope Lens
+Ability: Blaze
+- Flare Blitz
+- Aerial Ace
+- Crunch
+- Dragon Claw
+
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Empoleon @ Wacan Berry
+Ability: Torrent
+- Drill Peck
+- Brick Break
+- Aqua Jet
+- Ice Beam

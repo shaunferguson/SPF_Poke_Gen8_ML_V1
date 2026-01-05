@@ -1,0 +1,27 @@
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace
+
+Arbok @ Persim Berry
+Ability: Intimidate
+- Poison Fang
+- Dig
+- Bite
+- Glare
+
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam

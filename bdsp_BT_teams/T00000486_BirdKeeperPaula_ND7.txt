@@ -1,0 +1,27 @@
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Synthesis
+- Leaf Blade
+- Leech Seed
+- Yawn
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Crobat @ Sharp Beak
+Ability: Inner Focus
+- Brave Bird
+- Zen Headbutt
+- Cross Poison
+- U-turn
+
+Flareon @ Charcoal
+Ability: Flash Fire
+- Will-O-Wisp
+- Flare Blitz
+- Iron Tail
+- Quick Attack

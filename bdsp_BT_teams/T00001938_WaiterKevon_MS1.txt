@@ -1,0 +1,20 @@
+Drifblim @ Sitrus Berry
+Ability: Unburden
+- Baton Pass
+- Will-O-Wisp
+- Strength Sap
+- Minimize
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Spore
+- Substitute
+- Bulk Up
+- Rock Tomb
+
+Glalie @ Leftovers
+Ability: Moody
+- Double Team
+- Sheer Cold
+- Rest
+- Sleep Talk

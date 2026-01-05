@@ -1,0 +1,27 @@
+Totodile @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Screech
+- Scary Face
+
+Turtwig @ Leftovers
+Ability: Overgrow
+- Razor Leaf
+- Curse
+- Leech Seed
+- Synthesis
+
+Rhyhorn @ Focus Band
+Ability: Rock Head
+- Rock Blast
+- Dig
+- Scary Face
+- Roar
+
+Luvdisc @ Quick Claw
+Ability: Swift Swim
+- Sweet Kiss
+- Attract
+- Water Pulse
+- Rain Dance

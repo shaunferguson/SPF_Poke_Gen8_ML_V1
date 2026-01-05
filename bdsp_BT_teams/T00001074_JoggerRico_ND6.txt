@@ -1,0 +1,27 @@
+Politoed @ Quick Claw
+Ability: Drizzle
+- Perish Song
+- Ice Beam
+- Surf
+- Hypnosis
+
+Wailord @ Wacan Berry
+Ability: Pressure
+- Defense Curl
+- Rollout
+- Waterfall
+- Avalanche
+
+Cradily @ Focus Band
+Ability: Storm Drain
+- Stockpile
+- Recover
+- Leech Seed
+- Swagger
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast

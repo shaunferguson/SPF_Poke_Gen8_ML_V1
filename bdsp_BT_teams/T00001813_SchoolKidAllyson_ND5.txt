@@ -1,0 +1,27 @@
+Noctowl @ Persim Berry
+Ability: Keen Eye
+- Air Slash
+- Aerial Ace
+- Psychic
+- Reflect
+
+Shiftry @ Leftovers
+Ability: Early Bird
+- Double Team
+- Leech Seed
+- Swagger
+- Synthesis
+
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb
+
+Camerupt @ Sitrus Berry
+Ability: Solid Rock
+- Eruption
+- Protect
+- Sandstorm
+- Rock Slide

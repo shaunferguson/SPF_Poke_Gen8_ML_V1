@@ -1,0 +1,27 @@
+Riolu @ Focus Sash
+Ability: Prankster
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Eevee @ Salac Berry
+Ability: Adaptability
+- Charm
+- Attract
+- Take Down
+- Endure
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer

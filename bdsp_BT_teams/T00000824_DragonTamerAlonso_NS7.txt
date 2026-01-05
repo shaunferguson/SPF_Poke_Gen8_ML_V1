@@ -1,0 +1,20 @@
+Milotic @ Salac Berry
+Ability: Competitive
+- Hydro Pump
+- Ice Beam
+- Recover
+- Hypnosis
+
+Slowking @ Wise Glasses
+Ability: Own Tempo
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam
+
+Weavile @ Razor Claw
+Ability: Pressure
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Shadow Claw

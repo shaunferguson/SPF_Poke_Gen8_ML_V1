@@ -1,0 +1,27 @@
+Snorunt @ King's Rock
+Ability: Moody
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Bronzor @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen
+
+Vibrava @ Cheri Berry
+Ability: Levitate
+- Dragon Breath
+- Dig
+- Screech
+- Rock Tomb

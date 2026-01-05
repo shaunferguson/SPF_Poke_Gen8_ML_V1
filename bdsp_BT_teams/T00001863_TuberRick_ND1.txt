@@ -1,0 +1,27 @@
+Chimchar @ Sitrus Berry
+Ability: Blaze
+- Fire Spin
+- Double Team
+- Nasty Plot
+- Grass Knot
+
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound
+
+Natu @ Twisted Spoon
+Ability: Magic Bounce
+- Night Shade
+- Future Sight
+- Psychic
+- Flash

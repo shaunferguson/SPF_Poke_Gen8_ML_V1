@@ -1,0 +1,27 @@
+Purugly @ Silk Scarf
+Ability: Thick Fat
+- Slash
+- U-turn
+- Attract
+- Fake Out
+
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Dodrio @ Chesto Berry
+Ability: Early Bird
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest
+
+Noctowl @ Persim Berry
+Ability: Keen Eye
+- Air Slash
+- Aerial Ace
+- Psychic
+- Reflect

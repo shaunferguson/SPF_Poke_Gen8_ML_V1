@@ -1,0 +1,27 @@
+Snorunt @ King's Rock
+Ability: Moody
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Shedinja @ Choice Band
+Ability: Wonder Guard
+- Shadow Claw
+- Metal Claw
+- X-Scissor
+- Aerial Ace
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen

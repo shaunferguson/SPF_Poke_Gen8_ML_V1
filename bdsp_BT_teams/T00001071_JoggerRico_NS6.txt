@@ -1,0 +1,20 @@
+Claydol @ Hard Stone
+Ability: Levitate
+- Rock Polish
+- Earthquake
+- Rock Slide
+- Psychic
+
+Ninetales @ Rawst Berry
+Ability: Drought
+- Solar Beam
+- Disable
+- Will-O-Wisp
+- Flamethrower
+
+Cradily @ Focus Band
+Ability: Storm Drain
+- Stockpile
+- Recover
+- Leech Seed
+- Swagger

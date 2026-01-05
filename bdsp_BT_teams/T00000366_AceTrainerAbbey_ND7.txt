@@ -1,0 +1,27 @@
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Counter
+- Encore
+- Body Slam
+- Slack Off
+
+Swampert @ Lum Berry
+Ability: Torrent
+- Earthquake
+- Waterfall
+- Hammer Arm
+- Curse
+
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash

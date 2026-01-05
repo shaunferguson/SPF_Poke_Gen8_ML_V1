@@ -1,0 +1,27 @@
+Typhlosion @ Wide Lens
+Ability: Blaze
+- Will-O-Wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash
+
+Hypno @ Leftovers
+Ability: Insomnia
+- Thunder Punch
+- Zen Headbutt
+- Headbutt
+- Drain Punch
+
+Charizard @ Charti Berry
+Ability: Blaze
+- Flamethrower
+- Sunny Day
+- Focus Blast
+- Ancient Power

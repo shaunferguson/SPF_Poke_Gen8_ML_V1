@@ -1,0 +1,20 @@
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+- Stealth Rock
+- Thunder Wave
+- Rock Tomb
+- Crunch
+
+Salamence @ Lum Berry
+Ability: Intimidate
+- Earthquake
+- Outrage
+- Zen Headbutt
+- Dragon Dance
+
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+- Head Smash
+- Zen Headbutt
+- Earthquake
+- Iron Head

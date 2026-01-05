@@ -1,0 +1,27 @@
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Dratini @ Persim Berry
+Ability: Shed Skin
+- Outrage
+- Thunder Wave
+- Dragon Dance
+- Water Pulse
+
+Drowzee @ Sitrus Berry
+Ability: Insomnia
+- Confusion
+- Headbutt
+- Disable
+- Shadow Ball
+
+Vibrava @ Cheri Berry
+Ability: Levitate
+- Dragon Breath
+- Dig
+- Screech
+- Rock Tomb

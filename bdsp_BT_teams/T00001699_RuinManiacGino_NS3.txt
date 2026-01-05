@@ -1,0 +1,20 @@
+Volbeat @ Liechi Berry
+Ability: Swarm
+- Bug Buzz
+- Confuse Ray
+- Quick Attack
+- Helping Hand
+
+Prinplup @ Wacan Berry
+Ability: Torrent
+- Whirlpool
+- Metal Claw
+- Peck
+- Double Team
+
+Wartortle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn

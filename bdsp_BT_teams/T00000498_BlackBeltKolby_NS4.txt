@@ -1,0 +1,27 @@
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Octillery @ Leftovers
+Ability: Moody
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Grovyle @ Bright Powder
+Ability: Overgrow
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team

@@ -1,0 +1,27 @@
+Empoleon @ Chesto Berry
+Ability: Torrent
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest
+
+Staraptor @ Choice Band
+Ability: Intimidate
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade
+
+Skarmory @ Leftovers
+Ability: Sturdy
+- Stealth Rock
+- Roar
+- Drill Peck
+- Roost
+
+Lopunny @ Bright Powder
+Ability: Limber
+- Thunder Wave
+- Attract
+- Sweet Kiss
+- Focus Punch

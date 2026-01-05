@@ -1,0 +1,27 @@
+Electivire @ Focus Sash
+Ability: Motor Drive
+- Wild Charge
+- Earthquake
+- Ice Punch
+- Quick Attack
+
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash
+
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+- Head Smash
+- Zen Headbutt
+- Earthquake
+- Iron Head
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Protect
+- Perish Song

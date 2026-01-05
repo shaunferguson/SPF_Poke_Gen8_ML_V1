@@ -1,0 +1,27 @@
+Bronzong @ Twisted Spoon
+Ability: Levitate
+- Trick Room
+- Gyro Ball
+- Flash Cannon
+- Hypnosis
+
+Meganium @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Leech Seed
+- Synthesis
+- Substitute
+
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Protect
+- Spore
+- Leech Seed
+- Low Sweep

@@ -1,0 +1,20 @@
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray
+
+Roserade @ Big Root
+Ability: Poison Point
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Substitute
+
+Aerodactyl @ Leftovers
+Ability: Pressure
+- Swagger
+- Attract
+- Rock Slide
+- Roost

@@ -1,0 +1,27 @@
+Scizor @ Bright Powder
+Ability: Technician
+- Swords Dance
+- Double Team
+- Bullet Punch
+- Roost
+
+Kangaskhan @ Salac Berry
+Ability: Scrappy
+- Endure
+- Reversal
+- Crunch
+- Earthquake
+
+Hypno @ Focus Band
+Ability: Insomnia
+- Psychic
+- Focus Blast
+- Thunder Wave
+- Calm Mind
+
+Vespiquen @ Leftovers
+Ability: Pressure
+- Double Team
+- Defend Order
+- Roost
+- Toxic

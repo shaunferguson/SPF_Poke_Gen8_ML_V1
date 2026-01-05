@@ -1,0 +1,20 @@
+Politoed @ Salac Berry
+Ability: Drizzle
+- Belly Drum
+- Waterfall
+- Earthquake
+- Rest
+
+Kingdra @ Wide Lens
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- Rain Dance
+
+Nidoqueen @ Bright Powder
+Ability: Poison Point
+- Stone Edge
+- Avalanche
+- Iron Tail
+- Aerial Ace

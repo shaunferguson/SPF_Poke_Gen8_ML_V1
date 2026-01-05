@@ -1,0 +1,27 @@
+Machamp @ Muscle Band
+Ability: No Guard
+- Rock Slide
+- Dynamic Punch
+- Ice Punch
+- Thunder Punch
+
+Raikou @ Magnet
+Ability: Pressure
+- Rain Dance
+- Thunder
+- Calm Mind
+- Iron Tail
+
+Weezing @ Bright Powder
+Ability: Levitate
+- Sludge Bomb
+- Fire Blast
+- Will-O-Wisp
+- Pain Split
+
+Regirock @ Smooth Rock
+Ability: Sturdy
+- Sandstorm
+- Stone Edge
+- Earthquake
+- Iron Defense

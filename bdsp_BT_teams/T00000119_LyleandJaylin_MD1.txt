@@ -1,0 +1,27 @@
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Suicune @ Leftovers
+Ability: Pressure
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam
+
+Staraptor @ Choice Scarf
+Ability: Intimidate
+- Final Gambit
+- U-turn
+- -
+- -
+
+Cresselia @ Wiki Berry
+Ability: Levitate
+- Calm Mind
+- Moonlight
+- Moonblast
+- Psyshock

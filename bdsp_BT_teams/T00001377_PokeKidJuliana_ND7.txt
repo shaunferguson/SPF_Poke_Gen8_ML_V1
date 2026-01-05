@@ -1,0 +1,27 @@
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect
+
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Earthquake
+- Double-Edge
+- Aerial Ace
+- Brick Break

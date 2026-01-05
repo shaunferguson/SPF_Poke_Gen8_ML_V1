@@ -1,0 +1,27 @@
+Nosepass @ Hard Stone
+Ability: Sturdy
+- Rock Slide
+- Shock Wave
+- Thunder Wave
+- Sandstorm
+
+Aron @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Aerial Ace
+- Metal Sound
+- Roar
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout
+
+Seel @ Aspear Berry
+Ability: Thick Fat
+- Aurora Beam
+- Dive
+- Encore
+- Surf

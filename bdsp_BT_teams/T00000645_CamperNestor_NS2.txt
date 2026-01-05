@@ -1,0 +1,20 @@
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Illumise @ Liechi Berry
+Ability: Tinted Lens
+- Bug Buzz
+- Wish
+- Quick Attack
+- Helping Hand
+
+Lileep @ Lax Incense
+Ability: Storm Drain
+- Giga Drain
+- Acid
+- Ingrain
+- Confuse Ray

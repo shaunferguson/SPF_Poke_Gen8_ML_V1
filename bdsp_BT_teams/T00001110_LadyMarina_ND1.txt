@@ -1,0 +1,27 @@
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Numel @ Lax Incense
+Ability: Oblivious
+- Ember
+- Earth Power
+- Rock Tomb
+- Sandstorm
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect

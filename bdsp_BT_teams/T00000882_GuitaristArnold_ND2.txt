@@ -1,0 +1,27 @@
+Sableye @ Black Glasses
+Ability: Prankster
+- Will-O-Wisp
+- Confuse Ray
+- Night Shade
+- Fake Out
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize
+
+Murkrow @ Wacan Berry
+Ability: Prankster
+- Dark Pulse
+- Fly
+- Torment
+- Taunt
+
+Snover @ Icy Rock
+Ability: Snow Warning
+- Razor Leaf
+- Icy Wind
+- Blizzard
+- Ice Shard

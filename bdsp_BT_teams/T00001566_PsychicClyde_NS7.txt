@@ -1,0 +1,20 @@
+Togekiss @ Wide Lens
+Ability: Hustle
+- Extreme Speed
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Blastoise @ Power Herb
+Ability: Torrent
+- Skull Bash
+- Earthquake
+- Waterfall
+- Aqua Jet
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard

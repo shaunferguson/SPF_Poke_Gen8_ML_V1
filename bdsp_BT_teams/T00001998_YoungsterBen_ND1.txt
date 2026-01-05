@@ -1,0 +1,27 @@
+Chikorita @ Bright Powder
+Ability: Overgrow
+- Body Slam
+- Bullet Seed
+- Growl
+- Light Screen
+
+Combee @ Quick Claw
+Ability: Honey Gather
+- Sweet Scent
+- Gust
+- -
+- -
+
+Mime Jr. @ Lax Incense
+Ability: Soundproof
+- Copycat
+- Confusion
+- Reflect
+- Light Screen
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze

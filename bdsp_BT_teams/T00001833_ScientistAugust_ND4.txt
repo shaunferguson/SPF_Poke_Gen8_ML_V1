@@ -1,0 +1,27 @@
+Swalot @ Black Sludge
+Ability: Sticky Hold
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb
+
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Magmar @ Rawst Berry
+Ability: Flame Body
+- Flamethrower
+- Smokescreen
+- Brick Break
+- Psychic
+
+Pupitar @ Soft Sand
+Ability: Shed Skin
+- Dig
+- Bite
+- Scary Face
+- Sandstorm

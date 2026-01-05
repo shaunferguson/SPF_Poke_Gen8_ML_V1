@@ -1,0 +1,27 @@
+Ampharos @ Toxic Orb
+Ability: Static
+- Thunder Wave
+- Facade
+- Fling
+- Rest
+
+Drapion @ Rawst Berry
+Ability: Battle Armor
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Weavile @ Razor Claw
+Ability: Pressure
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Shadow Claw

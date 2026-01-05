@@ -1,0 +1,27 @@
+Weezing @ Leftovers
+Ability: Levitate
+- Will-O-Wisp
+- Double Team
+- Sludge Bomb
+- Substitute
+
+Vespiquen @ Razor Claw
+Ability: Pressure
+- Attack Order
+- Slash
+- Defend Order
+- -
+
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief
+
+Hariyama @ Bright Powder
+Ability: Thick Fat
+- Sand Attack
+- Focus Punch
+- Rock Tomb
+- Fake Out

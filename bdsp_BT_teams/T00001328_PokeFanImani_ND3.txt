@@ -1,0 +1,27 @@
+Mightyena @ Mental Herb
+Ability: Intimidate
+- Bite
+- Poison Fang
+- Taunt
+- Roar
+
+Dunsparce @ Lax Incense
+Ability: Serene Grace
+- Headbutt
+- Glare
+- Defense Curl
+- Rollout
+
+Arbok @ Persim Berry
+Ability: Intimidate
+- Poison Fang
+- Dig
+- Bite
+- Glare
+
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard

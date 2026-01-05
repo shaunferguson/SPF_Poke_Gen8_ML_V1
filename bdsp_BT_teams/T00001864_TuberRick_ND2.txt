@@ -1,0 +1,27 @@
+Gloom @ Persim Berry
+Ability: Chlorophyll
+- Petal Dance
+- Acid
+- Stun Spore
+- Moonlight
+
+Nosepass @ Hard Stone
+Ability: Sturdy
+- Rock Slide
+- Shock Wave
+- Thunder Wave
+- Sandstorm
+
+Beedrill @ Focus Sash
+Ability: Swarm
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect

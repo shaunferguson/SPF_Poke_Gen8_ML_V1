@@ -1,0 +1,27 @@
+Noctowl @ Persim Berry
+Ability: Keen Eye
+- Air Slash
+- Aerial Ace
+- Psychic
+- Reflect
+
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Ninjask @ Petaya Berry
+Ability: Speed Boost
+- Baton Pass
+- Swords Dance
+- Endure
+- Dig
+
+Lumineon @ Rindo Berry
+Ability: Storm Drain
+- Brine
+- Gust
+- Whirlpool
+- U-turn

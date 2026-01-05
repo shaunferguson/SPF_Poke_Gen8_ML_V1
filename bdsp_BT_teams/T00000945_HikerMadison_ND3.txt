@@ -1,0 +1,27 @@
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Metang @ Focus Band
+Ability: Clear Body
+- Metal Claw
+- Confusion
+- Take Down
+- Scary Face
+
+Dunsparce @ Lax Incense
+Ability: Serene Grace
+- Headbutt
+- Glare
+- Defense Curl
+- Rollout

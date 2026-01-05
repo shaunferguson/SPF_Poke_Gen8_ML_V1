@@ -1,0 +1,20 @@
+Wailord @ Wacan Berry
+Ability: Pressure
+- Defense Curl
+- Rollout
+- Waterfall
+- Avalanche
+
+Magnezone @ Quick Claw
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+- Soft-Boiled

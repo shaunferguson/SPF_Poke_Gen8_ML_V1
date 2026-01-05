@@ -1,0 +1,27 @@
+Ambipom @ Bright Powder
+Ability: Technician
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap

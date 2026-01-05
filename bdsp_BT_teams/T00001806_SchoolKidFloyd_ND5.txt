@@ -1,0 +1,27 @@
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap
+
+Staraptor @ Choice Band
+Ability: Intimidate
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade
+
+Skarmory @ Leftovers
+Ability: Sturdy
+- Stealth Rock
+- Roar
+- Drill Peck
+- Roost
+
+Swalot @ Black Sludge
+Ability: Sticky Hold
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb

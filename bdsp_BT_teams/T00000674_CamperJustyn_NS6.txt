@@ -1,0 +1,27 @@
+Bastiodon @ Custap Berry
+Ability: Sturdy
+- Metal Burst
+- Taunt
+- Iron Head
+- Stone Edge
+
+Hariyama @ Bright Powder
+Ability: Thick Fat
+- Sand Attack
+- Focus Punch
+- Rock Tomb
+- Fake Out
+
+Steelix @ Occa Berry
+Ability: Sturdy
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Slowking @ Wise Glasses
+Ability: Own Tempo
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam

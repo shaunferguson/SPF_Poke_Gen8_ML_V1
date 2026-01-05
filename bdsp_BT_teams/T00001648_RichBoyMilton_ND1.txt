@@ -1,0 +1,27 @@
+Bonsly @ Passho Berry
+Ability: Sturdy
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Glameow @ Quick Claw
+Ability: Limber
+- Fake Out
+- Fury Swipes
+- Growl
+- Attract
+
+Tentacool @ Pecha Berry
+Ability: Liquid Ooze
+- Bubble Beam
+- Acid
+- Sludge Bomb
+- Wrap
+
+Lombre @ Yache Berry
+Ability: Swift Swim
+- Water Pulse
+- Fake Out
+- Brick Break
+- Absorb

@@ -1,0 +1,20 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass

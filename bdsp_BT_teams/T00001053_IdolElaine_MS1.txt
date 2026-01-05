@@ -1,0 +1,20 @@
+Politoed @ Sitrus Berry
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Protect
+- Perish Song
+
+Ninetales @ Choice Specs
+Ability: Drought
+- Flamethrower
+- Solar Beam
+- Psyshock
+- Shadow Ball
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance

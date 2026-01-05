@@ -1,0 +1,27 @@
+Numel @ Lax Incense
+Ability: Oblivious
+- Ember
+- Earth Power
+- Rock Tomb
+- Sandstorm
+
+Combee @ Quick Claw
+Ability: Honey Gather
+- Sweet Scent
+- Gust
+- -
+- -
+
+Drowzee @ Sitrus Berry
+Ability: Insomnia
+- Confusion
+- Headbutt
+- Disable
+- Shadow Ball
+
+Cubone @ Soft Sand
+Ability: Battle Armor
+- Bonemerang
+- Headbutt
+- Brick Break
+- Aerial Ace

@@ -1,0 +1,27 @@
+Medicham @ Focus Band
+Ability: Pure Power
+- High Jump Kick
+- Thunder Punch
+- Ice Punch
+- Fire Punch
+
+Stantler @ Twisted Spoon
+Ability: Intimidate
+- Extrasensory
+- Confuse Ray
+- Stomp
+- Sand Attack
+
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Slowbro @ Leftovers
+Ability: Oblivious
+- Calm Mind
+- Slack Off
+- Psychic
+- Surf

@@ -1,0 +1,20 @@
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

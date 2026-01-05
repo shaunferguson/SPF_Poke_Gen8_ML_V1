@@ -1,0 +1,20 @@
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest
+
+Slowking @ Wise Glasses
+Ability: Own Tempo
+- Psychic
+- Scald
+- Trick Room
+- Ice Beam
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic

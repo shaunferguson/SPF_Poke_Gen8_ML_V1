@@ -1,0 +1,20 @@
+Aipom @ Silk Scarf
+Ability: Skill Link
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility
+
+Happiny @ Lucky Punch
+Ability: Serene Grace
+- Sweet Kiss
+- Psychic
+- Flamethrower
+- Shadow Ball
+
+Buizel @ Wacan Berry
+Ability: Swift Swim
+- Aqua Jet
+- Quick Attack
+- Brick Break
+- Growl

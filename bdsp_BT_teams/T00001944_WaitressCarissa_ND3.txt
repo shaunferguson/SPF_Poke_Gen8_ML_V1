@@ -1,0 +1,27 @@
+Graveler @ Focus Band
+Ability: Sturdy
+- Rollout
+- Rock Throw
+- Defense Curl
+- Brick Break
+
+Monferno @ Coba Berry
+Ability: Blaze
+- Mach Punch
+- Feint
+- Torment
+- U-turn
+
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block
+
+Illumise @ Liechi Berry
+Ability: Tinted Lens
+- Bug Buzz
+- Wish
+- Quick Attack
+- Helping Hand

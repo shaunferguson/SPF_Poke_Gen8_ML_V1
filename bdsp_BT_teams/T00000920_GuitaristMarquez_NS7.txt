@@ -1,0 +1,20 @@
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Earthquake
+- Curse
+- Yawn
+
+Espeon @ Focus Sash
+Ability: Magic Bounce
+- Light Screen
+- Psychic
+- Shadow Ball
+- Dazzling Gleam
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt

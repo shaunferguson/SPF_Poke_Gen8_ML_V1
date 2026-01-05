@@ -1,0 +1,20 @@
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen
+
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

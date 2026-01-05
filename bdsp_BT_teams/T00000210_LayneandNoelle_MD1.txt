@@ -1,0 +1,27 @@
+Wailord @ Mystic Water
+Ability: Pressure
+- Water Spout
+- Brine
+- Whirlpool
+- Surf
+
+Yanmega @ Lum Berry
+Ability: Speed Boost
+- Detect
+- Air Slash
+- Bug Buzz
+- Giga Drain
+
+Cresselia @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Moonlight
+- Psychic
+- Shadow Ball
+
+Kangaskhan @ Focus Sash
+Ability: Scrappy
+- Endure
+- Reversal
+- Fake Out
+- Double Hit

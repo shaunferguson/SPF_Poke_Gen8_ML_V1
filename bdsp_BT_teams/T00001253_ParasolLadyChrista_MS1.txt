@@ -1,0 +1,20 @@
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Counter
+- Bullet Seed
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Arcanine @ Choice Band
+Ability: Intimidate
+- Flare Blitz
+- Wild Charge
+- Play Rough
+- Close Combat

@@ -1,0 +1,27 @@
+Gardevoir @ Choice Scarf
+Ability: Trace
+- Dazzling Gleam
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Nidoking @ Expert Belt
+Ability: Poison Point
+- Earth Power
+- Sludge Bomb
+- Ice Beam
+- Shadow Ball
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Draco Meteor
+- Earthquake
+- Rock Tomb
+- Stealth Rock
+
+Cradily @ Quick Claw
+Ability: Storm Drain
+- Sandstorm
+- Ancient Power
+- Giga Drain
+- Hyper Beam

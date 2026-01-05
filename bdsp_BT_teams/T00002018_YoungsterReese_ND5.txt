@@ -1,0 +1,27 @@
+Blastoise @ Iron Ball
+Ability: Torrent
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball
+
+Swampert @ Quick Claw
+Ability: Torrent
+- Ancient Power
+- Muddy Water
+- Avalanche
+- Focus Blast
+
+Shiftry @ Leftovers
+Ability: Early Bird
+- Double Team
+- Leech Seed
+- Swagger
+- Synthesis
+
+Forretress @ Occa Berry
+Ability: Sturdy
+- Gyro Ball
+- Counter
+- Spikes
+- Toxic Spikes

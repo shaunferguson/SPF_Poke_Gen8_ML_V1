@@ -1,0 +1,27 @@
+Zapdos @ Focus Band
+Ability: Pressure
+- Roost
+- Ancient Power
+- Drill Peck
+- Discharge
+
+Absol @ Focus Sash
+Ability: Pressure
+- Swagger
+- Night Slash
+- Sucker Punch
+- Taunt
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Tri Attack
+- Thunderbolt
+- Flamethrower
+
+Bastiodon @ Muscle Band
+Ability: Sturdy
+- Iron Head
+- Iron Tail
+- Metal Burst
+- Stone Edge

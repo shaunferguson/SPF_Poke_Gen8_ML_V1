@@ -1,0 +1,20 @@
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Geodude @ Sitrus Berry
+Ability: Sturdy
+- Bulldoze
+- Rock Blast
+- Strength
+- Protect
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance

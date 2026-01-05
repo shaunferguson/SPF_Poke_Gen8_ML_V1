@@ -1,0 +1,27 @@
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect
+
+Quagsire @ Leftovers
+Ability: Water Absorb
+- Body Slam
+- Rock Slide
+- Ice Beam
+- Brick Break
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl

@@ -1,0 +1,20 @@
+Absol @ White Herb
+Ability: Pressure
+- Slash
+- Night Slash
+- Double Team
+- Taunt
+
+Hypno @ Leftovers
+Ability: Insomnia
+- Thunder Punch
+- Zen Headbutt
+- Headbutt
+- Drain Punch
+
+Lopunny @ Bright Powder
+Ability: Limber
+- Thunder Wave
+- Attract
+- Sweet Kiss
+- Focus Punch

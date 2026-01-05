@@ -1,0 +1,27 @@
+Heatran @ Quick Claw
+Ability: Flash Fire
+- Explosion
+- Fire Fang
+- Crunch
+- Iron Head
+
+Donphan @ Bright Powder
+Ability: Sturdy
+- Earthquake
+- Stone Edge
+- Thunder Fang
+- Ice Shard
+
+Leafeon @ Shed Shell
+Ability: Chlorophyll
+- Grass Knot
+- Aerial Ace
+- Energy Ball
+- Bite
+
+Registeel @ Damp Rock
+Ability: Clear Body
+- Rain Dance
+- Thunder
+- Stealth Rock
+- Protect

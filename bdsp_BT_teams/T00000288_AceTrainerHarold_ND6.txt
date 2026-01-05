@@ -1,0 +1,27 @@
+Gallade @ King's Rock
+Ability: Justified
+- Psycho Cut
+- Poison Jab
+- Thunder Wave
+- Confuse Ray
+
+Honchkrow @ Power Herb
+Ability: Super Luck
+- Night Slash
+- Sky Attack
+- Brave Bird
+- Payback
+
+Drifblim @ Lum Berry
+Ability: Unburden
+- Hypnosis
+- Dream Eater
+- Rest
+- Charge Beam
+
+Aerodactyl @ Leftovers
+Ability: Pressure
+- Swagger
+- Attract
+- Rock Slide
+- Roost

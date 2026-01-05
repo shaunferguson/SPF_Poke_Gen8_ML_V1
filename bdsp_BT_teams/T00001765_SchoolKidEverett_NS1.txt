@@ -1,0 +1,20 @@
+Machop @ Scope Lens
+Ability: No Guard
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Bulbasaur @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Toxic
+- Synthesis
+- Leech Seed
+
+Lombre @ Yache Berry
+Ability: Swift Swim
+- Water Pulse
+- Fake Out
+- Brick Break
+- Absorb

@@ -1,0 +1,20 @@
+Suicune @ Leftovers
+Ability: Pressure
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Dazzling Gleam
+- Ice Beam
+- Psychic
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast

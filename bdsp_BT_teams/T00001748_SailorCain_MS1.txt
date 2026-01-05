@@ -1,0 +1,20 @@
+Regirock @ Leftovers
+Ability: Clear Body
+- Stone Edge
+- Earthquake
+- Brick Break
+- Sandstorm
+
+Floatzel @ Bright Powder
+Ability: Swift Swim
+- Waterfall
+- Ice Fang
+- Crunch
+- Rain Dance
+
+Entei @ Heat Rock
+Ability: Inner Focus
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Extrasensory

@@ -1,0 +1,20 @@
+Marowak @ Thick Club
+Ability: Battle Armor
+- Earthquake
+- Double-Edge
+- Aerial Ace
+- Brick Break
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect
+
+Arcanine @ Lum Berry
+Ability: Intimidate
+- Flamethrower
+- Dragon Pulse
+- Will-O-Wisp
+- Extreme Speed

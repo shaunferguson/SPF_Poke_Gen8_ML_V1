@@ -1,0 +1,27 @@
+Riolu @ Focus Sash
+Ability: Prankster
+- Force Palm
+- Counter
+- Copycat
+- Screech
+
+Bulbasaur @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Toxic
+- Synthesis
+- Leech Seed
+
+Natu @ Twisted Spoon
+Ability: Magic Bounce
+- Night Shade
+- Future Sight
+- Psychic
+- Flash
+
+Hippopotas @ Passho Berry
+Ability: Sand Stream
+- Bite
+- Sand Attack
+- Sand Tomb
+- Yawn

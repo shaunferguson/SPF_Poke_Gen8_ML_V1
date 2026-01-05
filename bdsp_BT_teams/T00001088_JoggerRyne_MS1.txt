@@ -1,0 +1,20 @@
+Feraligatr @ Wacan Berry
+Ability: Torrent
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance
+
+Cradily @ Sitrus Berry
+Ability: Storm Drain
+- Mirror Coat
+- Energy Ball
+- Stone Edge
+- Ingrain
+
+Magmortar @ Wiki Berry
+Ability: Flame Body
+- Earthquake
+- Flamethrower
+- Thunderbolt
+- Will-O-Wisp

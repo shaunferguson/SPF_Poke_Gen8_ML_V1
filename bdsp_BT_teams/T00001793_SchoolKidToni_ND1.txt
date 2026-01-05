@@ -1,0 +1,27 @@
+Geodude @ Sitrus Berry
+Ability: Sturdy
+- Bulldoze
+- Rock Blast
+- Strength
+- Protect
+
+Totodile @ Wacan Berry
+Ability: Torrent
+- Waterfall
+- Aerial Ace
+- Slash
+- Screech
+
+Skorupi @ Payapa Berry
+Ability: Battle Armor
+- Poison Sting
+- Bite
+- Scary Face
+- Toxic Spikes
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect

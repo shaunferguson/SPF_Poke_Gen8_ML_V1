@@ -1,0 +1,20 @@
+Hitmonchan @ King's Rock
+Ability: Iron Fist
+- Mach Punch
+- Ice Punch
+- Detect
+- Counter
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Seaking @ Sitrus Berry
+Ability: Lightning Rod
+- Water Pulse
+- Psybeam
+- Poison Jab
+- Agility

@@ -1,0 +1,27 @@
+Snorlax @ Figy Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt
+
+Entei @ Choice Band
+Ability: Inner Focus
+- Sacred Fire
+- Extreme Speed
+- Crunch
+- Stone Edge
+
+Machamp @ Flame Orb
+Ability: Guts
+- Close Combat
+- Ice Punch
+- Knock Off
+- Bullet Punch

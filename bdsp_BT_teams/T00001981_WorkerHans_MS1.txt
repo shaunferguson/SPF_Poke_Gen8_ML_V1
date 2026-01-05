@@ -1,0 +1,20 @@
+Politoed @ Sitrus Berry
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Protect
+- Perish Song
+
+Kingdra @ Wide Lens
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- Rain Dance
+
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- Superpower
+- U-turn

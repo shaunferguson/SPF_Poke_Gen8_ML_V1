@@ -1,0 +1,27 @@
+Wobbuffet @ Leftovers
+Ability: Shadow Tag
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+Spinda @ Silk Scarf
+Ability: Own Tempo
+- Flail
+- Teeter Dance
+- Psybeam
+- Icy Wind
+
+Onix @ Sitrus Berry
+Ability: Sturdy
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm
+
+Weepinbell @ Aguav Berry
+Ability: Gluttony
+- Razor Leaf
+- Acid
+- Wrap
+- Sweet Scent

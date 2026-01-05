@@ -1,0 +1,20 @@
+Aggron @ Chople Berry
+Ability: Sturdy
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush
+
+Metagross @ Occa Berry
+Ability: Clear Body
+- Magnet Rise
+- Rock Polish
+- Zen Headbutt
+- Meteor Mash
+
+Flygon @ Soft Sand
+Ability: Levitate
+- Earthquake
+- Dragon Claw
+- Stone Edge
+- Dragon Dance

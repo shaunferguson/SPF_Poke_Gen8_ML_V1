@@ -1,0 +1,27 @@
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Happiny @ Lucky Punch
+Ability: Serene Grace
+- Sweet Kiss
+- Psychic
+- Flamethrower
+- Shadow Ball
+
+Nuzleaf @ Sitrus Berry
+Ability: Chlorophyll
+- Extrasensory
+- Fake Out
+- Razor Leaf
+- Rock Tomb
+
+Chinchou @ Lax Incense
+Ability: Volt Absorb
+- Spark
+- Bubble Beam
+- Confuse Ray
+- Take Down

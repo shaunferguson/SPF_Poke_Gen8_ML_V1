@@ -1,0 +1,27 @@
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Counter
+- Bullet Seed
+
+Togekiss @ Scope Lens
+Ability: Super Luck
+- Air Slash
+- Flamethrower
+- Dazzling Gleam
+- Thunder Wave
+
+Raikou @ Choice Specs
+Ability: Inner Focus
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald
+
+Claydol @ Leftovers
+Ability: Levitate
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power

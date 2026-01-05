@@ -1,0 +1,20 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Venonat @ Sitrus Berry
+Ability: Compound Eyes
+- Psybeam
+- Supersonic
+- Stun Spore
+- Skill Swap
+
+Staravia @ Charti Berry
+Ability: Intimidate
+- Endeavor
+- Aerial Ace
+- Whirlwind
+- Quick Attack

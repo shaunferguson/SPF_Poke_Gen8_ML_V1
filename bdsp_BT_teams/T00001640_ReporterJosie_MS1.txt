@@ -1,0 +1,20 @@
+Latias @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire
+
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb
+
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt

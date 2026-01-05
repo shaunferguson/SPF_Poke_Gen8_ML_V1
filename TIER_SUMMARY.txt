@@ -1,0 +1,157 @@
+================================================================================
+                    TIER-AWARE TRAINING SYSTEM
+================================================================================
+
+IMPORTANT: Your 2019 BDSP Battle Tower teams are organized into 7 TIERS and
+2 FORMATS. The training system now ensures fair battles by only matching teams
+of the same tier and format!
+
+TEAM DISTRIBUTION
+================================================================================
+
+Total Teams: 2019
+
+By Tier:
+  Tier 1:  805 teams ( 422 Singles,  383 Doubles) - Easiest
+  Tier 2:  200 teams ( 109 Singles,   91 Doubles)
+  Tier 3:  201 teams ( 112 Singles,   89 Doubles)
+  Tier 4:  200 teams ( 114 Singles,   86 Doubles)
+  Tier 5:  200 teams ( 108 Singles,   92 Doubles)
+  Tier 6:  208 teams ( 110 Singles,   98 Doubles)
+  Tier 7:  205 teams ( 108 Singles,   97 Doubles) - Hardest
+
+By Format:
+  Singles: 1083 teams (53.7%) - 1v1 battles
+  Doubles:  936 teams (46.3%) - 2v2 battles (4 Pokemon teams)
+
+QUICK START
+================================================================================
+
+USE THIS INSTEAD OF train_local.py:
+
+Terminal 1:
+  start_server.bat
+
+Terminal 2:
+  python train_tiered.py --battles 100
+
+This ensures teams only battle within their tier and format!
+
+TRAINING OPTIONS
+================================================================================
+
+All Tiers & Formats (Recommended):
+  python train_tiered.py --battles 1000
+
+Specific Tier:
+  python train_tiered.py --battles 500 --tier 1
+
+Specific Format:
+  python train_tiered.py --battles 1000 --format singles
+  python train_tiered.py --battles 1000 --format doubles
+
+Tier AND Format:
+  python train_tiered.py --battles 500 --tier 7 --format doubles
+
+With GPU:
+  python train_tiered.py --battles 1000 --device cuda
+
+Resume Training:
+  python train_tiered.py --battles 1000 --checkpoint checkpoints/agent_latest.pt
+
+CURRICULUM LEARNING (Recommended Path)
+================================================================================
+
+1. Start with Tier 1 (easiest, most teams):
+   python train_tiered.py --battles 500 --tier 1 --device cuda
+
+2. Progress through tiers:
+   python train_tiered.py --battles 300 --tier 2 --checkpoint checkpoints/agent_latest.pt --device cuda
+   python train_tiered.py --battles 300 --tier 3 --checkpoint checkpoints/agent_latest.pt --device cuda
+   ...
+
+3. Generalize across all tiers:
+   python train_tiered.py --battles 2000 --checkpoint checkpoints/agent_latest.pt --device cuda
+
+4. Specialize on hard tiers:
+   python train_tiered.py --battles 500 --tier 7 --checkpoint checkpoints/agent_latest.pt --device cuda
+
+WHAT YOU'LL SEE
+================================================================================
+
+[Starting Battle 1]
+  Tier: 3 | Format: Doubles
+  Bot: Liliana (T00001020_IdolLiliana_ND3.txt)
+  Opponent: Rose (T00000737_CowgirlRose_ND3.txt)
+
+[Battle 1] WIN | Tier 3 Doubles | W/L: 1/0 (100.0%)
+
+Every 50 battles:
+
+============================================================
+Performance by Tier
+============================================================
+Tier 1:  28W /  22L ( 56.0%) -  50 battles
+Tier 2:   5W /   3L ( 62.5%) -   8 battles
+Tier 3:   7W /   5L ( 58.3%) -  12 battles
+...
+
+============================================================
+Performance by Format
+============================================================
+Singles:  18W /  15L ( 54.5%) -  33 battles
+Doubles:  22W /  15L ( 59.5%) -  37 battles
+============================================================
+
+KEY FILES
+================================================================================
+
+train_tiered.py           - NEW: Tier-aware training script (USE THIS)
+train_local.py            - OLD: Random matchmaking (don't use)
+team_loader_tiered.py     - NEW: Loads teams with tier/format metadata
+team_loader.py            - OLD: Original loader (still works)
+
+TIERED_TRAINING_GUIDE.md  - Complete guide to tier-aware training
+TIER_SUMMARY.txt          - This file
+
+WHY TIER-AWARE TRAINING?
+================================================================================
+
+WITHOUT tier matching:
+  - Tier 1 team battles Tier 7 team = unfair, poor learning
+  - Singles team battles Doubles team = impossible/broken
+  - Agent learns from mismatched experiences
+
+WITH tier matching:
+  - Tier 1 vs Tier 1 = fair battle, good learning
+  - Tier 7 vs Tier 7 = challenging battle, expert learning
+  - Singles vs Singles, Doubles vs Doubles = proper format
+  - Agent learns appropriate strategies for each tier
+
+BENEFITS
+================================================================================
+
+✓ Fair matchmaking - teams battle at same difficulty level
+✓ Better learning - agent faces appropriate challenges
+✓ Tier statistics - see performance by difficulty
+✓ Format statistics - track Singles vs Doubles separately
+✓ Curriculum learning - progress from easy to hard
+✓ Specialization - become expert at specific tier/format
+
+DOCUMENTATION
+================================================================================
+
+Read TIERED_TRAINING_GUIDE.md for complete information!
+
+SUMMARY
+================================================================================
+
+Your teams are organized by difficulty (tier 1-7) and format (Singles/Doubles).
+
+Always use train_tiered.py to ensure fair battles!
+
+  python train_tiered.py --battles 1000 --device cuda
+
+This is the recommended way to train your Pokemon Battle AI!
+
+================================================================================

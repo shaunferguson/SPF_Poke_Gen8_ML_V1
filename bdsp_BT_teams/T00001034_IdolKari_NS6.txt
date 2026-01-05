@@ -1,0 +1,20 @@
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Tentacruel @ Leftovers
+Ability: Liquid Ooze
+- Acupressure
+- Rest
+- Sleep Talk
+- Surf

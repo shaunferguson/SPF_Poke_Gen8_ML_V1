@@ -1,0 +1,27 @@
+Weavile @ Razor Claw
+Ability: Pressure
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Shadow Claw
+
+Medicham @ Focus Band
+Ability: Pure Power
+- High Jump Kick
+- Thunder Punch
+- Ice Punch
+- Fire Punch
+
+Poliwrath @ Rindo Berry
+Ability: Water Absorb
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Mind Reader
+
+Bastiodon @ Custap Berry
+Ability: Sturdy
+- Metal Burst
+- Taunt
+- Iron Head
+- Stone Edge

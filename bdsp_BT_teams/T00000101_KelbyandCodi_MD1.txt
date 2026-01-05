@@ -1,0 +1,27 @@
+Slaking @ Wide Lens
+Ability: Truant
+- Hyper Beam
+- Blizzard
+- Fire Blast
+- Thunderbolt
+
+Blaziken @ Passho Berry
+Ability: Speed Boost
+- Overheat
+- Flare Blitz
+- Protect
+- Close Combat
+
+Shiftry @ Quick Claw
+Ability: Chlorophyll
+- Explosion
+- Fake Out
+- X-Scissor
+- Sucker Punch
+
+Raikou @ Magnet
+Ability: Pressure
+- Rain Dance
+- Thunder
+- Calm Mind
+- Iron Tail

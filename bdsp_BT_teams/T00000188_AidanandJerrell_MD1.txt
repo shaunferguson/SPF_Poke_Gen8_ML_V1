@@ -1,0 +1,27 @@
+Kingdra @ Wide Lens
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- Rain Dance
+
+Regirock @ Passho Berry
+Ability: Sturdy
+- Superpower
+- Stone Edge
+- Rock Tomb
+- Strength
+
+Typhlosion @ Shuca Berry
+Ability: Blaze
+- Flare Blitz
+- Earthquake
+- Shadow Claw
+- Aerial Ace
+
+Zapdos @ Bright Powder
+Ability: Pressure
+- Double Team
+- Roost
+- Discharge
+- Heat Wave

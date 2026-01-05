@@ -1,0 +1,20 @@
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Calm Mind
+- Flamethrower
+- Substitute
+
+Milotic @ Life Orb
+Ability: Competitive
+- Scald
+- Ice Beam
+- Hydro Pump
+- Dragon Pulse
+
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance

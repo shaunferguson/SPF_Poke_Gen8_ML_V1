@@ -1,0 +1,27 @@
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Bidoof @ Metronome
+Ability: Simple
+- Defense Curl
+- Headbutt
+- Rollout
+- Yawn
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring

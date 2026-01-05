@@ -1,0 +1,27 @@
+Roserade @ White Herb
+Ability: Poison Point
+- Leaf Storm
+- Sludge Bomb
+- Shadow Ball
+- Dazzling Gleam
+
+Regigigas @ Chople Berry
+Ability: Slow Start
+- Crush Grip
+- Protect
+- Stone Edge
+- Brick Break
+
+Muk @ Focus Sash
+Ability: Poison Touch
+- Gunk Shot
+- Brick Break
+- Shadow Punch
+- Rock Slide
+
+Hypno @ Focus Band
+Ability: Insomnia
+- Psychic
+- Focus Blast
+- Thunder Wave
+- Calm Mind

@@ -1,0 +1,20 @@
+Swampert @ Sitrus Berry
+Ability: Damp
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Togekiss @ Choice Scarf
+Ability: Serene Grace
+- Air Slash
+- Dazzling Gleam
+- Grass Knot
+- Fire Blast
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance

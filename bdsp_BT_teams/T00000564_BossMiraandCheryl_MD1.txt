@@ -1,0 +1,27 @@
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psychic
+- Dazzling Gleam
+- Focus Blast
+- Protect
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Sludge Wave
+- Dazzling Gleam
+- Icy Wind
+- Shadow Ball
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Foul Play
+- Helping Hand
+- Snarl
+- Detect
+
+Blissey @ Wise Glasses
+Ability: Serene Grace
+- Icy Wind
+- Dazzling Gleam
+- Tri Attack
+- Flamethrower

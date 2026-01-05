@@ -1,0 +1,20 @@
+Espeon @ Focus Sash
+Ability: Magic Bounce
+- Light Screen
+- Psychic
+- Shadow Ball
+- Dazzling Gleam
+
+Torterra @ White Herb
+Ability: Overgrow
+- Leaf Storm
+- Worry Seed
+- Earthquake
+- Bite
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Synthesis
+- Leaf Blade
+- Leech Seed
+- Yawn

@@ -1,0 +1,27 @@
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Rock Slide
+- Dig
+- Avalanche
+- Waterfall
+
+Goldeen @ Petaya Berry
+Ability: Lightning Rod
+- Waterfall
+- Peck
+- Agility
+- Horn Drill
+
+Oddish @ Pecha Berry
+Ability: Chlorophyll
+- Acid
+- Stun Spore
+- Sweet Scent
+- Moonlight

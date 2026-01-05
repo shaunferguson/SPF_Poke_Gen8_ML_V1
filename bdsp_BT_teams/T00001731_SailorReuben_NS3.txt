@@ -1,0 +1,20 @@
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack
+
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect
+
+Dunsparce @ Lax Incense
+Ability: Serene Grace
+- Headbutt
+- Glare
+- Defense Curl
+- Rollout

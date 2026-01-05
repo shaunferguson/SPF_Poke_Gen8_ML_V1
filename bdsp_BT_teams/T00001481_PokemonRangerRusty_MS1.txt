@@ -1,0 +1,20 @@
+Kangaskhan @ Focus Sash
+Ability: Scrappy
+- Endure
+- Reversal
+- Fake Out
+- Double Hit
+
+Aggron @ Shuca Berry
+Ability: Sturdy
+- Stone Edge
+- Avalanche
+- Payback
+- Earthquake
+
+Charizard @ King's Rock
+Ability: Blaze
+- Flare Blitz
+- Wing Attack
+- Dragon Rush
+- Dragon Dance

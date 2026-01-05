@@ -1,0 +1,27 @@
+Electabuzz @ Cheri Berry
+Ability: Static
+- Thunderbolt
+- Thunder Wave
+- Brick Break
+- Light Screen
+
+Venusaur @ Power Herb
+Ability: Overgrow
+- Skull Bash
+- Worry Seed
+- Earthquake
+- Petal Dance
+
+Forretress @ Occa Berry
+Ability: Sturdy
+- Gyro Ball
+- Counter
+- Spikes
+- Toxic Spikes
+
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash

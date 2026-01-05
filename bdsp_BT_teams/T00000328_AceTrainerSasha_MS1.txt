@@ -1,0 +1,20 @@
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb
+
+Zapdos @ Leftovers
+Ability: Static
+- Discharge
+- Heat Wave
+- Roost
+- Hurricane
+
+Salamence @ Yache Berry
+Ability: Intimidate
+- Dragon Dance
+- Earthquake
+- Outrage
+- Crunch

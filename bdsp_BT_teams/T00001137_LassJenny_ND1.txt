@@ -1,0 +1,27 @@
+Budew @ Big Root
+Ability: Poison Point
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Bronzor @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Krabby @ Focus Sash
+Ability: Hyper Cutter
+- Crabhammer
+- Mud Shot
+- Flail
+- Guillotine
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer

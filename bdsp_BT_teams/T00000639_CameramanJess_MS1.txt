@@ -1,0 +1,20 @@
+Froslass @ Lax Incense
+Ability: Cursed Body
+- Light Screen
+- Ice Beam
+- Shadow Ball
+- Psychic
+
+Swampert @ Sitrus Berry
+Ability: Torrent
+- Waterfall
+- Earthquake
+- Ice Punch
+- Curse
+
+Mamoswine @ Leftovers
+Ability: Thick Fat
+- Fissure
+- Double Team
+- Avalanche
+- Earthquake

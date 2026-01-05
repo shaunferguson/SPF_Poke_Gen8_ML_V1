@@ -1,0 +1,27 @@
+Manectric @ Damp Rock
+Ability: Lightning Rod
+- Rain Dance
+- Thunder
+- Thunder Wave
+- Hyper Beam
+
+Rhydon @ Smooth Rock
+Ability: Lightning Rod
+- Rock Blast
+- Fire Fang
+- Earthquake
+- Avalanche
+
+Torterra @ Bright Powder
+Ability: Overgrow
+- Frenzy Plant
+- Double Team
+- Hyper Beam
+- Leech Seed
+
+Feraligatr @ Wacan Berry
+Ability: Torrent
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance

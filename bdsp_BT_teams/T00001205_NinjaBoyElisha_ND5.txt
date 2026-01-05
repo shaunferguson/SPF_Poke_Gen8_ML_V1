@@ -1,0 +1,27 @@
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Protect
+- Spore
+- Leech Seed
+- Low Sweep
+
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap
+
+Quagsire @ Leftovers
+Ability: Water Absorb
+- Body Slam
+- Rock Slide
+- Ice Beam
+- Brick Break
+
+Granbull @ Razor Claw
+Ability: Intimidate
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact

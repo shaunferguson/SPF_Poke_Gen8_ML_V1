@@ -1,0 +1,20 @@
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+- Blizzard
+- Earthquake
+- Brick Break
+- Giga Drain
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Yanmega @ Charti Berry
+Ability: Speed Boost
+- Aerial Ace
+- Steel Wing
+- Thief
+- U-turn

@@ -1,0 +1,27 @@
+Empoleon @ Wacan Berry
+Ability: Torrent
+- Drill Peck
+- Brick Break
+- Aqua Jet
+- Ice Beam
+
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass

@@ -1,0 +1,27 @@
+Charizard @ Scope Lens
+Ability: Blaze
+- Flare Blitz
+- Aerial Ace
+- Crunch
+- Dragon Claw
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+- Earthquake
+- Ice Fang
+- Slack Off
+- Yawn
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief

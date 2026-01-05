@@ -1,0 +1,27 @@
+Bonsly @ Passho Berry
+Ability: Sturdy
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Glameow @ Quick Claw
+Ability: Limber
+- Fake Out
+- Fury Swipes
+- Growl
+- Attract
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen

@@ -1,0 +1,27 @@
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing
+
+Mantine @ Mystic Water
+Ability: Swift Swim
+- Bubble Beam
+- Aerial Ace
+- Rain Dance
+- Psybeam
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down

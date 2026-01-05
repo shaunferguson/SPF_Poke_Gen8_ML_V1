@@ -1,0 +1,20 @@
+Lickilicky @ Expert Belt
+Ability: Oblivious
+- Surf
+- Ice Beam
+- Thunderbolt
+- Shadow Ball
+
+Salamence @ King's Rock
+Ability: Intimidate
+- Dragon Dance
+- Earthquake
+- Outrage
+- Zen Headbutt
+
+Whiscash @ Zoom Lens
+Ability: Oblivious
+- Hydro Pump
+- Blizzard
+- Fissure
+- Future Sight

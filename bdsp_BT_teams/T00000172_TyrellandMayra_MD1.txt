@@ -1,0 +1,27 @@
+Miltank @ Silk Scarf
+Ability: Scrappy
+- Body Slam
+- Giga Impact
+- Earthquake
+- Milk Drink
+
+Breloom @ Big Root
+Ability: Effect Spore
+- Spore
+- Focus Punch
+- Drain Punch
+- Swords Dance
+
+Altaria @ White Herb
+Ability: Cloud Nine
+- Draco Meteor
+- Hyper Beam
+- Ice Beam
+- Flamethrower
+
+Tentacruel @ Black Sludge
+Ability: Clear Body
+- Surf
+- Sludge Bomb
+- Giga Drain
+- Mirror Coat

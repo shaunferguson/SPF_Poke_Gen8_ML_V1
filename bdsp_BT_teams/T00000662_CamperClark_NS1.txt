@@ -1,0 +1,27 @@
+Combee @ Quick Claw
+Ability: Honey Gather
+- Sweet Scent
+- Gust
+- -
+- -
+
+Chimecho @ Grip Claw
+Ability: Levitate
+- Wrap
+- Yawn
+- Uproar
+- Astonish
+
+Aron @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Aerial Ace
+- Metal Sound
+- Roar
+
+Phanpy @ Lax Incense
+Ability: Pickup
+- Rollout
+- Defense Curl
+- Rock Tomb
+- Sandstorm

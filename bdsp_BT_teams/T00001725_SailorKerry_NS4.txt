@@ -1,0 +1,20 @@
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Kabutops @ Scope Lens
+Ability: Swift Swim
+- Slash
+- Dig
+- Night Slash
+- Metal Sound
+
+Torkoal @ Sitrus Berry
+Ability: Drought
+- Lava Plume
+- Earthquake
+- Stealth Rock
+- Yawn

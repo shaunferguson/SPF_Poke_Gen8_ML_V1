@@ -1,0 +1,20 @@
+Bronzor @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Bulbasaur @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Toxic
+- Synthesis
+- Leech Seed
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound

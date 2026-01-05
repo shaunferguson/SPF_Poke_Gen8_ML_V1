@@ -1,0 +1,20 @@
+Squirtle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Withdraw
+- Protect
+
+Gible @ Soft Sand
+Ability: Rough Skin
+- Dragon Claw
+- Dig
+- Sand Tomb
+- Sand Attack
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

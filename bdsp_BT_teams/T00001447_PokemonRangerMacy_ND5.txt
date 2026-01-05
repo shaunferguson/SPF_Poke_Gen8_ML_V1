@@ -1,0 +1,27 @@
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb
+
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact
+
+Sceptile @ Leftovers
+Ability: Overgrow
+- Leech Seed
+- Double Team
+- Dragon Pulse
+- Giga Drain
+
+Venusaur @ Power Herb
+Ability: Overgrow
+- Skull Bash
+- Worry Seed
+- Earthquake
+- Petal Dance

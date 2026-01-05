@@ -1,0 +1,20 @@
+Charizard @ Charti Berry
+Ability: Blaze
+- Flamethrower
+- Sunny Day
+- Focus Blast
+- Ancient Power
+
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact
+
+Swampert @ Quick Claw
+Ability: Torrent
+- Ancient Power
+- Muddy Water
+- Avalanche
+- Focus Blast

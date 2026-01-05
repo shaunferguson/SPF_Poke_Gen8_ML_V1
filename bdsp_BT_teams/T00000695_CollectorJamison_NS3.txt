@@ -1,0 +1,20 @@
+Sneasel @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout
+
+Machoke @ Focus Band
+Ability: Guts
+- Low Kick
+- Rock Tomb
+- Facade
+- Scary Face

@@ -1,0 +1,27 @@
+Pidgeot @ Sharp Beak
+Ability: Big Pecks
+- U-turn
+- Feather Dance
+- Brave Bird
+- Quick Attack
+
+Omastar @ Shell Bell
+Ability: Swift Swim
+- Bubble Beam
+- Rock Blast
+- Tickle
+- Ancient Power
+
+Sharpedo @ Scope Lens
+Ability: Speed Boost
+- Slash
+- Bite
+- Water Pulse
+- Scary Face
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis

@@ -1,0 +1,27 @@
+Froslass @ Focus Band
+Ability: Cursed Body
+- Blizzard
+- Shadow Ball
+- Thunderbolt
+- Will-O-Wisp
+
+Omastar @ Shell Bell
+Ability: Swift Swim
+- Bubble Beam
+- Rock Blast
+- Tickle
+- Ancient Power
+
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing

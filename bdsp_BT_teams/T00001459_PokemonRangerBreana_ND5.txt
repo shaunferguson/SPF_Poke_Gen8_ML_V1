@@ -1,0 +1,27 @@
+Lopunny @ Bright Powder
+Ability: Limber
+- Thunder Wave
+- Attract
+- Sweet Kiss
+- Focus Punch
+
+Primeape @ Sitrus Berry
+Ability: Defiant
+- Cross Chop
+- Stomping Tantrum
+- Swagger
+- Thief
+
+Absol @ White Herb
+Ability: Pressure
+- Slash
+- Night Slash
+- Double Team
+- Taunt
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+- Mirror Coat
+- Recover
+- Waterfall
+- Earthquake

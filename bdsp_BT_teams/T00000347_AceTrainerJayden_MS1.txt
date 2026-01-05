@@ -1,0 +1,20 @@
+Bastiodon @ Muscle Band
+Ability: Sturdy
+- Iron Head
+- Iron Tail
+- Metal Burst
+- Stone Edge
+
+Quagsire @ Quick Claw
+Ability: Water Absorb
+- Amnesia
+- Scald
+- Sludge Bomb
+- Recover
+
+Floatzel @ Bright Powder
+Ability: Swift Swim
+- Waterfall
+- Ice Fang
+- Crunch
+- Rain Dance

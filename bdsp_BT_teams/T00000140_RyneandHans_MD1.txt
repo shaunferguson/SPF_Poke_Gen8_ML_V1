@@ -1,0 +1,27 @@
+Heatran @ Choice Scarf
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance
+
+Hippowdon @ Life Orb
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Ice Fang
+- Yawn
+
+Quagsire @ Leftovers
+Ability: Unaware
+- Stockpile
+- Whirlpool
+- Toxic
+- Recover

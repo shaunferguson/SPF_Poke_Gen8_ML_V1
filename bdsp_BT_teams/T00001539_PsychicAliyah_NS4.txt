@@ -1,0 +1,20 @@
+Bellossom @ Power Herb
+Ability: Chlorophyll
+- Solar Beam
+- Safeguard
+- Sunny Day
+- Synthesis
+
+Swalot @ Black Sludge
+Ability: Sticky Hold
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb
+
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing

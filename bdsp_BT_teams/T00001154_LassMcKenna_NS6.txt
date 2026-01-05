@@ -1,0 +1,20 @@
+Wailord @ Wacan Berry
+Ability: Pressure
+- Defense Curl
+- Rollout
+- Waterfall
+- Avalanche
+
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest
+
+Muk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break

@@ -1,0 +1,27 @@
+Slaking @ Sitrus Berry
+Ability: Truant
+- Counter
+- Encore
+- Body Slam
+- Slack Off
+
+Honchkrow @ Power Herb
+Ability: Super Luck
+- Night Slash
+- Sky Attack
+- Brave Bird
+- Payback
+
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Earthquake
+- Curse
+- Yawn
+
+Luxray @ Shuca Berry
+Ability: Intimidate
+- Charge
+- Charge Beam
+- Thunderbolt
+- Flash

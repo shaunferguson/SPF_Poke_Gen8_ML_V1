@@ -1,0 +1,27 @@
+Toxicroak @ Black Glasses
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Flatter
+
+Vileplume @ Big Root
+Ability: Chlorophyll
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Poliwrath @ Rindo Berry
+Ability: Water Absorb
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Mind Reader
+
+Pinsir @ Toxic Orb
+Ability: Mold Breaker
+- Facade
+- Guillotine
+- Earthquake
+- Swords Dance

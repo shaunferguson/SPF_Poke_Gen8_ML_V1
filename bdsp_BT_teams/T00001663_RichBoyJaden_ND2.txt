@@ -1,0 +1,27 @@
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility
+
+Machoke @ Focus Band
+Ability: Guts
+- Low Kick
+- Rock Tomb
+- Facade
+- Scary Face
+
+Ariados @ Focus Sash
+Ability: Insomnia
+- Sticky Web
+- Toxic Spikes
+- Night Shade
+- Toxic Thread
+
+Skiploom @ Big Root
+Ability: Chlorophyll
+- Mega Drain
+- Leech Seed
+- Cotton Spore
+- Synthesis

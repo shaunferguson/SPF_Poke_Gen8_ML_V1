@@ -1,0 +1,27 @@
+Phanpy @ Lax Incense
+Ability: Pickup
+- Rollout
+- Defense Curl
+- Rock Tomb
+- Sandstorm
+
+Flaaffy @ Shuca Berry
+Ability: Static
+- Shock Wave
+- Thunder Wave
+- Cotton Spore
+- Light Screen
+
+Machoke @ Focus Band
+Ability: Guts
+- Low Kick
+- Rock Tomb
+- Facade
+- Scary Face
+
+Exeggcute @ Persim Berry
+Ability: Chlorophyll
+- Confusion
+- Giga Drain
+- Leech Seed
+- Light Screen

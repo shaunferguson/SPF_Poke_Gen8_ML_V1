@@ -1,0 +1,27 @@
+Steelix @ Occa Berry
+Ability: Sturdy
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Medicham @ Focus Band
+Ability: Pure Power
+- High Jump Kick
+- Thunder Punch
+- Ice Punch
+- Fire Punch
+
+Porygon2 @ Leftovers
+Ability: Analytic
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam
+
+Ampharos @ Toxic Orb
+Ability: Static
+- Thunder Wave
+- Facade
+- Fling
+- Rest

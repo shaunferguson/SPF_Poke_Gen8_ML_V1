@@ -1,0 +1,27 @@
+Shiftry @ Focus Sash
+Ability: Chlorophyll
+- Sucker Punch
+- Solar Beam
+- Heat Wave
+- Fake Out
+
+Breloom @ Muscle Band
+Ability: Technician
+- Mach Punch
+- Bullet Seed
+- Spore
+- Protect
+
+Sableye @ Sitrus Berry
+Ability: Prankster
+- Sunny Day
+- Will-O-Wisp
+- Foul Play
+- Fake Out
+
+Gengar @ Life Orb
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Icy Wind
+- Dazzling Gleam

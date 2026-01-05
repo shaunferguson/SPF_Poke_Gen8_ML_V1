@@ -1,0 +1,27 @@
+Cherubi @ Occa Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Leech Seed
+- Sunny Day
+- Take Down
+
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Psyduck @ Persim Berry
+Ability: Cloud Nine
+- Confusion
+- Fury Swipes
+- Aerial Ace
+- Disable
+
+Chinchou @ Lax Incense
+Ability: Volt Absorb
+- Spark
+- Bubble Beam
+- Confuse Ray
+- Take Down

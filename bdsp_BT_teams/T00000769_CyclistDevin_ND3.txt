@@ -1,0 +1,27 @@
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Mawile @ Bright Powder
+Ability: Intimidate
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass
+
+Misdreavus @ Focus Band
+Ability: Levitate
+- Pain Split
+- Shadow Ball
+- Confuse Ray
+- Thunder Wave
+
+Poliwhirl @ Petaya Berry
+Ability: Water Absorb
+- Water Pulse
+- Earth Power
+- Hypnosis
+- Rain Dance

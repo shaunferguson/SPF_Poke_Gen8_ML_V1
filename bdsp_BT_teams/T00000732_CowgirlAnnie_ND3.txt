@@ -1,0 +1,27 @@
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Flaaffy @ Shuca Berry
+Ability: Static
+- Shock Wave
+- Thunder Wave
+- Cotton Spore
+- Light Screen
+
+Quilava @ Focus Band
+Ability: Blaze
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Nosepass @ Hard Stone
+Ability: Sturdy
+- Rock Slide
+- Shock Wave
+- Thunder Wave
+- Sandstorm

@@ -1,0 +1,27 @@
+Starly @ Sharp Beak
+Ability: Keen Eye
+- Wing Attack
+- Quick Attack
+- Growl
+- Endeavor
+
+Totodile @ Wacan Berry
+Ability: Torrent
+- Waterfall
+- Aerial Ace
+- Slash
+- Screech
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail
+
+Cacnea @ Sitrus Berry
+Ability: Water Absorb
+- Pin Missile
+- Payback
+- Cotton Spore
+- Sand Attack

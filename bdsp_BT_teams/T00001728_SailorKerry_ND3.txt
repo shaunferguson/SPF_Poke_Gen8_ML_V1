@@ -1,0 +1,27 @@
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind
+
+Quilava @ Focus Band
+Ability: Blaze
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize

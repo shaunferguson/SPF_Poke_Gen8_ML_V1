@@ -1,0 +1,20 @@
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Foul Play
+- Swagger
+- Yawn
+- Protect
+
+Weezing @ Black Sludge
+Ability: Levitate
+- Fire Blast
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance

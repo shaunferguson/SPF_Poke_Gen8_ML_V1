@@ -1,0 +1,27 @@
+Regirock @ Custap Berry
+Ability: Sturdy
+- Rock Slide
+- Protect
+- Ice Punch
+- Thunder Punch
+
+Claydol @ Sitrus Berry
+Ability: Levitate
+- Trick Room
+- Psychic
+- Ice Beam
+- Dazzling Gleam
+
+Hippowdon @ Iapapa Berry
+Ability: Sand Stream
+- Ice Fang
+- Earthquake
+- Body Press
+- Slack Off
+
+Rhyperior @ Muscle Band
+Ability: Solid Rock
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Protect

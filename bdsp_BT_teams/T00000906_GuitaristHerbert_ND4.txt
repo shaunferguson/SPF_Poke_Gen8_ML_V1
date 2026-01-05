@@ -1,0 +1,27 @@
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm
+
+Arbok @ Persim Berry
+Ability: Intimidate
+- Poison Fang
+- Dig
+- Bite
+- Glare
+
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech
+
+Fearow @ Sharp Beak
+Ability: Keen Eye
+- Drill Peck
+- Tri Attack
+- Facade
+- Roost

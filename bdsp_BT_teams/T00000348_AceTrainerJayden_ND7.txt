@@ -1,0 +1,27 @@
+Magnezone @ Quick Claw
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Tangrowth @ Big Root
+Ability: Regenerator
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain
+
+Milotic @ Salac Berry
+Ability: Competitive
+- Hydro Pump
+- Ice Beam
+- Recover
+- Hypnosis

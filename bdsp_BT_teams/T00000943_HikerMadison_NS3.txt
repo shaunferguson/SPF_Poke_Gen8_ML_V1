@@ -1,0 +1,20 @@
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard
+
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize
+
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm

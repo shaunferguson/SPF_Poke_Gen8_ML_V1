@@ -1,0 +1,27 @@
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Meganium @ Occa Berry
+Ability: Overgrow
+- Solar Beam
+- Sunny Day
+- Synthesis
+- Ancient Power
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast

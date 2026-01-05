@@ -1,0 +1,27 @@
+Hippowdon @ Passho Berry
+Ability: Sand Stream
+- Yawn
+- Stealth Rock
+- Roar
+- Ice Fang
+
+Pinsir @ Toxic Orb
+Ability: Mold Breaker
+- Facade
+- Guillotine
+- Earthquake
+- Swords Dance
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball

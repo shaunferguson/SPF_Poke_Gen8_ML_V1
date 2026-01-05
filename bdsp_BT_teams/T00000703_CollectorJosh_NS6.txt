@@ -1,0 +1,20 @@
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+- Shadow Claw
+- Earthquake
+- Rock Slide
+- Thief
+
+Heracross @ Focus Band
+Ability: Moxie
+- Close Combat
+- Stone Edge
+- Megahorn
+- Earthquake
+
+Tentacruel @ Leftovers
+Ability: Liquid Ooze
+- Acupressure
+- Rest
+- Sleep Talk
+- Surf

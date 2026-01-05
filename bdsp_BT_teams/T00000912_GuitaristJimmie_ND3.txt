@@ -1,0 +1,27 @@
+Onix @ Sitrus Berry
+Ability: Sturdy
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm
+
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect
+
+Dragonair @ Cheri Berry
+Ability: Shed Skin
+- Dragon Breath
+- Leer
+- Wrap
+- Safeguard
+
+Kadabra @ Twisted Spoon
+Ability: Inner Focus
+- Confusion
+- Role Play
+- Future Sight
+- Disable

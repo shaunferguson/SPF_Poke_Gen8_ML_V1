@@ -1,0 +1,27 @@
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Acid Armor
+- Yawn
+- Baton Pass
+
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Counter
+- Bullet Seed
+
+Entei @ Choice Band
+Ability: Inner Focus
+- Sacred Fire
+- Extreme Speed
+- Crunch
+- Stone Edge
+
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash

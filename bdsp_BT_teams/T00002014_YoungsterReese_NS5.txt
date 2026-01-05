@@ -1,0 +1,20 @@
+Sceptile @ Leftovers
+Ability: Overgrow
+- Leech Seed
+- Double Team
+- Dragon Pulse
+- Giga Drain
+
+Tropius @ Sitrus Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Whirlwind
+- Aerial Ace
+- Steel Wing
+
+Scyther @ Liechi Berry
+Ability: Technician
+- Fury Cutter
+- Aerial Ace
+- Light Screen
+- Double Team

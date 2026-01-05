@@ -1,0 +1,27 @@
+Marshtomp @ Focus Band
+Ability: Torrent
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Mud-Slap
+
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow
+
+Sneasel @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop

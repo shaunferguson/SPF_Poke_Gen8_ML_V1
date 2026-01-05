@@ -1,0 +1,20 @@
+Machamp @ Focus Sash
+Ability: No Guard
+- Counter
+- Dynamic Punch
+- Payback
+- Earthquake
+
+Aerodactyl @ Leftovers
+Ability: Pressure
+- Swagger
+- Attract
+- Rock Slide
+- Roost
+
+Drifblim @ Lum Berry
+Ability: Unburden
+- Hypnosis
+- Dream Eater
+- Rest
+- Charge Beam

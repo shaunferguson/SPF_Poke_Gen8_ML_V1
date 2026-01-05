@@ -1,0 +1,27 @@
+Dugtrio @ Bright Powder
+Ability: Arena Trap
+- Swagger
+- Attract
+- Sand Attack
+- Sucker Punch
+
+Honchkrow @ Power Herb
+Ability: Super Luck
+- Night Slash
+- Sky Attack
+- Brave Bird
+- Payback
+
+Jolteon @ Magnet
+Ability: Volt Absorb
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn
+
+Machamp @ Focus Sash
+Ability: No Guard
+- Counter
+- Dynamic Punch
+- Payback
+- Earthquake

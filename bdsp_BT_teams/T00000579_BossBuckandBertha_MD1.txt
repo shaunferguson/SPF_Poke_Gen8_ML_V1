@@ -1,0 +1,27 @@
+Cresselia @ Mental Herb
+Ability: Levitate
+- Trick Room
+- Icy Wind
+- Calm Mind
+- Psyshock
+
+Claydol @ Expert Belt
+Ability: Levitate
+- Psychic
+- Earth Power
+- Ice Beam
+- Dazzling Gleam
+
+Rhyperior @ Sitrus Berry
+Ability: Solid Rock
+- Rock Slide
+- Earthquake
+- Ice Punch
+- Protect
+
+Steelix @ Muscle Band
+Ability: Sturdy
+- Gyro Ball
+- Earthquake
+- Rock Slide
+- Thunder Fang

@@ -1,0 +1,20 @@
+Vileplume @ Black Sludge
+Ability: Chlorophyll
+- Toxic
+- Grass Knot
+- Double Team
+- Attract
+
+Vespiquen @ Wise Glasses
+Ability: Pressure
+- Bug Buzz
+- Sludge Bomb
+- Power Gem
+- Roost
+
+Electrode @ Jaboca Berry
+Ability: Aftermath
+- Thunderbolt
+- Volt Switch
+- Swift
+- Thunder Wave

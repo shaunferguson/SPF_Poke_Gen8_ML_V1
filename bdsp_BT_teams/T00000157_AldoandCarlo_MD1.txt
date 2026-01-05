@@ -1,0 +1,27 @@
+Articuno @ Chesto Berry
+Ability: Pressure
+- Agility
+- Ice Beam
+- Water Pulse
+- Rest
+
+Tentacruel @ Black Sludge
+Ability: Clear Body
+- Surf
+- Sludge Bomb
+- Giga Drain
+- Mirror Coat
+
+Regirock @ Smooth Rock
+Ability: Sturdy
+- Sandstorm
+- Stone Edge
+- Earthquake
+- Iron Defense
+
+Salamence @ King's Rock
+Ability: Intimidate
+- Dragon Dance
+- Earthquake
+- Outrage
+- Zen Headbutt

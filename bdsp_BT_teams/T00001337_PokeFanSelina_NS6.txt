@@ -1,0 +1,20 @@
+Rampardos @ Persim Berry
+Ability: Mold Breaker
+- Thrash
+- Headbutt
+- Zen Headbutt
+- Head Smash
+
+Poliwrath @ Rindo Berry
+Ability: Water Absorb
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Mind Reader
+
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake

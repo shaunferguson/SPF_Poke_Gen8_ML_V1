@@ -1,0 +1,27 @@
+Torterra @ Heat Rock
+Ability: Overgrow
+- Sunny Day
+- Synthesis
+- Solar Beam
+- Stone Edge
+
+Charizard @ Charti Berry
+Ability: Blaze
+- Flamethrower
+- Sunny Day
+- Focus Blast
+- Ancient Power
+
+Typhlosion @ Wide Lens
+Ability: Blaze
+- Will-O-Wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Hypno @ Leftovers
+Ability: Insomnia
+- Thunder Punch
+- Zen Headbutt
+- Headbutt
+- Drain Punch

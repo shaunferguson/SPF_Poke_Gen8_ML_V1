@@ -1,0 +1,20 @@
+Squirtle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Withdraw
+- Protect
+
+Charmander @ Scope Lens
+Ability: Blaze
+- Dragon Breath
+- Inferno
+- Fire Spin
+- Scary Face
+
+Stunky @ Poison Barb
+Ability: Aftermath
+- Poison Gas
+- Fury Swipes
+- Screech
+- Smokescreen

@@ -1,0 +1,20 @@
+Croagunk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Mud-Slap
+- Taunt
+- Swagger
+
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

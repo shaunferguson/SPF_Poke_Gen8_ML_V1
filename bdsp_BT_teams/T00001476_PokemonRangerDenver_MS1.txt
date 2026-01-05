@@ -1,0 +1,20 @@
+Politoed @ Salac Berry
+Ability: Drizzle
+- Belly Drum
+- Waterfall
+- Earthquake
+- Rest
+
+Kingdra @ Wide Lens
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- Rain Dance
+
+Zapdos @ Bright Powder
+Ability: Pressure
+- Double Team
+- Roost
+- Discharge
+- Heat Wave

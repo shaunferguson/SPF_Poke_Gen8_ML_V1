@@ -1,0 +1,27 @@
+Pinsir @ Toxic Orb
+Ability: Mold Breaker
+- Facade
+- Guillotine
+- Earthquake
+- Swords Dance
+
+Electivire @ Cheri Berry
+Ability: Motor Drive
+- Thunder Punch
+- Cross Chop
+- Thunder Wave
+- Screech
+
+Sceptile @ Bright Powder
+Ability: Overgrow
+- Energy Ball
+- Dragon Pulse
+- Focus Blast
+- Synthesis
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray

@@ -1,0 +1,27 @@
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Duskull @ Spell Tag
+Ability: Levitate
+- Shadow Sneak
+- Will-O-Wisp
+- Disable
+- Confuse Ray
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen
+
+Natu @ Twisted Spoon
+Ability: Magic Bounce
+- Night Shade
+- Future Sight
+- Psychic
+- Flash

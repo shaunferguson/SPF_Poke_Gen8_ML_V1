@@ -1,0 +1,27 @@
+Granbull @ Razor Claw
+Ability: Intimidate
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact
+
+Lumineon @ Rindo Berry
+Ability: Storm Drain
+- Brine
+- Gust
+- Whirlpool
+- U-turn
+
+Weezing @ Leftovers
+Ability: Levitate
+- Will-O-Wisp
+- Double Team
+- Sludge Bomb
+- Substitute
+
+Forretress @ Occa Berry
+Ability: Sturdy
+- Gyro Ball
+- Counter
+- Spikes
+- Toxic Spikes

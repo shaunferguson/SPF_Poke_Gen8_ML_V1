@@ -1,0 +1,27 @@
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam
+
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen
+
+Marshtomp @ Focus Band
+Ability: Torrent
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Mud-Slap
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

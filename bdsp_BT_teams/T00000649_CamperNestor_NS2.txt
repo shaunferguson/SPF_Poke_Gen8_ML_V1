@@ -1,0 +1,27 @@
+Bonsly @ Passho Berry
+Ability: Sturdy
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Happiny @ Lucky Punch
+Ability: Serene Grace
+- Sweet Kiss
+- Psychic
+- Flamethrower
+- Shadow Ball
+
+Tentacool @ Pecha Berry
+Ability: Liquid Ooze
+- Bubble Beam
+- Acid
+- Sludge Bomb
+- Wrap
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring

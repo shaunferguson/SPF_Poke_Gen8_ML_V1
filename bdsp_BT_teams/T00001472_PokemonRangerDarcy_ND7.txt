@@ -1,0 +1,27 @@
+Aggron @ Chople Berry
+Ability: Sturdy
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Charizard @ Scope Lens
+Ability: Blaze
+- Flare Blitz
+- Aerial Ace
+- Crunch
+- Dragon Claw
+
+Blastoise @ Power Herb
+Ability: Torrent
+- Skull Bash
+- Earthquake
+- Waterfall
+- Aqua Jet

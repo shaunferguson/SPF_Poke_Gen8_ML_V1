@@ -1,0 +1,20 @@
+Tangrowth @ Big Root
+Ability: Regenerator
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Counter
+- Encore
+- Body Slam
+- Slack Off
+
+Meganium @ Occa Berry
+Ability: Overgrow
+- Solar Beam
+- Sunny Day
+- Synthesis
+- Ancient Power

@@ -1,0 +1,27 @@
+Charmander @ Scope Lens
+Ability: Blaze
+- Fire Fang
+- Brick Break
+- Smokescreen
+- Scary Face
+
+Shinx @ Sitrus Berry
+Ability: Intimidate
+- Spark
+- Bite
+- Light Screen
+- Thunder Wave
+
+Skiploom @ Big Root
+Ability: Chlorophyll
+- Mega Drain
+- Leech Seed
+- Cotton Spore
+- Synthesis
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

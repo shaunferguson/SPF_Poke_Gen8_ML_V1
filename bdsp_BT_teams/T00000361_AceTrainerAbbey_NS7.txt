@@ -1,0 +1,20 @@
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect
+
+Feraligatr @ Wise Glasses
+Ability: Torrent
+- Hydro Pump
+- Ice Beam
+- Dragon Pulse
+- Ancient Power
+
+Infernape @ Muscle Band
+Ability: Blaze
+- Flare Blitz
+- Thunder Punch
+- Close Combat
+- U-turn

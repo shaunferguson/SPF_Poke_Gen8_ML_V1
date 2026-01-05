@@ -1,0 +1,20 @@
+Duskull @ Spell Tag
+Ability: Levitate
+- Shadow Sneak
+- Will-O-Wisp
+- Disable
+- Confuse Ray
+
+Magby @ Lax Incense
+Ability: Flame Body
+- Fire Punch
+- Smokescreen
+- Confuse Ray
+- Smog
+
+Spinda @ Silk Scarf
+Ability: Own Tempo
+- Flail
+- Teeter Dance
+- Psybeam
+- Icy Wind

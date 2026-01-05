@@ -1,0 +1,20 @@
+Breloom @ Big Root
+Ability: Effect Spore
+- Spore
+- Focus Punch
+- Drain Punch
+- Swords Dance
+
+Ampharos @ Light Clay
+Ability: Static
+- Reflect
+- Double Team
+- Focus Punch
+- Thunder Punch
+
+Ludicolo @ Lum Berry
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Grass Knot
+- Focus Blast

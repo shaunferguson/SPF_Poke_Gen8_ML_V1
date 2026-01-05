@@ -1,0 +1,27 @@
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
+
+Moltres @ Lax Incense
+Ability: Flame Body
+- Mystical Fire
+- Hurricane
+- Will-O-Wisp
+- Roost
+
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Calm Mind
+- Flamethrower
+- Substitute

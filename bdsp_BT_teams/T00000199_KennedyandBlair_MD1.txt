@@ -1,0 +1,27 @@
+Regirock @ Liechi Berry
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Body Press
+
+Salamence @ Choice Scarf
+Ability: Moxie
+- Outrage
+- Thrash
+- Crunch
+- Earthquake
+
+Gardevoir @ Choice Specs
+Ability: Trace
+- Moonblast
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head

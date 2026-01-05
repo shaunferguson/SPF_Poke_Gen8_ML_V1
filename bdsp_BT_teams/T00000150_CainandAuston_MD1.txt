@@ -1,0 +1,27 @@
+Floatzel @ Bright Powder
+Ability: Swift Swim
+- Waterfall
+- Ice Fang
+- Crunch
+- Rain Dance
+
+Claydol @ Wise Glasses
+Ability: Levitate
+- Calm Mind
+- Psychic
+- Earth Power
+- Ice Beam
+
+Armaldo @ Focus Band
+Ability: Battle Armor
+- Sandstorm
+- Brick Break
+- Aerial Ace
+- Giga Impact
+
+Luxray @ Life Orb
+Ability: Intimidate
+- Play Rough
+- Quick Attack
+- Wild Charge
+- Fire Fang

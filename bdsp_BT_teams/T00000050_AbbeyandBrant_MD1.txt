@@ -1,0 +1,27 @@
+Staraptor @ Muscle Band
+Ability: Reckless
+- Brave Bird
+- Double-Edge
+- U-turn
+- Feather Dance
+
+Floatzel @ Sitrus Berry
+Ability: Swift Swim
+- Crunch
+- Waterfall
+- Ice Beam
+- Aqua Jet
+
+Mismagius @ Spell Tag
+Ability: Levitate
+- Shadow Ball
+- Payback
+- Energy Ball
+- Psychic
+
+Latias @ Leftovers
+Ability: Levitate
+- Mist Ball
+- Dragon Pulse
+- Calm Mind
+- Safeguard

@@ -1,0 +1,20 @@
+Relicanth @ Liechi Berry
+Ability: Sturdy
+- Ancient Power
+- Water Pulse
+- Harden
+- Amnesia
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash
+
+Zangoose @ Persim Berry
+Ability: Toxic Boost
+- Slash
+- Double Kick
+- Roar
+- Quick Attack

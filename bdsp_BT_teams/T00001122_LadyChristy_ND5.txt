@@ -1,0 +1,27 @@
+Empoleon @ Chesto Berry
+Ability: Torrent
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest
+
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech
+
+Blaziken @ Shell Bell
+Ability: Blaze
+- Aerial Ace
+- Flare Blitz
+- Will-O-Wisp
+- Bulk Up
+
+Hypno @ Leftovers
+Ability: Insomnia
+- Thunder Punch
+- Zen Headbutt
+- Headbutt
+- Drain Punch

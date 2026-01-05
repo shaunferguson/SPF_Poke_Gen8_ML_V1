@@ -1,0 +1,20 @@
+Sceptile @ Leftovers
+Ability: Overgrow
+- Leech Seed
+- Double Team
+- Dragon Pulse
+- Giga Drain
+
+Swalot @ Black Sludge
+Ability: Sticky Hold
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb
+
+Magmar @ Rawst Berry
+Ability: Flame Body
+- Flamethrower
+- Smokescreen
+- Brick Break
+- Psychic

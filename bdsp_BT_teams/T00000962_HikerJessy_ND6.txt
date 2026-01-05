@@ -1,0 +1,27 @@
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Fire Fang
+- Acrobatics
+
+Machamp @ Focus Sash
+Ability: No Guard
+- Counter
+- Dynamic Punch
+- Payback
+- Earthquake
+
+Exeggutor @ Leftovers
+Ability: Chlorophyll
+- Giga Drain
+- Leech Seed
+- Double Team
+- Substitute
+
+Honchkrow @ Power Herb
+Ability: Super Luck
+- Night Slash
+- Sky Attack
+- Brave Bird
+- Payback

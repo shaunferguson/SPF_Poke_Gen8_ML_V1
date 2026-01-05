@@ -1,0 +1,27 @@
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Chimecho @ Grip Claw
+Ability: Levitate
+- Wrap
+- Yawn
+- Uproar
+- Astonish
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound
+
+Spoink @ Sitrus Berry
+Ability: Thick Fat
+- Psychic
+- Bounce
+- Magic Coat
+- Confuse Ray

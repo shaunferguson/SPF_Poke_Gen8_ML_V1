@@ -1,0 +1,27 @@
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Water Pulse
+- Endeavor
+- Rock Slide
+- Dig
+
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring
+
+Staravia @ Charti Berry
+Ability: Intimidate
+- Endeavor
+- Aerial Ace
+- Whirlwind
+- Quick Attack

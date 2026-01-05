@@ -1,0 +1,20 @@
+Mismagius @ Spell Tag
+Ability: Levitate
+- Shadow Ball
+- Payback
+- Energy Ball
+- Psychic
+
+Glalie @ Scope Lens
+Ability: Moody
+- Ice Beam
+- Shadow Ball
+- Water Pulse
+- Safeguard
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+- Earthquake
+- Ice Fang
+- Slack Off
+- Yawn

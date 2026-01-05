@@ -1,0 +1,27 @@
+Drapion @ Rawst Berry
+Ability: Battle Armor
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison
+
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest

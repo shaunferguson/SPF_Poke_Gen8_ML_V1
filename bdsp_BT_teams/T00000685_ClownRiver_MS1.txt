@@ -1,0 +1,20 @@
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Aerial Ace
+- Sleep Talk
+- Rest
+
+Porygon2 @ Wise Glasses
+Ability: Trace
+- Ice Beam
+- Defense Curl
+- Recover
+- Tri Attack
+
+Granbull @ Quick Claw
+Ability: Intimidate
+- Ice Fang
+- Stone Edge
+- Crunch
+- Earthquake

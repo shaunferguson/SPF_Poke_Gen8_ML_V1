@@ -1,0 +1,20 @@
+Drifblim @ Sitrus Berry
+Ability: Unburden
+- Baton Pass
+- Will-O-Wisp
+- Strength Sap
+- Minimize
+
+Moltres @ Lax Incense
+Ability: Flame Body
+- Mystical Fire
+- Hurricane
+- Will-O-Wisp
+- Roost
+
+Latios @ Choice Specs
+Ability: Levitate
+- Draco Meteor
+- Surf
+- Thunderbolt
+- Psychic

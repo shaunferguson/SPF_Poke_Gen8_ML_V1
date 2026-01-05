@@ -1,0 +1,27 @@
+Parasect @ Sticky Barb
+Ability: Effect Spore
+- Slash
+- Psybeam
+- Spore
+- Flash
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+- Spark
+- Brick Break
+- Iron Tail
+- Quick Attack
+
+Graveler @ Focus Band
+Ability: Sturdy
+- Rollout
+- Rock Throw
+- Defense Curl
+- Brick Break
+
+Beautifly @ Mental Herb
+Ability: Swarm
+- Bug Buzz
+- Mega Drain
+- Attract
+- Quiver Dance

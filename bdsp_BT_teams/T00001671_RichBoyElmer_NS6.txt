@@ -1,0 +1,20 @@
+Drifblim @ Lum Berry
+Ability: Unburden
+- Hypnosis
+- Dream Eater
+- Rest
+- Charge Beam
+
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest
+
+Exeggutor @ Leftovers
+Ability: Chlorophyll
+- Giga Drain
+- Leech Seed
+- Double Team
+- Substitute

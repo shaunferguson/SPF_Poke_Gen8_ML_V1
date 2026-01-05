@@ -1,0 +1,27 @@
+Yanmega @ Charti Berry
+Ability: Speed Boost
+- Aerial Ace
+- Steel Wing
+- Thief
+- U-turn
+
+Arcanine @ Lum Berry
+Ability: Intimidate
+- Flamethrower
+- Dragon Pulse
+- Will-O-Wisp
+- Extreme Speed
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+- Soft-Boiled
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast

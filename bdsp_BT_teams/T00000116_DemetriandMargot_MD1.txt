@@ -1,0 +1,27 @@
+Porygon2 @ Wise Glasses
+Ability: Trace
+- Ice Beam
+- Defense Curl
+- Recover
+- Tri Attack
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+- Thunder Wave
+- Double Team
+- Substitute
+- Air Slash
+
+Poliwrath @ Quick Claw
+Ability: Water Absorb
+- Waterfall
+- Brick Break
+- Earthquake
+- Hypnosis
+
+Suicune @ Icy Rock
+Ability: Pressure
+- Hail
+- Scald
+- Ice Beam
+- Blizzard

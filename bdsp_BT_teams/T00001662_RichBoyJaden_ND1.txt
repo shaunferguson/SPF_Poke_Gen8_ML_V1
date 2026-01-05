@@ -1,0 +1,27 @@
+Cyndaquil @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Swift
+- Quick Attack
+- Smokescreen
+
+Remoraid @ Petaya Berry
+Ability: Sniper
+- Bubble Beam
+- Aurora Beam
+- Psybeam
+- Protect
+
+Teddiursa @ Chesto Berry
+Ability: Pickup
+- Lick
+- Fake Tears
+- Brick Break
+- Rest
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

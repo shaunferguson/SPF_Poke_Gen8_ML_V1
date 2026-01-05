@@ -1,0 +1,27 @@
+Rapidash @ Chesto Berry
+Ability: Flame Body
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Rest
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+- Mirror Coat
+- Recover
+- Waterfall
+- Earthquake
+
+Houndoom @ Focus Sash
+Ability: Flash Fire
+- Counter
+- Flame Charge
+- Crunch
+- Thunder Fang
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball

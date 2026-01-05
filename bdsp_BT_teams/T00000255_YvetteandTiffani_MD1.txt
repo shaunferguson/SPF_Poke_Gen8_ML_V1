@@ -1,0 +1,27 @@
+Porygon-Z @ Silk Scarf
+Ability: Adaptability
+- Tri Attack
+- Thunderbolt
+- Ice Beam
+- Shadow Ball
+
+Infernape @ Focus Sash
+Ability: Iron Fist
+- Close Combat
+- Fire Punch
+- Fake Out
+- Mach Punch
+
+Regice @ Zoom Lens
+Ability: Clear Body
+- Thunder
+- Blizzard
+- Focus Blast
+- Flash Cannon
+
+Heatran @ Choice Scarf
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse

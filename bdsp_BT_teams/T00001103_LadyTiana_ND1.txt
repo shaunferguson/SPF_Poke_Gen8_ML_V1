@@ -1,0 +1,27 @@
+Glameow @ Quick Claw
+Ability: Limber
+- Fake Out
+- Fury Swipes
+- Growl
+- Attract
+
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Mantyke @ Bright Powder
+Ability: Swift Swim
+- Bubble Beam
+- Agility
+- Aqua Ring
+- Air Slash
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect

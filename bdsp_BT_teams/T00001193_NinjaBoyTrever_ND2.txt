@@ -1,0 +1,27 @@
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Water Pulse
+- Endeavor
+- Rock Slide
+- Dig
+
+Corsola @ Focus Sash
+Ability: Natural Cure
+- Bubble Beam
+- Mirror Coat
+- Attract
+- Ancient Power
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize

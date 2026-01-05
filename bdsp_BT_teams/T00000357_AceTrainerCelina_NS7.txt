@@ -1,0 +1,20 @@
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power
+
+Electivire @ Cheri Berry
+Ability: Motor Drive
+- Thunder Punch
+- Cross Chop
+- Thunder Wave
+- Screech
+
+Lucario @ Bright Powder
+Ability: Inner Focus
+- Dark Pulse
+- Dragon Pulse
+- Aura Sphere
+- Nasty Plot

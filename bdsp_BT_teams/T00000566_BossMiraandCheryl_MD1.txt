@@ -1,0 +1,27 @@
+Gardevoir @ Choice Scarf
+Ability: Telepathy
+- Psychic
+- Dazzling Gleam
+- Thunderbolt
+- Icy Wind
+
+Zapdos @ Sitrus Berry
+Ability: Static
+- Hurricane
+- Heat Wave
+- Discharge
+- Thunderbolt
+
+Latios @ White Herb
+Ability: Levitate
+- Surf
+- Thunderbolt
+- Psychic
+- Draco Meteor
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Discharge
+- Hyper Beam
+- Ice Beam
+- Dark Pulse

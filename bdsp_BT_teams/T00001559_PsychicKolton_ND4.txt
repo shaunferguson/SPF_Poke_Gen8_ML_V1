@@ -1,0 +1,27 @@
+Quilava @ Focus Band
+Ability: Blaze
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Sharpedo @ Scope Lens
+Ability: Speed Boost
+- Slash
+- Bite
+- Water Pulse
+- Scary Face
+
+Chansey @ Sitrus Berry
+Ability: Serene Grace
+- Substitute
+- Seismic Toss
+- Soft-Boiled
+- Minimize
+
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize

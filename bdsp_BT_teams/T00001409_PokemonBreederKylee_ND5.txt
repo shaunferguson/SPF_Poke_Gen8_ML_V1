@@ -1,0 +1,27 @@
+Charizard @ Charti Berry
+Ability: Blaze
+- Flamethrower
+- Sunny Day
+- Focus Blast
+- Ancient Power
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Brick Break
+- Earthquake
+- Rock Tomb
+- Iron Head
+
+Dewgong @ Razor Fang
+Ability: Thick Fat
+- Aqua Jet
+- Ice Shard
+- Fake Out
+- Protect
+
+Medicham @ Focus Band
+Ability: Pure Power
+- High Jump Kick
+- Thunder Punch
+- Ice Punch
+- Fire Punch

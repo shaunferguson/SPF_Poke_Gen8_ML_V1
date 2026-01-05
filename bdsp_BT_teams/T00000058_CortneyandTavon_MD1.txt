@@ -1,0 +1,27 @@
+Milotic @ Life Orb
+Ability: Competitive
+- Scald
+- Ice Beam
+- Hydro Pump
+- Dragon Pulse
+
+Cradily @ Leftovers
+Ability: Storm Drain
+- Giga Drain
+- Sludge Bomb
+- Stockpile
+- Leech Seed
+
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder

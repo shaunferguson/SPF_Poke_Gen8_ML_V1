@@ -1,0 +1,20 @@
+Moltres @ Lax Incense
+Ability: Flame Body
+- Mystical Fire
+- Hurricane
+- Will-O-Wisp
+- Roost
+
+Zapdos @ Magnet
+Ability: Static
+- Discharge
+- Volt Switch
+- Roost
+- Hurricane
+
+Articuno @ Bright Powder
+Ability: Pressure
+- Sheer Cold
+- Mind Reader
+- Substitute
+- Roost

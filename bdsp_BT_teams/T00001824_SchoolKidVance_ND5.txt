@@ -1,0 +1,27 @@
+Slowbro @ Leftovers
+Ability: Oblivious
+- Calm Mind
+- Slack Off
+- Psychic
+- Surf
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis
+
+Dewgong @ Razor Fang
+Ability: Thick Fat
+- Aqua Jet
+- Ice Shard
+- Fake Out
+- Protect
+
+Lanturn @ Rindo Berry
+Ability: Volt Absorb
+- Scald
+- Shock Wave
+- Ice Beam
+- Double Team

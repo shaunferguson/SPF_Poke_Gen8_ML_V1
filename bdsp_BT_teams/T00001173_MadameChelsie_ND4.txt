@@ -1,0 +1,27 @@
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash
+
+Relicanth @ Liechi Berry
+Ability: Sturdy
+- Ancient Power
+- Water Pulse
+- Harden
+- Amnesia
+
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech
+
+Hitmonlee @ Black Belt
+Ability: Limber
+- Blaze Kick
+- Close Combat
+- Focus Energy
+- Facade

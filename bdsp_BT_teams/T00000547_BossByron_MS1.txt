@@ -1,0 +1,20 @@
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- U-turn
+- Quick Attack
+- Thief
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+- Surf
+- Ice Beam
+- Hurricane
+- U-turn
+
+Aggron @ Mago Berry
+Ability: Sturdy
+- Metal Burst
+- Heavy Slam
+- Earthquake
+- Stone Edge

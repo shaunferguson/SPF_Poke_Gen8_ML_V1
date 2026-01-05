@@ -1,0 +1,20 @@
+Sableye @ Black Glasses
+Ability: Prankster
+- Will-O-Wisp
+- Confuse Ray
+- Night Shade
+- Fake Out
+
+Kricketune @ Metronome
+Ability: Swarm
+- Fury Cutter
+- Sticky Web
+- Sing
+- Growl
+
+Munchlax @ Figy Berry
+Ability: Gluttony
+- Metronome
+- Recycle
+- Stockpile
+- Fissure

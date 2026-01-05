@@ -1,0 +1,20 @@
+Bidoof @ Leftovers
+Ability: Simple
+- Curse
+- Headbutt
+- Pluck
+- Yawn
+
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Hippopotas @ Passho Berry
+Ability: Sand Stream
+- Bite
+- Sand Attack
+- Sand Tomb
+- Yawn

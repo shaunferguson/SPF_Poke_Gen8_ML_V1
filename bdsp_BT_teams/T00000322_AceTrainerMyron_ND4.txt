@@ -1,0 +1,27 @@
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap
+
+Pupitar @ Soft Sand
+Ability: Shed Skin
+- Dig
+- Bite
+- Scary Face
+- Sandstorm
+
+Banette @ Rawst Berry
+Ability: Cursed Body
+- Night Shade
+- Will-O-Wisp
+- Spite
+- Knock Off
+
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face

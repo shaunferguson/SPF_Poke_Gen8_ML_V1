@@ -1,0 +1,27 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance
+
+Quagsire @ Leftovers
+Ability: Unaware
+- Stockpile
+- Whirlpool
+- Toxic
+- Recover
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Weezing @ Black Sludge
+Ability: Levitate
+- Fire Blast
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split

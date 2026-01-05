@@ -1,0 +1,27 @@
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace
+
+Linoone @ Sitrus Berry
+Ability: Gluttony
+- Extreme Speed
+- Sand Attack
+- Covet
+- Tickle
+
+Kecleon @ Focus Band
+Ability: Color Change
+- Brick Break
+- Psybeam
+- Magic Coat
+- Shadow Sneak
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down

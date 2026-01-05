@@ -1,0 +1,27 @@
+Jolteon @ Razor Claw
+Ability: Volt Absorb
+- Thunder Wave
+- Thunderbolt
+- Shadow Ball
+- Flash
+
+Exeggutor @ Miracle Seed
+Ability: Chlorophyll
+- Leech Seed
+- Worry Seed
+- Bullet Seed
+- Psychic
+
+Sceptile @ Occa Berry
+Ability: Overgrow
+- Leaf Storm
+- Aerial Ace
+- Leaf Blade
+- Focus Blast
+
+Heracross @ Scope Lens
+Ability: Moxie
+- Close Combat
+- Aerial Ace
+- Night Slash
+- Bulk Up

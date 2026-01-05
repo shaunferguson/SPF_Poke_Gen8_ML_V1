@@ -1,0 +1,27 @@
+Electrode @ Shuca Berry
+Ability: Aftermath
+- Magnet Rise
+- Charge Beam
+- Hyper Beam
+- Thunder Wave
+
+Ambipom @ Muscle Band
+Ability: Technician
+- Double Hit
+- Thief
+- Dual Chop
+- Fake Out
+
+Dewgong @ Chesto Berry
+Ability: Thick Fat
+- Encore
+- Disable
+- Rest
+- Ice Beam
+
+Slowbro @ Quick Claw
+Ability: Regenerator
+- Calm Mind
+- Psychic
+- Shadow Ball
+- Flamethrower

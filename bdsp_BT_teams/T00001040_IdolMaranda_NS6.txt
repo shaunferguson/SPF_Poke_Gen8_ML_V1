@@ -1,0 +1,20 @@
+Floatzel @ Life Orb
+Ability: Swift Swim
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Focus Blast
+
+Blastoise @ Iron Ball
+Ability: Torrent
+- Double Team
+- Focus Punch
+- Aqua Jet
+- Gyro Ball
+
+Ambipom @ Bright Powder
+Ability: Technician
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit

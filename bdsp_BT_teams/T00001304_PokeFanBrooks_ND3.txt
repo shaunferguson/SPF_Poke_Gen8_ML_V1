@@ -1,0 +1,27 @@
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Chatot @ Yache Berry
+Ability: Big Pecks
+- Chatter
+- Torment
+- Sing
+- U-turn
+
+Grovyle @ Bright Powder
+Ability: Overgrow
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Nidorina @ Focus Band
+Ability: Poison Point
+- Double Kick
+- Bite
+- Aerial Ace
+- Flatter

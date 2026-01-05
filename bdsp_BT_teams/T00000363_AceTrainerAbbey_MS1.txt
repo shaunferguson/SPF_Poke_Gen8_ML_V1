@@ -1,0 +1,20 @@
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+- Blizzard
+- Giga Drain
+- Earth Power
+- Ice Shard
+
+Walrein @ Bright Powder
+Ability: Ice Body
+- Sheer Cold
+- Fissure
+- Sleep Talk
+- Rest
+
+Mamoswine @ Lax Incense
+Ability: Snow Cloak
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb

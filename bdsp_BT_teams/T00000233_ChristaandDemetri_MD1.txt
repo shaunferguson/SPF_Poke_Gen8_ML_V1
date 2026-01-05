@@ -1,0 +1,27 @@
+Honchkrow @ Sharp Beak
+Ability: Super Luck
+- Night Slash
+- Pluck
+- Aerial Ace
+- Roost
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam
+
+Latias @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Energy Ball
+- Grass Knot
+- Recover
+
+Manectric @ Damp Rock
+Ability: Lightning Rod
+- Rain Dance
+- Thunder
+- Thunder Wave
+- Hyper Beam

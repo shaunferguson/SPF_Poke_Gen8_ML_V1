@@ -1,0 +1,20 @@
+Registeel @ Quick Claw
+Ability: Clear Body
+- Explosion
+- Double Team
+- Swagger
+- Substitute
+
+Weezing @ Bright Powder
+Ability: Levitate
+- Sludge Bomb
+- Fire Blast
+- Will-O-Wisp
+- Pain Split
+
+Wailord @ Leftovers
+Ability: Pressure
+- Curse
+- Earthquake
+- Waterfall
+- Double Team

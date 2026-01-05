@@ -1,0 +1,27 @@
+Cyndaquil @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Swift
+- Quick Attack
+- Smokescreen
+
+Starly @ Muscle Band
+Ability: Reckless
+- Wing Attack
+- Quick Attack
+- Thief
+- Take Down
+
+Vibrava @ Cheri Berry
+Ability: Levitate
+- Dragon Breath
+- Dig
+- Screech
+- Rock Tomb
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+- Surf
+- Protect
+- Iron Defense
+- Double Team

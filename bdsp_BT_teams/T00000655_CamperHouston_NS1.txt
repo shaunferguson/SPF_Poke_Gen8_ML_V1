@@ -1,0 +1,27 @@
+Croagunk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Mud-Slap
+- Taunt
+- Swagger
+
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen
+
+Seel @ Aspear Berry
+Ability: Thick Fat
+- Aurora Beam
+- Dive
+- Encore
+- Surf

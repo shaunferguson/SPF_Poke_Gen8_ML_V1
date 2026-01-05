@@ -1,0 +1,20 @@
+Registeel @ Damp Rock
+Ability: Clear Body
+- Rain Dance
+- Thunder
+- Stealth Rock
+- Protect
+
+Electivire @ Wide Lens
+Ability: Motor Drive
+- Thunder
+- Dynamic Punch
+- Rock Slide
+- Iron Tail
+
+Staraptor @ Razor Claw
+Ability: Intimidate
+- Brave Bird
+- Roost
+- Endure
+- Endeavor

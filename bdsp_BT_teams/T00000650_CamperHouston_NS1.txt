@@ -1,0 +1,20 @@
+Dratini @ Persim Berry
+Ability: Shed Skin
+- Outrage
+- Thunder Wave
+- Dragon Dance
+- Water Pulse
+
+Turtwig @ Leftovers
+Ability: Overgrow
+- Razor Leaf
+- Curse
+- Leech Seed
+- Synthesis
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen

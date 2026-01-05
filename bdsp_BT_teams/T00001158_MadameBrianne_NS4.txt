@@ -1,0 +1,20 @@
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash
+
+Banette @ Rawst Berry
+Ability: Cursed Body
+- Night Shade
+- Will-O-Wisp
+- Spite
+- Knock Off

@@ -1,0 +1,27 @@
+Shinx @ King's Rock
+Ability: Intimidate
+- Spark
+- Bite
+- Roar
+- Leer
+
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Snover @ Icy Rock
+Ability: Snow Warning
+- Razor Leaf
+- Icy Wind
+- Blizzard
+- Ice Shard
+
+Krabby @ Focus Sash
+Ability: Hyper Cutter
+- Crabhammer
+- Mud Shot
+- Flail
+- Guillotine

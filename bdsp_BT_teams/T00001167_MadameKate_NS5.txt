@@ -1,0 +1,20 @@
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Skuntank @ Bright Powder
+Ability: Aftermath
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough
+
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief

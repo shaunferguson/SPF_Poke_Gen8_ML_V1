@@ -1,0 +1,20 @@
+Registeel @ Damp Rock
+Ability: Clear Body
+- Rain Dance
+- Thunder
+- Stealth Rock
+- Protect
+
+Cradily @ Quick Claw
+Ability: Storm Drain
+- Sandstorm
+- Ancient Power
+- Giga Drain
+- Hyper Beam
+
+Scizor @ Occa Berry
+Ability: Swarm
+- X-Scissor
+- Iron Head
+- Aerial Ace
+- Night Slash

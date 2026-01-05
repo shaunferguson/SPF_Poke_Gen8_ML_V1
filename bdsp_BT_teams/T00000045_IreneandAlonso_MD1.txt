@@ -1,0 +1,27 @@
+Electivire @ Focus Sash
+Ability: Motor Drive
+- Wild Charge
+- Earthquake
+- Ice Punch
+- Quick Attack
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Acid Armor
+- Yawn
+- Baton Pass
+
+Latios @ Choice Specs
+Ability: Levitate
+- Draco Meteor
+- Surf
+- Thunderbolt
+- Psychic

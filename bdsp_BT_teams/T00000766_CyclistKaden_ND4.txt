@@ -1,0 +1,27 @@
+Primeape @ Sitrus Berry
+Ability: Defiant
+- Cross Chop
+- Stomping Tantrum
+- Swagger
+- Thief
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Electabuzz @ Cheri Berry
+Ability: Static
+- Thunderbolt
+- Thunder Wave
+- Brick Break
+- Light Screen
+
+Furret @ Liechi Berry
+Ability: Keen Eye
+- Slam
+- Protect
+- Helping Hand
+- Follow Me

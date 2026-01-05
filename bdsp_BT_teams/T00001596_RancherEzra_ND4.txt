@@ -1,0 +1,27 @@
+Pidgeot @ Sharp Beak
+Ability: Big Pecks
+- U-turn
+- Feather Dance
+- Brave Bird
+- Quick Attack
+
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block
+
+Zangoose @ Persim Berry
+Ability: Toxic Boost
+- Slash
+- Double Kick
+- Roar
+- Quick Attack
+
+Persian @ Silk Scarf
+Ability: Technician
+- Fake Out
+- Slash
+- Torment
+- Swagger

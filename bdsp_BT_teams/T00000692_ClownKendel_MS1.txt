@@ -1,0 +1,20 @@
+Tangrowth @ Leftovers
+Ability: Regenerator
+- Knock Off
+- Rock Tomb
+- Leech Seed
+- Poison Jab
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast

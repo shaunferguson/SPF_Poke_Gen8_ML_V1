@@ -1,0 +1,27 @@
+Zapdos @ Bright Powder
+Ability: Pressure
+- Double Team
+- Roost
+- Discharge
+- Heat Wave
+
+Politoed @ Salac Berry
+Ability: Drizzle
+- Belly Drum
+- Waterfall
+- Earthquake
+- Rest
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Froslass @ Wise Glasses
+Ability: Cursed Body
+- Shadow Ball
+- Blizzard
+- Attract
+- Thunderbolt

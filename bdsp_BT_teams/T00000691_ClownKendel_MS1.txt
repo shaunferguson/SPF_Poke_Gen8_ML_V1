@@ -1,0 +1,20 @@
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Leaf Blade
+- Leech Seed
+- Synthesis
+- Protect
+
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang

@@ -1,0 +1,27 @@
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Persian @ Silk Scarf
+Ability: Technician
+- Fake Out
+- Slash
+- Torment
+- Swagger
+
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block
+
+Combusken @ Scope Lens
+Ability: Blaze
+- Ember
+- Double Kick
+- Quick Attack
+- Sand Attack

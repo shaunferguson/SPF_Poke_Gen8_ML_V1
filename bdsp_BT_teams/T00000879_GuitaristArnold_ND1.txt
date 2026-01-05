@@ -1,0 +1,27 @@
+Charmander @ Scope Lens
+Ability: Blaze
+- Fire Fang
+- Brick Break
+- Smokescreen
+- Scary Face
+
+Turtwig @ Leftovers
+Ability: Overgrow
+- Razor Leaf
+- Curse
+- Leech Seed
+- Synthesis
+
+Nuzleaf @ Sitrus Berry
+Ability: Chlorophyll
+- Extrasensory
+- Fake Out
+- Razor Leaf
+- Rock Tomb
+
+Growlithe @ Shuca Berry
+Ability: Intimidate
+- Flame Wheel
+- Bite
+- Roar
+- Agility

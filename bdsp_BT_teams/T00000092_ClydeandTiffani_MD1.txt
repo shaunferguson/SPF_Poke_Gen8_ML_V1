@@ -1,0 +1,27 @@
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder
+
+Steelix @ Life Orb
+Ability: Sheer Force
+- Iron Tail
+- Fire Fang
+- Stone Edge
+- Ice Fang
+
+Zapdos @ Magnet
+Ability: Static
+- Discharge
+- Volt Switch
+- Roost
+- Hurricane
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Dazzling Gleam
+- Ice Beam
+- Psychic

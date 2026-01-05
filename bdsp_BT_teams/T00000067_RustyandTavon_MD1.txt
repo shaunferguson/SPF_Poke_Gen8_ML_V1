@@ -1,0 +1,27 @@
+Moltres @ Bright Powder
+Ability: Flame Body
+- Overheat
+- Sky Attack
+- Fire Blast
+- U-turn
+
+Electivire @ Wide Lens
+Ability: Motor Drive
+- Thunder
+- Dynamic Punch
+- Rock Slide
+- Iron Tail
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Spore
+- Substitute
+- Bulk Up
+- Rock Tomb
+
+Latias @ Leftovers
+Ability: Levitate
+- Mist Ball
+- Dragon Pulse
+- Calm Mind
+- Safeguard

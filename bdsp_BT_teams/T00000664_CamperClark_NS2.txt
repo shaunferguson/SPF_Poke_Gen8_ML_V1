@@ -1,0 +1,27 @@
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Shedinja @ Choice Band
+Ability: Wonder Guard
+- Shadow Claw
+- Metal Claw
+- X-Scissor
+- Aerial Ace
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack
+
+Vibrava @ Cheri Berry
+Ability: Levitate
+- Dragon Breath
+- Dig
+- Screech
+- Rock Tomb

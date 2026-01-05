@@ -1,0 +1,27 @@
+Blaziken @ Sitrus Berry
+Ability: Speed Boost
+- Protect
+- Close Combat
+- Flare Blitz
+- Rock Slide
+
+Magmortar @ Choice Specs
+Ability: Flame Body
+- Heat Wave
+- Psychic
+- Focus Blast
+- Fire Blast
+
+Rotom @ Choice Scarf
+Ability: Levitate
+- Hydro Pump
+- Thunderbolt
+- Volt Switch
+- Discharge
+
+Electivire @ Shuca Berry
+Ability: Motor Drive
+- Wild Charge
+- Ice Punch
+- Protect
+- Rock Slide

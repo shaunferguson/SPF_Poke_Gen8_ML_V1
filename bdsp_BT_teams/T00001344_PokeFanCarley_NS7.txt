@@ -1,0 +1,20 @@
+Electivire @ Cheri Berry
+Ability: Motor Drive
+- Thunder Punch
+- Cross Chop
+- Thunder Wave
+- Screech
+
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power
+
+Magnezone @ Quick Claw
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch

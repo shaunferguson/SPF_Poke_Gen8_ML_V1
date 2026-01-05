@@ -1,0 +1,27 @@
+Relicanth @ Liechi Berry
+Ability: Sturdy
+- Ancient Power
+- Water Pulse
+- Harden
+- Amnesia
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash
+
+Fearow @ Sharp Beak
+Ability: Keen Eye
+- Drill Peck
+- Tri Attack
+- Facade
+- Roost
+
+Hitmonlee @ Black Belt
+Ability: Limber
+- Blaze Kick
+- Close Combat
+- Focus Energy
+- Facade

@@ -1,0 +1,20 @@
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Lucario @ Focus Sash
+Ability: Inner Focus
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Vacuum Wave
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder

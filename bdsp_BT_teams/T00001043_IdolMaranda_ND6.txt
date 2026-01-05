@@ -1,0 +1,27 @@
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief
+
+Froslass @ Focus Band
+Ability: Cursed Body
+- Blizzard
+- Shadow Ball
+- Thunderbolt
+- Will-O-Wisp
+
+Rapidash @ Chesto Berry
+Ability: Flame Body
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Rest
+
+Whiscash @ Leftovers
+Ability: Hydration
+- Earthquake
+- Water Pulse
+- Tickle
+- Sandstorm

@@ -1,0 +1,27 @@
+Yanmega @ Charti Berry
+Ability: Speed Boost
+- Aerial Ace
+- Steel Wing
+- Thief
+- U-turn
+
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake
+
+Golduck @ Pecha Berry
+Ability: Cloud Nine
+- Psychic
+- Disable
+- Surf
+- Brick Break
+
+Politoed @ Quick Claw
+Ability: Drizzle
+- Perish Song
+- Ice Beam
+- Surf
+- Hypnosis

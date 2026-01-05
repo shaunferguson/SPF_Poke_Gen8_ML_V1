@@ -1,0 +1,27 @@
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap
+
+Tropius @ Sitrus Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Whirlwind
+- Aerial Ace
+- Steel Wing
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out
+
+Gorebyss @ Focus Sash
+Ability: Swift Swim
+- Hydro Pump
+- Psychic
+- Baton Pass
+- Shell Smash

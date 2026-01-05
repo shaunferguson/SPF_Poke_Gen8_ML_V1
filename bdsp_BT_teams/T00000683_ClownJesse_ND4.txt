@@ -1,0 +1,27 @@
+Hitmonlee @ Black Belt
+Ability: Limber
+- Blaze Kick
+- Close Combat
+- Focus Energy
+- Facade
+
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Pidgeot @ Sharp Beak
+Ability: Big Pecks
+- U-turn
+- Feather Dance
+- Brave Bird
+- Quick Attack
+
+Dodrio @ Chesto Berry
+Ability: Early Bird
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest

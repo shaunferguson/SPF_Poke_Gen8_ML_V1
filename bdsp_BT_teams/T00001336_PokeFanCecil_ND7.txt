@@ -1,0 +1,27 @@
+Lickilicky @ Chesto Berry
+Ability: Own Tempo
+- Belly Drum
+- Rest
+- Explosion
+- Earthquake
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass
+
+Magmortar @ Sitrus Berry
+Ability: Flame Body
+- Overheat
+- Thunderbolt
+- Psychic
+- Belch
+
+Ninetales @ White Herb
+Ability: Drought
+- Solar Beam
+- Overheat
+- Psyshock
+- Nasty Plot

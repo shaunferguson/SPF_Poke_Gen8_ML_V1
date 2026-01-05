@@ -1,0 +1,20 @@
+Magnezone @ Quick Claw
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Torterra @ White Herb
+Ability: Overgrow
+- Leaf Storm
+- Worry Seed
+- Earthquake
+- Bite
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang

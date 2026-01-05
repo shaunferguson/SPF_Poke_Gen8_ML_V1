@@ -1,0 +1,20 @@
+Altaria @ Dragon Fang
+Ability: Cloud Nine
+- Roost
+- Dragon Pulse
+- Hyper Voice
+- Dragon Claw
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Tri Attack
+- Thunderbolt
+- Flamethrower
+
+Latios @ Haban Berry
+Ability: Levitate
+- Luster Purge
+- Water Pulse
+- Dragon Breath
+- Recover

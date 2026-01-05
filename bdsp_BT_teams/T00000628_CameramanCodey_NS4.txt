@@ -1,0 +1,27 @@
+Piloswine @ Soft Sand
+Ability: Thick Fat
+- Rock Tomb
+- Earthquake
+- Ice Shard
+- Light Screen
+
+Grumpig @ Petaya Berry
+Ability: Thick Fat
+- Psybeam
+- Confuse Ray
+- Future Sight
+- Magic Coat
+
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Seaking @ Sitrus Berry
+Ability: Lightning Rod
+- Water Pulse
+- Psybeam
+- Poison Jab
+- Agility

@@ -1,0 +1,20 @@
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Budew @ Big Root
+Ability: Poison Point
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen

@@ -1,0 +1,27 @@
+Staraptor @ Razor Claw
+Ability: Intimidate
+- Brave Bird
+- Roost
+- Endure
+- Endeavor
+
+Ambipom @ Wise Glasses
+Ability: Technician
+- Shadow Ball
+- Thunderbolt
+- Swift
+- Nasty Plot
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Thunder Punch
+- Stone Edge
+- Earthquake
+- Low Kick
+
+Armaldo @ Focus Sash
+Ability: Battle Armor
+- Rock Polish
+- Rock Blast
+- Cross Poison
+- X-Scissor

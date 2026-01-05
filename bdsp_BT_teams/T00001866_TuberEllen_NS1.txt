@@ -1,0 +1,20 @@
+Cyndaquil @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Swift
+- Quick Attack
+- Smokescreen
+
+Charmander @ Scope Lens
+Ability: Blaze
+- Dragon Breath
+- Inferno
+- Fire Spin
+- Scary Face
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

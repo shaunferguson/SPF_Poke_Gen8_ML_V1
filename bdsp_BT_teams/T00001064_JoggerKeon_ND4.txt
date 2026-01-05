@@ -1,0 +1,27 @@
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap
+
+Magneton @ Choice Specs
+Ability: Sturdy
+- Shock Wave
+- Volt Switch
+- Thunder Wave
+- Flash Cannon
+
+Primeape @ Sitrus Berry
+Ability: Defiant
+- Cross Chop
+- Stomping Tantrum
+- Swagger
+- Thief
+
+Dodrio @ Chesto Berry
+Ability: Early Bird
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest

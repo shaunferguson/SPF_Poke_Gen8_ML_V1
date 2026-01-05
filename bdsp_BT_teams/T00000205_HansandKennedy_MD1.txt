@@ -1,0 +1,27 @@
+Heatran @ Choice Scarf
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse
+
+Swampert @ Sitrus Berry
+Ability: Damp
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Hippowdon @ Life Orb
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Ice Fang
+- Yawn
+
+Regigigas @ Leftovers
+Ability: Slow Start
+- Crush Grip
+- Drain Punch
+- Knock Off
+- Protect

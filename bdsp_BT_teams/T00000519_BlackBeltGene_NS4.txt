@@ -1,0 +1,27 @@
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect
+
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap
+
+Pidgeot @ Sharp Beak
+Ability: Big Pecks
+- U-turn
+- Feather Dance
+- Brave Bird
+- Quick Attack
+
+Kecleon @ Focus Band
+Ability: Color Change
+- Brick Break
+- Psybeam
+- Magic Coat
+- Shadow Sneak

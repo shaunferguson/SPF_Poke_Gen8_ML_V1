@@ -1,0 +1,27 @@
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Rock Slide
+- Dig
+- Avalanche
+- Waterfall
+
+Natu @ Twisted Spoon
+Ability: Magic Bounce
+- Night Shade
+- Future Sight
+- Psychic
+- Flash
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+- Surf
+- Protect
+- Iron Defense
+- Double Team

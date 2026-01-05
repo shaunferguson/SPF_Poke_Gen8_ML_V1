@@ -1,0 +1,20 @@
+Honchkrow @ Black Glasses
+Ability: Moxie
+- Night Slash
+- Sucker Punch
+- Brave Bird
+- Thunder Wave
+
+Claydol @ Wise Glasses
+Ability: Levitate
+- Calm Mind
+- Psychic
+- Earth Power
+- Ice Beam
+
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash

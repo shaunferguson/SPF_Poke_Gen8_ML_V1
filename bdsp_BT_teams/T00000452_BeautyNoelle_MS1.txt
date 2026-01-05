@@ -1,0 +1,20 @@
+Latios @ White Herb
+Ability: Levitate
+- Draco Meteor
+- Psychic
+- Thunder
+- Hyper Beam
+
+Slowbro @ Lum Berry
+Ability: Regenerator
+- Yawn
+- Zen Headbutt
+- Earthquake
+- Brick Break
+
+Rhydon @ Smooth Rock
+Ability: Lightning Rod
+- Rock Blast
+- Fire Fang
+- Earthquake
+- Avalanche

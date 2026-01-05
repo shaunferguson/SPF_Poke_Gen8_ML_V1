@@ -1,0 +1,20 @@
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Parasect @ Sticky Barb
+Ability: Effect Spore
+- Slash
+- Psybeam
+- Spore
+- Flash
+
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility

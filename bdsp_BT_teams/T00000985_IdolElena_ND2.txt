@@ -1,0 +1,27 @@
+Chimecho @ Grip Claw
+Ability: Levitate
+- Extrasensory
+- Yawn
+- Uproar
+- Shadow Ball
+
+Doduo @ Liechi Berry
+Ability: Early Bird
+- Fury Attack
+- Uproar
+- Quick Attack
+- Rest
+
+Skiploom @ Big Root
+Ability: Chlorophyll
+- Mega Drain
+- Leech Seed
+- Cotton Spore
+- Synthesis
+
+Buizel @ Wacan Berry
+Ability: Swift Swim
+- Aqua Jet
+- Quick Attack
+- Brick Break
+- Growl

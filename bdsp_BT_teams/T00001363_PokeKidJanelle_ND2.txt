@@ -1,0 +1,27 @@
+Lileep @ Lax Incense
+Ability: Storm Drain
+- Giga Drain
+- Acid
+- Ingrain
+- Confuse Ray
+
+Machop @ Scope Lens
+Ability: No Guard
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Buizel @ Wacan Berry
+Ability: Swift Swim
+- Aqua Jet
+- Quick Attack
+- Brick Break
+- Growl
+
+Nuzleaf @ Sitrus Berry
+Ability: Chlorophyll
+- Extrasensory
+- Fake Out
+- Razor Leaf
+- Rock Tomb

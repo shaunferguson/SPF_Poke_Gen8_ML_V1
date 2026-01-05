@@ -1,0 +1,27 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Rotom @ Cheri Berry
+Ability: Levitate
+- Thunderbolt
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray
+
+Lopunny @ Bright Powder
+Ability: Limber
+- Thunder Wave
+- Attract
+- Sweet Kiss
+- Focus Punch
+
+Cacturne @ Scope Lens
+Ability: Water Absorb
+- Seed Bomb
+- Sucker Punch
+- Poison Jab
+- Revenge

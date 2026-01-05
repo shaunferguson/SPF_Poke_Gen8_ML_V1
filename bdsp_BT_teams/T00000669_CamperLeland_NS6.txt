@@ -1,0 +1,27 @@
+Drapion @ Rawst Berry
+Ability: Battle Armor
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison
+
+Donphan @ Lum Berry
+Ability: Sturdy
+- Earthquake
+- Ice Shard
+- Rock Slide
+- Play Rough
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast
+
+Cradily @ Focus Band
+Ability: Storm Drain
+- Stockpile
+- Recover
+- Leech Seed
+- Swagger

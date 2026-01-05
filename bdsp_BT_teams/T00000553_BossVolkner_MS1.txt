@@ -1,0 +1,20 @@
+Zapdos @ Sitrus Berry
+Ability: Static
+- Thunderbolt
+- Volt Switch
+- Heat Wave
+- Hurricane
+
+Gyarados @ Lum Berry
+Ability: Intimidate
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance
+
+Electivire @ Magnet
+Ability: Motor Drive
+- Fire Punch
+- Ice Punch
+- Volt Switch
+- Wild Charge

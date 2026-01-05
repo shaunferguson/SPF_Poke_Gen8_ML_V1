@@ -1,0 +1,27 @@
+Noctowl @ Persim Berry
+Ability: Keen Eye
+- Air Slash
+- Aerial Ace
+- Psychic
+- Reflect
+
+Grovyle @ Bright Powder
+Ability: Overgrow
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Tropius @ Sitrus Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Whirlwind
+- Aerial Ace
+- Steel Wing
+
+Metang @ Focus Band
+Ability: Clear Body
+- Metal Claw
+- Confusion
+- Take Down
+- Scary Face

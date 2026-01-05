@@ -1,0 +1,20 @@
+Elekid @ Cheri Berry
+Ability: Static
+- Thunder Punch
+- Quick Attack
+- Swift
+- Light Screen
+
+Nidorino @ Focus Band
+Ability: Poison Point
+- Double Kick
+- Water Pulse
+- Toxic Spikes
+- Flatter
+
+Omanyte @ Sitrus Berry
+Ability: Shell Armor
+- Mud Shot
+- Water Gun
+- Ancient Power
+- Tickle

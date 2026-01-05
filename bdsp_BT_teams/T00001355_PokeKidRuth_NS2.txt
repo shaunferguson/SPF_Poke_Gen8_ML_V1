@@ -1,0 +1,20 @@
+Murkrow @ Wacan Berry
+Ability: Prankster
+- Dark Pulse
+- Fly
+- Torment
+- Taunt
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect
+
+Munchlax @ Figy Berry
+Ability: Gluttony
+- Metronome
+- Recycle
+- Stockpile
+- Fissure

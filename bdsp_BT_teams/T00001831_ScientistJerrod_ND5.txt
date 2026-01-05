@@ -1,0 +1,27 @@
+Weezing @ Leftovers
+Ability: Levitate
+- Will-O-Wisp
+- Double Team
+- Sludge Bomb
+- Substitute
+
+Electabuzz @ Cheri Berry
+Ability: Static
+- Thunderbolt
+- Thunder Wave
+- Brick Break
+- Light Screen
+
+Empoleon @ Chesto Berry
+Ability: Torrent
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis

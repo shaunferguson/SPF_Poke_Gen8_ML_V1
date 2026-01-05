@@ -1,0 +1,27 @@
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Dustox @ Silver Powder
+Ability: Shield Dust
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Quilava @ Focus Band
+Ability: Blaze
+- Flame Wheel
+- Fury Swipes
+- Swift
+- Smokescreen
+
+Gligar @ Scope Lens
+Ability: Hyper Cutter
+- Metal Claw
+- Dig
+- Aerial Ace
+- Quick Attack

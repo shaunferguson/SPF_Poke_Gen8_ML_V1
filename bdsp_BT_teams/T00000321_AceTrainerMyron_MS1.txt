@@ -1,0 +1,20 @@
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb
+
+Togekiss @ Choice Scarf
+Ability: Serene Grace
+- Air Slash
+- Dazzling Gleam
+- Grass Knot
+- Fire Blast

@@ -1,0 +1,20 @@
+Bidoof @ Leftovers
+Ability: Simple
+- Curse
+- Headbutt
+- Pluck
+- Yawn
+
+Snorunt @ King's Rock
+Ability: Moody
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Exeggcute @ Persim Berry
+Ability: Chlorophyll
+- Confusion
+- Giga Drain
+- Leech Seed
+- Light Screen

@@ -1,0 +1,20 @@
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash
+
+Carnivine @ Rose Incense
+Ability: Levitate
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Scyther @ Liechi Berry
+Ability: Technician
+- Fury Cutter
+- Aerial Ace
+- Light Screen
+- Double Team

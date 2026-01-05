@@ -1,0 +1,20 @@
+Lucario @ Bright Powder
+Ability: Inner Focus
+- Dark Pulse
+- Dragon Pulse
+- Aura Sphere
+- Nasty Plot
+
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power
+
+Charizard @ Scope Lens
+Ability: Blaze
+- Flare Blitz
+- Aerial Ace
+- Crunch
+- Dragon Claw

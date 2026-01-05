@@ -1,0 +1,27 @@
+Garchomp @ Persim Berry
+Ability: Rough Skin
+- Outrage
+- Swords Dance
+- Stone Edge
+- Earthquake
+
+Bronzong @ Twisted Spoon
+Ability: Levitate
+- Trick Room
+- Gyro Ball
+- Flash Cannon
+- Hypnosis
+
+Electivire @ Cheri Berry
+Ability: Motor Drive
+- Thunder Punch
+- Cross Chop
+- Thunder Wave
+- Screech
+
+Venusaur @ Big Root
+Ability: Overgrow
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Sleep Powder

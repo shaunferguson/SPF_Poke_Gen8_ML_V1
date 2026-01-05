@@ -1,0 +1,27 @@
+Mawile @ Bright Powder
+Ability: Intimidate
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass
+
+Parasect @ Sticky Barb
+Ability: Effect Spore
+- Slash
+- Psybeam
+- Spore
+- Flash
+
+Beedrill @ Focus Sash
+Ability: Swarm
+- Poison Jab
+- Fell Stinger
+- Endeavor
+- Agility
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout

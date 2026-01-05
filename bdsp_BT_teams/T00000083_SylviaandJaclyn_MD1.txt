@@ -1,0 +1,27 @@
+Machamp @ Flame Orb
+Ability: Guts
+- Close Combat
+- Ice Punch
+- Knock Off
+- Bullet Punch
+
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+- Head Smash
+- Zen Headbutt
+- Earthquake
+- Iron Head
+
+Lickilicky @ Choice Band
+Ability: Cloud Nine
+- Explosion
+- Power Whip
+- Gyro Ball
+- Knock Off
+
+Heracross @ Lum Berry
+Ability: Moxie
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw

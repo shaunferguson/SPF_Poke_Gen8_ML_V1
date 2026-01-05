@@ -1,0 +1,20 @@
+Politoed @ Damp Rock
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Earth Power
+- Perish Song
+
+Armaldo @ Focus Sash
+Ability: Swift Swim
+- X-Scissor
+- Stone Edge
+- Earthquake
+- Knock Off
+
+Ludicolo @ Life Orb
+Ability: Swift Swim
+- Hydro Pump
+- Energy Ball
+- Ice Beam
+- Focus Blast

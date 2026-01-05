@@ -1,0 +1,20 @@
+Pikachu @ Light Ball
+Ability: Lightning Rod
+- Spark
+- Brick Break
+- Iron Tail
+- Quick Attack
+
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Mime Jr. @ Lax Incense
+Ability: Soundproof
+- Copycat
+- Confusion
+- Reflect
+- Light Screen

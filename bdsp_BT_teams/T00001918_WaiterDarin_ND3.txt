@@ -1,0 +1,27 @@
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind
+
+Wartortle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn
+
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down

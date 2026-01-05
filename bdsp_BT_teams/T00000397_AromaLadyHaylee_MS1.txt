@@ -1,0 +1,20 @@
+Swampert @ Sitrus Berry
+Ability: Damp
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Togekiss @ Scope Lens
+Ability: Super Luck
+- Air Slash
+- Flamethrower
+- Dazzling Gleam
+- Thunder Wave
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Earthquake
+- Outrage
+- Rock Tomb
+- Swords Dance

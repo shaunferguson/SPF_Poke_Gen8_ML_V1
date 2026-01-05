@@ -1,0 +1,20 @@
+Combee @ Quick Claw
+Ability: Honey Gather
+- Sweet Scent
+- Gust
+- -
+- -
+
+Duskull @ Spell Tag
+Ability: Levitate
+- Shadow Sneak
+- Will-O-Wisp
+- Disable
+- Confuse Ray
+
+Krabby @ Focus Sash
+Ability: Hyper Cutter
+- Crabhammer
+- Mud Shot
+- Flail
+- Guillotine

@@ -1,0 +1,27 @@
+Typhlosion @ Salac Berry
+Ability: Blaze
+- Eruption
+- Earthquake
+- Endure
+- Reversal
+
+Lucario @ Bright Powder
+Ability: Inner Focus
+- Dark Pulse
+- Dragon Pulse
+- Aura Sphere
+- Nasty Plot
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Moonlight
+- Dark Pulse
+- Yawn
+- Protect

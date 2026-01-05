@@ -1,0 +1,27 @@
+Suicune @ Icy Rock
+Ability: Pressure
+- Hail
+- Scald
+- Ice Beam
+- Blizzard
+
+Donphan @ Focus Band
+Ability: Sturdy
+- Counter
+- Stealth Rock
+- Roar
+- Fire Fang
+
+Dusknoir @ Bright Powder
+Ability: Pressure
+- Double Team
+- Rest
+- Sleep Talk
+- Night Shade
+
+Tyranitar @ Quick Claw
+Ability: Sand Stream
+- Earthquake
+- Dragon Claw
+- Shadow Claw
+- Iron Head

@@ -1,0 +1,27 @@
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+- Surf
+- Earth Power
+- Recover
+- Counter
+
+Medicham @ Salac Berry
+Ability: Pure Power
+- Endure
+- Reversal
+- Psycho Cut
+- Thunder Punch
+
+Heatran @ Focus Sash
+Ability: Flash Fire
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Dragon Pulse
+
+Aggron @ Shuca Berry
+Ability: Sturdy
+- Stone Edge
+- Avalanche
+- Payback
+- Earthquake

@@ -1,0 +1,27 @@
+Walrein @ Quick Claw
+Ability: Thick Fat
+- Rest
+- Sleep Talk
+- Sheer Cold
+- Fissure
+
+Shuckle @ Chesto Berry
+Ability: Sturdy
+- Wrap
+- Power Split
+- Toxic
+- Rest
+
+Kingdra @ Razor Claw
+Ability: Sniper
+- Waterfall
+- Focus Energy
+- Dragon Dance
+- Yawn
+
+Altaria @ Petaya Berry
+Ability: Cloud Nine
+- Dragon Pulse
+- Roost
+- Perish Song
+- Protect

@@ -1,0 +1,27 @@
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance
+
+Regigigas @ Leftovers
+Ability: Slow Start
+- Crush Grip
+- Drain Punch
+- Knock Off
+- Protect
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+- Fire Punch
+- Close Combat
+- Acrobatics
+- Swords Dance

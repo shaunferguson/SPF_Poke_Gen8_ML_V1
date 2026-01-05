@@ -1,0 +1,20 @@
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Rhydon @ Wise Glasses
+Ability: Lightning Rod
+- Ice Beam
+- Thunderbolt
+- Dragon Pulse
+- Surf
+
+Ambipom @ Bright Powder
+Ability: Technician
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit

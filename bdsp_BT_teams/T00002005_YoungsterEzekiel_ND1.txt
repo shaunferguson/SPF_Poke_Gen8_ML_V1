@@ -1,0 +1,27 @@
+Cherubi @ Occa Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Leech Seed
+- Sunny Day
+- Take Down
+
+Totodile @ Wacan Berry
+Ability: Torrent
+- Waterfall
+- Aerial Ace
+- Slash
+- Screech
+
+Teddiursa @ Chesto Berry
+Ability: Pickup
+- Lick
+- Fake Tears
+- Brick Break
+- Rest
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance

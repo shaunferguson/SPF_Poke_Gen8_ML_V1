@@ -1,0 +1,27 @@
+Cyndaquil @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Swift
+- Quick Attack
+- Smokescreen
+
+Dratini @ Persim Berry
+Ability: Shed Skin
+- Outrage
+- Thunder Wave
+- Dragon Dance
+- Water Pulse
+
+Lombre @ Yache Berry
+Ability: Swift Swim
+- Water Pulse
+- Fake Out
+- Brick Break
+- Absorb
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect

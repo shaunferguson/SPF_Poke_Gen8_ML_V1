@@ -1,0 +1,20 @@
+Skarmory @ Leftovers
+Ability: Sturdy
+- Roost
+- Stealth Rock
+- Whirlwind
+- Rock Tomb
+
+Gengar @ Life Orb
+Ability: Cursed Body
+- Icy Wind
+- Shadow Ball
+- Sludge Wave
+- Thunderbolt
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance

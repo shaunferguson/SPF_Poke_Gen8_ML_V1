@@ -1,0 +1,20 @@
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Calm Mind
+- Flamethrower
+- Substitute
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+- Eruption
+- Flamethrower
+- Extrasensory
+- Focus Blast
+
+Machamp @ Muscle Band
+Ability: No Guard
+- Rock Slide
+- Dynamic Punch
+- Ice Punch
+- Thunder Punch

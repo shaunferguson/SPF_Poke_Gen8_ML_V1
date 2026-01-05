@@ -1,0 +1,27 @@
+Machamp @ Flame Orb
+Ability: Guts
+- Close Combat
+- Ice Punch
+- Knock Off
+- Bullet Punch
+
+Quagsire @ Leftovers
+Ability: Unaware
+- Stockpile
+- Whirlpool
+- Toxic
+- Recover
+
+Lickilicky @ Choice Band
+Ability: Cloud Nine
+- Explosion
+- Power Whip
+- Gyro Ball
+- Knock Off
+
+Weezing @ Black Sludge
+Ability: Levitate
+- Fire Blast
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split

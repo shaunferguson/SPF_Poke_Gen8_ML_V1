@@ -1,0 +1,20 @@
+Meganium @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Leech Seed
+- Synthesis
+- Substitute
+
+Electabuzz @ Cheri Berry
+Ability: Static
+- Thunderbolt
+- Thunder Wave
+- Brick Break
+- Light Screen
+
+Girafarig @ Petaya Berry
+Ability: Sap Sipper
+- Psybeam
+- Thunderbolt
+- Wish
+- Skill Swap

@@ -1,0 +1,20 @@
+Staraptor @ Choice Band
+Ability: Intimidate
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade
+
+Empoleon @ Chesto Berry
+Ability: Torrent
+- Aqua Ring
+- Double Team
+- Whirlpool
+- Rest
+
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact

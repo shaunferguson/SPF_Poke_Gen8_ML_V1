@@ -1,0 +1,20 @@
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief
+
+Politoed @ Quick Claw
+Ability: Drizzle
+- Perish Song
+- Ice Beam
+- Surf
+- Hypnosis
+
+Aggron @ Chople Berry
+Ability: Sturdy
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush

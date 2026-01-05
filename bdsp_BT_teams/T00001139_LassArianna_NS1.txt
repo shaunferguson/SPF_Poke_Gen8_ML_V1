@@ -1,0 +1,20 @@
+Chikorita @ Bright Powder
+Ability: Overgrow
+- Body Slam
+- Bullet Seed
+- Growl
+- Light Screen
+
+Shinx @ Sitrus Berry
+Ability: Intimidate
+- Spark
+- Bite
+- Light Screen
+- Thunder Wave
+
+Cubone @ Soft Sand
+Ability: Battle Armor
+- Bonemerang
+- Headbutt
+- Brick Break
+- Aerial Ace

@@ -1,0 +1,20 @@
+Toxicroak @ Light Ball
+Ability: Dry Skin
+- Fling
+- Poison Jab
+- Taunt
+- Sucker Punch
+
+Bronzong @ Custap Berry
+Ability: Levitate
+- Gyro Ball
+- Body Press
+- Iron Defense
+- Earthquake
+
+Yanmega @ Lum Berry
+Ability: Speed Boost
+- Detect
+- Air Slash
+- Bug Buzz
+- Giga Drain

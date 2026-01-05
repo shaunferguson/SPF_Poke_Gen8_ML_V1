@@ -1,0 +1,20 @@
+Combusken @ Scope Lens
+Ability: Blaze
+- Ember
+- Double Kick
+- Quick Attack
+- Sand Attack
+
+Misdreavus @ Focus Band
+Ability: Levitate
+- Pain Split
+- Shadow Ball
+- Confuse Ray
+- Thunder Wave
+
+Persian @ Silk Scarf
+Ability: Technician
+- Fake Out
+- Slash
+- Torment
+- Swagger

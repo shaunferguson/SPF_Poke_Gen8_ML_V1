@@ -1,0 +1,27 @@
+Rhydon @ Wise Glasses
+Ability: Lightning Rod
+- Ice Beam
+- Thunderbolt
+- Dragon Pulse
+- Surf
+
+Magneton @ Choice Specs
+Ability: Sturdy
+- Shock Wave
+- Volt Switch
+- Thunder Wave
+- Flash Cannon
+
+Ludicolo @ Muscle Band
+Ability: Own Tempo
+- Waterfall
+- Razor Leaf
+- Drain Punch
+- Swords Dance
+
+Meganium @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Leech Seed
+- Synthesis
+- Substitute

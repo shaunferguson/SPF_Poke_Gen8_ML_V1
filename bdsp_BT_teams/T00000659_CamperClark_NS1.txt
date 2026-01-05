@@ -1,0 +1,20 @@
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+- Spark
+- Brick Break
+- Iron Tail
+- Quick Attack
+
+Spoink @ Sitrus Berry
+Ability: Thick Fat
+- Psychic
+- Bounce
+- Magic Coat
+- Confuse Ray

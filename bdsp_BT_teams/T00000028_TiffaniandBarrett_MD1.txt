@@ -1,0 +1,27 @@
+Typhlosion @ Shuca Berry
+Ability: Blaze
+- Flare Blitz
+- Earthquake
+- Shadow Claw
+- Aerial Ace
+
+Heatran @ Quick Claw
+Ability: Flash Fire
+- Explosion
+- Fire Fang
+- Crunch
+- Iron Head
+
+Electrode @ Jaboca Berry
+Ability: Aftermath
+- Thunderbolt
+- Volt Switch
+- Swift
+- Thunder Wave
+
+Ludicolo @ Lum Berry
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Grass Knot
+- Focus Blast

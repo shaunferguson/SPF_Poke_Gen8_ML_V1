@@ -1,0 +1,27 @@
+Glaceon @ Leftovers
+Ability: Ice Body
+- Mirror Coat
+- Tail Whip
+- Sand Attack
+- Last Resort
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Blastoise @ Power Herb
+Ability: Torrent
+- Skull Bash
+- Earthquake
+- Waterfall
+- Aqua Jet
+
+Gardevoir @ Lum Berry
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray

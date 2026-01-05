@@ -1,0 +1,20 @@
+Suicune @ Icy Rock
+Ability: Pressure
+- Hail
+- Scald
+- Ice Beam
+- Blizzard
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+- Thunder Wave
+- Double Team
+- Substitute
+- Air Slash
+
+Glalie @ Scope Lens
+Ability: Moody
+- Ice Beam
+- Shadow Ball
+- Water Pulse
+- Safeguard

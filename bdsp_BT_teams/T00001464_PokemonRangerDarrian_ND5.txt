@@ -1,0 +1,27 @@
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Grumpig @ Petaya Berry
+Ability: Thick Fat
+- Psybeam
+- Confuse Ray
+- Future Sight
+- Magic Coat
+
+Venusaur @ Power Herb
+Ability: Overgrow
+- Skull Bash
+- Worry Seed
+- Earthquake
+- Petal Dance
+
+Jumpluff @ Lax Incense
+Ability: Chlorophyll
+- Aerial Ace
+- Swagger
+- Psych Up
+- Synthesis

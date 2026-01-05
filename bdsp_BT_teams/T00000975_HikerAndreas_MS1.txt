@@ -1,0 +1,20 @@
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam
+
+Regigigas @ Chople Berry
+Ability: Slow Start
+- Crush Grip
+- Protect
+- Stone Edge
+- Brick Break
+
+Venusaur @ Quick Claw
+Ability: Overgrow
+- Earthquake
+- Outrage
+- Petal Blizzard
+- Curse

@@ -1,0 +1,27 @@
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head
+
+Porygon-Z @ Silk Scarf
+Ability: Adaptability
+- Tri Attack
+- Thunderbolt
+- Ice Beam
+- Shadow Ball
+
+Regigigas @ Leftovers
+Ability: Slow Start
+- Crush Grip
+- Drain Punch
+- Knock Off
+- Protect
+
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass

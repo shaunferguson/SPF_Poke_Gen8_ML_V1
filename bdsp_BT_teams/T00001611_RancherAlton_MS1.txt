@@ -1,0 +1,20 @@
+Politoed @ Bright Powder
+Ability: Drizzle
+- Surf
+- Focus Blast
+- Ice Beam
+- Perish Song
+
+Ampharos @ Chesto Berry
+Ability: Static
+- Thunder Wave
+- Charge Beam
+- Dragon Pulse
+- Rest
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Tri Attack
+- Thunderbolt
+- Flamethrower

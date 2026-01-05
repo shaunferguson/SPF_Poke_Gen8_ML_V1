@@ -1,0 +1,27 @@
+Espeon @ Focus Sash
+Ability: Magic Bounce
+- Light Screen
+- Psychic
+- Shadow Ball
+- Dazzling Gleam
+
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+- Blizzard
+- Giga Drain
+- Earth Power
+- Ice Shard
+
+Aggron @ Chople Berry
+Ability: Sturdy
+- Rock Polish
+- Iron Head
+- Earthquake
+- Dragon Rush
+
+Kingdra @ Razor Claw
+Ability: Sniper
+- Waterfall
+- Focus Energy
+- Dragon Dance
+- Yawn

@@ -1,0 +1,27 @@
+Pikachu @ Light Ball
+Ability: Lightning Rod
+- Spark
+- Brick Break
+- Iron Tail
+- Quick Attack
+
+Chimchar @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Acrobatics
+- Fury Swipes
+- Bulk Up
+
+Chinchou @ Lax Incense
+Ability: Volt Absorb
+- Spark
+- Bubble Beam
+- Confuse Ray
+- Take Down
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect

@@ -1,0 +1,20 @@
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace
+
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility
+
+Illumise @ Liechi Berry
+Ability: Tinted Lens
+- Bug Buzz
+- Wish
+- Quick Attack
+- Helping Hand

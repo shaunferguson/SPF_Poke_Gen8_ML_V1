@@ -1,0 +1,20 @@
+Raikou @ Lax Incense
+Ability: Pressure
+- Scald
+- Calm Mind
+- Rest
+- Double Team
+
+Latias @ Lum Berry
+Ability: Levitate
+- Calm Mind
+- Dragon Pulse
+- Psychic
+- Roost
+
+Claydol @ Wise Glasses
+Ability: Levitate
+- Calm Mind
+- Psychic
+- Earth Power
+- Ice Beam

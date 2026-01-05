@@ -1,0 +1,27 @@
+Politoed @ Aguav Berry
+Ability: Drizzle
+- Perish Song
+- Protect
+- Helping Hand
+- Hydro Pump
+
+Zapdos @ Sitrus Berry
+Ability: Static
+- Thunder
+- Volt Switch
+- Hurricane
+- Roost
+
+Kingdra @ White Herb
+Ability: Swift Swim
+- Hydro Pump
+- Draco Meteor
+- Hurricane
+- Surf
+
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- Superpower
+- U-turn

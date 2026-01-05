@@ -1,0 +1,27 @@
+Pinsir @ Bright Powder
+Ability: Mold Breaker
+- Bulk Up
+- Earthquake
+- X-Scissor
+- Stone Edge
+
+Dugtrio @ Razor Claw
+Ability: Arena Trap
+- Fissure
+- Earthquake
+- Aerial Ace
+- Night Slash
+
+Drapion @ Leftovers
+Ability: Battle Armor
+- Toxic Spikes
+- Double Team
+- Roar
+- Payback
+
+Breloom @ Big Root
+Ability: Effect Spore
+- Spore
+- Focus Punch
+- Drain Punch
+- Swords Dance

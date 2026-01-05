@@ -1,0 +1,20 @@
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Steelix @ Occa Berry
+Ability: Sturdy
+- Thunder Fang
+- Fire Fang
+- Ice Fang
+- Crunch
+
+Porygon2 @ Leftovers
+Ability: Analytic
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam

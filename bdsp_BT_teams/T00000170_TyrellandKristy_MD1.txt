@@ -1,0 +1,27 @@
+Metagross @ Wise Glasses
+Ability: Clear Body
+- Psychic
+- Flash Cannon
+- Shadow Ball
+- Sludge Bomb
+
+Walrein @ Bright Powder
+Ability: Thick Fat
+- Sheer Cold
+- Fissure
+- Sleep Talk
+- Rest
+
+Hariyama @ Salac Berry
+Ability: Thick Fat
+- Endure
+- Reversal
+- Earthquake
+- Rock Tomb
+
+Skarmory @ Occa Berry
+Ability: Sturdy
+- Drill Peck
+- Metal Sound
+- Double Team
+- Sand Attack

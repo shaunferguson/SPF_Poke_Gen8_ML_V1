@@ -1,0 +1,27 @@
+Manectric @ Shuca Berry
+Ability: Lightning Rod
+- Thunderbolt
+- Overheat
+- Roar
+- Thunder Wave
+
+Latias @ Bright Powder
+Ability: Levitate
+- Psychic
+- Dragon Pulse
+- Thunderbolt
+- Surf
+
+Tyranitar @ Quick Claw
+Ability: Sand Stream
+- Earthquake
+- Dragon Claw
+- Shadow Claw
+- Iron Head
+
+Forretress @ Custap Berry
+Ability: Sturdy
+- Gyro Ball
+- Earthquake
+- Explosion
+- Rock Tomb

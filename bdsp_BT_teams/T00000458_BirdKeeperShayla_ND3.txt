@@ -1,0 +1,27 @@
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard
+
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect
+
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz
+
+Prinplup @ Wacan Berry
+Ability: Torrent
+- Whirlpool
+- Metal Claw
+- Peck
+- Double Team

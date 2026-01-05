@@ -1,0 +1,20 @@
+Blastoise @ Power Herb
+Ability: Torrent
+- Skull Bash
+- Earthquake
+- Waterfall
+- Aqua Jet
+
+Dragonite @ Wide Lens
+Ability: Multiscale
+- Outrage
+- Aqua Tail
+- Iron Tail
+- Stone Edge
+
+Hippowdon @ Passho Berry
+Ability: Sand Stream
+- Yawn
+- Stealth Rock
+- Roar
+- Ice Fang

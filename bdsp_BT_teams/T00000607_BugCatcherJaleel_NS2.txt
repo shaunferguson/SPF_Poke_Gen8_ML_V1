@@ -1,0 +1,27 @@
+Vulpix @ Focus Sash
+Ability: Drought
+- Will-O-Wisp
+- Confuse Ray
+- Fire Spin
+- Quick Attack
+
+Machop @ Scope Lens
+Ability: No Guard
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze
+
+Pidgeotto @ White Herb
+Ability: Big Pecks
+- Aerial Ace
+- Quick Attack
+- Feather Dance
+- Sand Attack

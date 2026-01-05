@@ -1,0 +1,27 @@
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Toxicroak @ Scope Lens
+Ability: Poison Touch
+- Poison Jab
+- X-Scissor
+- Giga Impact
+- Focus Blast
+
+Slaking @ Wide Lens
+Ability: Truant
+- Hyper Beam
+- Blizzard
+- Fire Blast
+- Thunderbolt
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

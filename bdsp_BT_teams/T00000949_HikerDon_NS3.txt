@@ -1,0 +1,20 @@
+Anorith @ Scope Lens
+Ability: Battle Armor
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect

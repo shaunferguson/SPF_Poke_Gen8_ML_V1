@@ -1,0 +1,20 @@
+Skarmory @ Leftovers
+Ability: Sturdy
+- Stealth Rock
+- Roar
+- Drill Peck
+- Roost
+
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief
+
+Charizard @ Charti Berry
+Ability: Blaze
+- Flamethrower
+- Sunny Day
+- Focus Blast
+- Ancient Power

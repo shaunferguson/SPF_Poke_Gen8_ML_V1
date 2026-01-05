@@ -1,0 +1,27 @@
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz
+
+Murkrow @ Wacan Berry
+Ability: Prankster
+- Dark Pulse
+- Fly
+- Torment
+- Taunt
+
+Gligar @ Scope Lens
+Ability: Hyper Cutter
+- Metal Claw
+- Dig
+- Aerial Ace
+- Quick Attack
+
+Parasect @ Sticky Barb
+Ability: Effect Spore
+- Slash
+- Psybeam
+- Spore
+- Flash

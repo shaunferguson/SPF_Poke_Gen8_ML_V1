@@ -1,0 +1,27 @@
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block
+
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm
+
+Xatu @ Sharp Beak
+Ability: Magic Bounce
+- Air Slash
+- Night Shade
+- Wish
+- Future Sight
+
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard

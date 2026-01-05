@@ -1,0 +1,20 @@
+Baltoy @ Twisted Spoon
+Ability: Levitate
+- Psybeam
+- Ancient Power
+- Light Screen
+- Mud-Slap
+
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn

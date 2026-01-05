@@ -1,0 +1,27 @@
+Hitmonchan @ King's Rock
+Ability: Iron Fist
+- Mach Punch
+- Ice Punch
+- Detect
+- Counter
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Carnivine @ Rose Incense
+Ability: Levitate
+- Power Whip
+- Crunch
+- Sweet Scent
+- Leech Seed
+
+Dusclops @ Leftovers
+Ability: Pressure
+- Will-O-Wisp
+- Night Shade
+- Pain Split
+- Confuse Ray

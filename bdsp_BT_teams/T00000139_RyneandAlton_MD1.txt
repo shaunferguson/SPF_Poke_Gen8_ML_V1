@@ -1,0 +1,27 @@
+Gardevoir @ Choice Scarf
+Ability: Trace
+- Dazzling Gleam
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Entei @ Leftovers
+Ability: Pressure
+- Fire Blast
+- Extrasensory
+- Shadow Ball
+- Calm Mind
+
+Nidoqueen @ Bright Powder
+Ability: Poison Point
+- Stone Edge
+- Avalanche
+- Iron Tail
+- Aerial Ace
+
+Slowbro @ Lum Berry
+Ability: Regenerator
+- Yawn
+- Zen Headbutt
+- Earthquake
+- Brick Break

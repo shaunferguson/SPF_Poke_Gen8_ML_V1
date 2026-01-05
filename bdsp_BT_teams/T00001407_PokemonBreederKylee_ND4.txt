@@ -1,0 +1,27 @@
+Scyther @ Liechi Berry
+Ability: Technician
+- Fury Cutter
+- Aerial Ace
+- Light Screen
+- Double Team
+
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace
+
+Fearow @ Sharp Beak
+Ability: Keen Eye
+- Drill Peck
+- Tri Attack
+- Facade
+- Roost
+
+Gabite @ Yache Berry
+Ability: Rough Skin
+- Dragon Claw
+- Take Down
+- Sand Attack
+- Roar

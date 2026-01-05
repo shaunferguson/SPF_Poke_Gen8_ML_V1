@@ -1,0 +1,20 @@
+Remoraid @ Petaya Berry
+Ability: Sniper
+- Bubble Beam
+- Aurora Beam
+- Psybeam
+- Protect
+
+Dratini @ Persim Berry
+Ability: Shed Skin
+- Outrage
+- Thunder Wave
+- Dragon Dance
+- Water Pulse
+
+Oddish @ Pecha Berry
+Ability: Chlorophyll
+- Acid
+- Stun Spore
+- Sweet Scent
+- Moonlight

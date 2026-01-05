@@ -1,0 +1,20 @@
+Ampharos @ Chesto Berry
+Ability: Static
+- Thunder Wave
+- Charge Beam
+- Dragon Pulse
+- Rest
+
+Registeel @ Occa Berry
+Ability: Clear Body
+- Iron Defense
+- Rest
+- Substitute
+- Earthquake
+
+Milotic @ Leftovers
+Ability: Cute Charm
+- Surf
+- Ice Beam
+- Aqua Ring
+- Haze

@@ -1,0 +1,20 @@
+Starly @ Sharp Beak
+Ability: Keen Eye
+- Wing Attack
+- Quick Attack
+- Growl
+- Endeavor
+
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen

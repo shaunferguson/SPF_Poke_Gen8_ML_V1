@@ -1,0 +1,20 @@
+Infernape @ Coba Berry
+Ability: Blaze
+- Fake Out
+- Mach Punch
+- U-turn
+- Overheat
+
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch
+
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb

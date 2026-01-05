@@ -1,0 +1,27 @@
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Corphish @ Mystic Water
+Ability: Adaptability
+- Crabhammer
+- Water Pulse
+- Knock Off
+- Protect
+
+Teddiursa @ Chesto Berry
+Ability: Pickup
+- Lick
+- Fake Tears
+- Brick Break
+- Rest
+
+Seel @ Aspear Berry
+Ability: Thick Fat
+- Aurora Beam
+- Dive
+- Encore
+- Surf

@@ -1,0 +1,20 @@
+Cyndaquil @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Swift
+- Quick Attack
+- Smokescreen
+
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Mime Jr. @ Lax Incense
+Ability: Soundproof
+- Copycat
+- Confusion
+- Reflect
+- Light Screen

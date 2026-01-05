@@ -1,0 +1,20 @@
+Numel @ Lax Incense
+Ability: Oblivious
+- Ember
+- Earth Power
+- Rock Tomb
+- Sandstorm
+
+Croagunk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Mud-Slap
+- Taunt
+- Swagger
+
+Mantyke @ Bright Powder
+Ability: Swift Swim
+- Bubble Beam
+- Agility
+- Aqua Ring
+- Air Slash

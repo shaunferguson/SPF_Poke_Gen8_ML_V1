@@ -1,0 +1,27 @@
+Croagunk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Mud-Slap
+- Taunt
+- Swagger
+
+Remoraid @ Petaya Berry
+Ability: Sniper
+- Bubble Beam
+- Aurora Beam
+- Psybeam
+- Protect
+
+Clefairy @ Lax Incense
+Ability: Magic Guard
+- Moonblast
+- Metronome
+- Encore
+- Sing
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze

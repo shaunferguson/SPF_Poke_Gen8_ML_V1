@@ -1,0 +1,27 @@
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen
+
+Sharpedo @ Scope Lens
+Ability: Speed Boost
+- Slash
+- Bite
+- Water Pulse
+- Scary Face
+
+Pidgeot @ Sharp Beak
+Ability: Big Pecks
+- U-turn
+- Feather Dance
+- Brave Bird
+- Quick Attack
+
+Chimecho @ Twisted Spoon
+Ability: Levitate
+- Psychic
+- Take Down
+- Heal Bell
+- Safeguard

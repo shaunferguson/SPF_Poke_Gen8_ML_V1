@@ -1,0 +1,27 @@
+Regirock @ Liechi Berry
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Body Press
+
+Swampert @ Sitrus Berry
+Ability: Damp
+- Waterfall
+- Earthquake
+- Yawn
+- Counter
+
+Gardevoir @ Choice Specs
+Ability: Trace
+- Moonblast
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Foul Play
+- Swagger
+- Yawn
+- Protect

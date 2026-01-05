@@ -1,0 +1,20 @@
+Wobbuffet @ Leftovers
+Ability: Shadow Tag
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+Delcatty @ Sitrus Berry
+Ability: Cute Charm
+- Fake Out
+- Sing
+- Double Team
+- Shadow Ball
+
+Mawile @ Bright Powder
+Ability: Intimidate
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass

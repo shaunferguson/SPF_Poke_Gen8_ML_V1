@@ -1,0 +1,27 @@
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Moltres @ Heat Rock
+Ability: Flame Body
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Endure
+
+Abomasnow @ Zoom Lens
+Ability: Snow Warning
+- Blizzard
+- Sheer Cold
+- Focus Blast
+- Water Pulse
+
+Slowbro @ Lum Berry
+Ability: Regenerator
+- Yawn
+- Zen Headbutt
+- Earthquake
+- Brick Break

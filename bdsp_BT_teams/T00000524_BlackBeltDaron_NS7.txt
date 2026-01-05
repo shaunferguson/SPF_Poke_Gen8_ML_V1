@@ -1,0 +1,27 @@
+Venusaur @ Big Root
+Ability: Overgrow
+- Leech Seed
+- Ingrain
+- Giga Drain
+- Sleep Powder
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Psychic
+- Focus Blast
+- Energy Ball
+
+Rhyperior @ Expert Belt
+Ability: Solid Rock
+- Rock Wrecker
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast

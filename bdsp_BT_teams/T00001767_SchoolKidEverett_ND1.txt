@@ -1,0 +1,27 @@
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Machop @ Scope Lens
+Ability: No Guard
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Seel @ Aspear Berry
+Ability: Thick Fat
+- Aurora Beam
+- Dive
+- Encore
+- Surf
+
+Aron @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Aerial Ace
+- Metal Sound
+- Roar

@@ -1,0 +1,27 @@
+Kricketune @ Metronome
+Ability: Swarm
+- Fury Cutter
+- Sticky Web
+- Sing
+- Growl
+
+Ledian @ Focus Band
+Ability: Early Bird
+- Light Screen
+- Baton Pass
+- Swords Dance
+- Agility
+
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+- Waterfall
+- Facade
+- Play Rough
+- Aqua Jet
+
+Magby @ Lax Incense
+Ability: Flame Body
+- Fire Punch
+- Smokescreen
+- Confuse Ray
+- Smog

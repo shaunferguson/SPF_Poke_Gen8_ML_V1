@@ -1,0 +1,27 @@
+Venusaur @ Power Herb
+Ability: Overgrow
+- Skull Bash
+- Worry Seed
+- Earthquake
+- Petal Dance
+
+Tentacruel @ Leftovers
+Ability: Liquid Ooze
+- Acupressure
+- Rest
+- Sleep Talk
+- Surf
+
+Mismagius @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Confuse Ray
+- Perish Song
+- Mean Look
+
+Tauros @ Lum Berry
+Ability: Intimidate
+- Thrash
+- Zen Headbutt
+- Earthquake
+- Giga Impact

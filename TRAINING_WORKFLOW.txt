@@ -1,0 +1,189 @@
+================================================================================
+                    POKEMON BATTLE AI - TRAINING WORKFLOW
+================================================================================
+
+QUICK START (2 COMMANDS!)
+================================================================================
+
+Terminal 1: Start the server
+> start_server.bat
+
+Terminal 2: Start training
+> python train_local.py --battles 100
+
+That's it! Your AI is now learning to battle.
+
+================================================================================
+WHAT HAPPENS DURING TRAINING
+================================================================================
+
+Step 1: Load Teams
+  - Bot loads random team from your 2019 BDSP teams
+  - Opponent loads different random team
+
+Step 2: Connect to Server
+  - Both bots connect via WebSocket
+  - Server validates teams (Gen 1-4 only, no Dynamax)
+
+Step 3: Battle Loop (each turn):
+  a) Server sends game state
+  b) Bot encodes state into 397 features
+  c) Neural network predicts Q-values for each action
+  d) Bot selects action (epsilon-greedy)
+  e) Server applies action and updates state
+  f) Opponent makes move
+  g) Bot calculates reward
+  h) Store experience in replay buffer
+  i) Train neural network on random batch
+  j) Repeat until battle ends
+
+Step 4: Battle Ends
+  - Record win/loss
+  - Update statistics
+  - Save checkpoint (every 50 battles)
+  - Start new battle
+
+================================================================================
+TRAINING PROGRESS TIMELINE
+================================================================================
+
+Battles: 0 ----------> 100 ----------> 1000 ----------> 10000
+
+Win Rate:   50% --------> 60% ---------> 70% ----------> 80%+
+
+Epsilon:    1.0 --------> 0.6 ---------> 0.1 ----------> 0.01
+         (Random)     (Balanced)    (Smart)       (Expert)
+
+Skill:   Beginner ----> Novice ------> Competent ----> Expert
+
+================================================================================
+FILES CREATED
+================================================================================
+
+checkpoints/
+  agent_latest.pt                    <- Always the newest model
+  agent_battle_50_timestamp.pt       <- Checkpoint at battle 50
+  agent_battle_100_timestamp.pt      <- Checkpoint at battle 100
+  ...
+
+logs/
+  training_history.csv               <- Easy to plot in Excel
+  training_log_timestamp.json        <- Detailed stats every 50 battles
+
+================================================================================
+REAL-TIME OUTPUT
+================================================================================
+
+[Starting Battle 1]
+  Bot team: T00000943_HikerMadison_NS3.txt
+  Opponent team: T00001032_IdolClaudia_ND6.txt
+
+[Battle 10] Loss: 0.0234 | Epsilon: 0.905 | Avg Reward: 12.4
+
+[Battle 11] WIN | W/L: 6/5 (54.5%)
+
+[Battle 20] Loss: 0.0198 | Epsilon: 0.818 | Avg Reward: 15.2
+
+[Battle 50] WIN | W/L: 28/22 (56.0%)
+Checkpoint saved: checkpoints/agent_battle_50_20260104_223045.pt
+
+================================================================================
+YOUR DATA
+================================================================================
+
+Total Teams: 2019 BDSP Battle Tower teams loaded
+
+Most Used Pokemon:        Most Used Items:
+1. Venusaur (48)          1. Sitrus Berry (577)
+2. Scizor (47)            2. Leftovers (538)
+3. Blaziken (47)          3. Focus Sash (390)
+4. Typhlosion (45)        4. Bright Powder (304)
+5. Gengar (44)            5. Focus Band (278)
+
+================================================================================
+USEFUL COMMANDS
+================================================================================
+
+Start Server:
+  start_server.bat
+
+Basic Training:
+  python train_local.py --battles 100
+
+Long Training Session:
+  python train_local.py --battles 1000
+
+Resume from Checkpoint:
+  python train_local.py --battles 1000 --checkpoint checkpoints/agent_latest.pt
+
+Use GPU (recommended):
+  python train_local.py --battles 1000 --device cuda
+
+Evaluate Agent:
+  python evaluate.py --mode evaluate --checkpoint checkpoints/agent_latest.pt
+
+Analyze Teams:
+  python evaluate.py --mode analyze
+
+Test Components:
+  python test_imports.py
+
+================================================================================
+SYSTEM SPECS
+================================================================================
+
+Python: 3.13
+PyTorch: 2.6.0 with CUDA 12.4
+GPU: Available (CUDA-enabled!)
+Node.js: v20.11.0
+Teams: 2019 loaded
+
+================================================================================
+WORKFLOW DIAGRAM
+================================================================================
+
+Terminal 1                           Terminal 2
++-----------------------+            +-----------------------+
+|                       |            |                       |
+|  start_server.bat     |            |  python train_local.  |
+|                       |            |  py --battles 1000    |
+|  [Server Running]     |<---------->|                       |
+|                       | WebSocket  |  [Training Bot]       |
+|  - Runs battles       |            |  - Makes decisions    |
+|  - Enforces rules     |            |  - Learns from wins   |
+|  - Tracks state       |            |  - Saves models       |
+|                       |            |                       |
++-----------------------+            +-----------------------+
+
+                         |
+                         v
+
+                 [Battle Results]
+                         |
+                         v
+
+              checkpoints/agent_latest.pt
+              logs/training_history.csv
+
+================================================================================
+YOU'RE READY!
+================================================================================
+
+Everything tested and working (9/9 components passed):
+  [x] PyTorch with CUDA
+  [x] Team Loader (2019 teams)
+  [x] State Encoder
+  [x] DQN Model
+  [x] Battle Agent
+  [x] Showdown Client
+  [x] Local Server
+  [x] Custom BDSP Format
+  [x] Full Pipeline
+
+Just run:
+  1. start_server.bat
+  2. python train_local.py --battles 100
+
+Watch your AI learn Pokemon battles!
+
+================================================================================

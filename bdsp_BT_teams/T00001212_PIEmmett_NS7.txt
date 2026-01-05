@@ -1,0 +1,20 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Psychic
+- Energy Ball
+- Focus Blast
+
+Magmortar @ Sitrus Berry
+Ability: Flame Body
+- Overheat
+- Thunderbolt
+- Psychic
+- Belch
+
+Dusknoir @ Ganlon Berry
+Ability: Pressure
+- Curse
+- Pain Split
+- Ice Punch
+- Protect

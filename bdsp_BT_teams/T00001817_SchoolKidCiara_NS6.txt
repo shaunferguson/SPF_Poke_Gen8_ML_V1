@@ -1,0 +1,20 @@
+Ampharos @ Toxic Orb
+Ability: Static
+- Thunder Wave
+- Facade
+- Fling
+- Rest
+
+Miltank @ Muscle Band
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Seismic Toss
+
+Houndoom @ Focus Sash
+Ability: Flash Fire
+- Counter
+- Flame Charge
+- Crunch
+- Thunder Fang

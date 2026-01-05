@@ -1,0 +1,27 @@
+Rotom @ Choice Scarf
+Ability: Levitate
+- Overheat
+- Discharge
+- Volt Switch
+- Shadow Ball
+
+Magmortar @ Sitrus Berry
+Ability: Flame Body
+- Heat Wave
+- Psychic
+- Focus Blast
+- Fire Blast
+
+Electivire @ Shuca Berry
+Ability: Motor Drive
+- Thunder Punch
+- Ice Punch
+- Earthquake
+- Rock Slide
+
+Zapdos @ Life Orb
+Ability: Static
+- Heat Wave
+- Thunderbolt
+- Hurricane
+- Ancient Power

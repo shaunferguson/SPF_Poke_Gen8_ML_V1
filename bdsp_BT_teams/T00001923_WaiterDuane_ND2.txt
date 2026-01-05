@@ -1,0 +1,27 @@
+Weepinbell @ Aguav Berry
+Ability: Gluttony
+- Razor Leaf
+- Acid
+- Wrap
+- Sweet Scent
+
+Oddish @ Pecha Berry
+Ability: Chlorophyll
+- Acid
+- Stun Spore
+- Sweet Scent
+- Moonlight
+
+Omanyte @ Sitrus Berry
+Ability: Shell Armor
+- Mud Shot
+- Water Gun
+- Ancient Power
+- Tickle
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect

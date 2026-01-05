@@ -1,0 +1,27 @@
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow
+
+Wartortle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn

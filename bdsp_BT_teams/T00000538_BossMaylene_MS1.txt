@@ -1,0 +1,20 @@
+Hitmontop @ Sitrus Berry
+Ability: Intimidate
+- Close Combat
+- Bulldoze
+- Bullet Punch
+- Fake Out
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Lucario @ Focus Sash
+Ability: Inner Focus
+- Focus Blast
+- Flash Cannon
+- Dark Pulse
+- Vacuum Wave

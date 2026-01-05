@@ -1,0 +1,27 @@
+Lopunny @ Bright Powder
+Ability: Limber
+- Thunder Wave
+- Attract
+- Sweet Kiss
+- Focus Punch
+
+Whiscash @ Leftovers
+Ability: Hydration
+- Earthquake
+- Water Pulse
+- Tickle
+- Sandstorm
+
+Vespiquen @ Razor Claw
+Ability: Pressure
+- Attack Order
+- Slash
+- Defend Order
+- -
+
+Ludicolo @ Muscle Band
+Ability: Own Tempo
+- Waterfall
+- Razor Leaf
+- Drain Punch
+- Swords Dance

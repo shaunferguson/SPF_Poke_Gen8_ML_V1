@@ -1,0 +1,20 @@
+Lickitung @ Sitrus Berry
+Ability: Own Tempo
+- Slam
+- Brick Break
+- Lick
+- Screech
+
+Budew @ Big Root
+Ability: Poison Point
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer

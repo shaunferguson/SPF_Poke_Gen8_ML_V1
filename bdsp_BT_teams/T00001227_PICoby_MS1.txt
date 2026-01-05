@@ -1,0 +1,20 @@
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance
+
+Weezing @ Black Sludge
+Ability: Levitate
+- Fire Blast
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split
+
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang

@@ -1,0 +1,27 @@
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass
+
+Lickilicky @ Choice Band
+Ability: Cloud Nine
+- Explosion
+- Power Whip
+- Gyro Ball
+- Knock Off
+
+Regice @ Zoom Lens
+Ability: Clear Body
+- Thunder
+- Blizzard
+- Focus Blast
+- Flash Cannon
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower

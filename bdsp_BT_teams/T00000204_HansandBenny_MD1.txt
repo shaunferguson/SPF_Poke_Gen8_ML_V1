@@ -1,0 +1,27 @@
+Jolteon @ Razor Claw
+Ability: Volt Absorb
+- Thunder Wave
+- Thunderbolt
+- Shadow Ball
+- Flash
+
+Froslass @ Lax Incense
+Ability: Cursed Body
+- Light Screen
+- Ice Beam
+- Shadow Ball
+- Psychic
+
+Granbull @ Quick Claw
+Ability: Intimidate
+- Ice Fang
+- Stone Edge
+- Crunch
+- Earthquake
+
+Espeon @ Bright Powder
+Ability: Magic Bounce
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun

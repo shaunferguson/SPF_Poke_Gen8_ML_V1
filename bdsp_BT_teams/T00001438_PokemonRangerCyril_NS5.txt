@@ -1,0 +1,20 @@
+Octillery @ Leftovers
+Ability: Moody
+- Octazooka
+- Ice Beam
+- Psychic
+- Protect
+
+Forretress @ Occa Berry
+Ability: Sturdy
+- Gyro Ball
+- Counter
+- Spikes
+- Toxic Spikes
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Protect
+- Spore
+- Leech Seed
+- Low Sweep

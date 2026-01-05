@@ -1,0 +1,20 @@
+Bastiodon @ Quick Claw
+Ability: Sturdy
+- Sandstorm
+- Thunder
+- Blizzard
+- Fire Blast
+
+Gyarados @ Leftovers
+Ability: Intimidate
+- Rest
+- Earthquake
+- Dragon Dance
+- Waterfall
+
+Miltank @ Salac Berry
+Ability: Scrappy
+- Endure
+- Reversal
+- Milk Drink
+- Rock Slide

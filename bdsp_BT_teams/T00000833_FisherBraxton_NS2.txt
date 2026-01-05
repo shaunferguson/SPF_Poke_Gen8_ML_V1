@@ -1,0 +1,20 @@
+Turtwig @ Occa Berry
+Ability: Overgrow
+- Grass Knot
+- Bite
+- Curse
+- Withdraw
+
+Machoke @ Focus Band
+Ability: Guts
+- Low Kick
+- Rock Tomb
+- Facade
+- Scary Face
+
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility

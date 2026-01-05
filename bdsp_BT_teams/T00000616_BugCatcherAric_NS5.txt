@@ -1,0 +1,27 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Torterra @ Heat Rock
+Ability: Overgrow
+- Sunny Day
+- Synthesis
+- Solar Beam
+- Stone Edge
+
+Lopunny @ Bright Powder
+Ability: Limber
+- Thunder Wave
+- Attract
+- Sweet Kiss
+- Focus Punch
+
+Meganium @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Leech Seed
+- Synthesis
+- Substitute

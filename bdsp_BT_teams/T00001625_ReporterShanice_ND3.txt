@@ -1,0 +1,27 @@
+Wormadam @ Coba Berry
+Ability: Overcoat
+- Razor Leaf
+- Psybeam
+- Protect
+- Bug Buzz
+
+Anorith @ Scope Lens
+Ability: Battle Armor
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun
+
+Swellow @ Flame Orb
+Ability: Guts
+- Fly
+- Endeavor
+- Facade
+- Quick Attack
+
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore

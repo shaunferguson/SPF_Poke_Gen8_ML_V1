@@ -1,0 +1,27 @@
+Cherubi @ Occa Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Leech Seed
+- Sunny Day
+- Take Down
+
+Turtwig @ Leftovers
+Ability: Overgrow
+- Razor Leaf
+- Curse
+- Leech Seed
+- Synthesis
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze
+
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility

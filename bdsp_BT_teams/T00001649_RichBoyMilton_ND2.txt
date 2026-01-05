@@ -1,0 +1,27 @@
+Torchic @ Shuca Berry
+Ability: Blaze
+- Flame Charge
+- Quick Attack
+- Sand Attack
+- Double Team
+
+Burmy @ Choice Scarf
+Ability: Shed Skin
+- Bug Bite
+- String Shot
+- -
+- -
+
+Finneon @ Wave Incense
+Ability: Swift Swim
+- Water Pulse
+- Gust
+- Attract
+- Aqua Ring
+
+Phanpy @ Lax Incense
+Ability: Pickup
+- Rollout
+- Defense Curl
+- Rock Tomb
+- Sandstorm

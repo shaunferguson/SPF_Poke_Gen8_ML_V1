@@ -1,0 +1,27 @@
+Articuno @ Wacan Berry
+Ability: Pressure
+- Sheer Cold
+- Ice Beam
+- Aerial Ace
+- Roar
+
+Staraptor @ Razor Claw
+Ability: Intimidate
+- Brave Bird
+- Roost
+- Endure
+- Endeavor
+
+Rampardos @ Focus Sash
+Ability: Mold Breaker
+- Rock Polish
+- Stone Edge
+- Earthquake
+- Zen Headbutt
+
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn

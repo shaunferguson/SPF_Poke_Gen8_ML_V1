@@ -1,0 +1,27 @@
+Bulbasaur @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Take Down
+- Sleep Powder
+- Leech Seed
+
+Shinx @ Sitrus Berry
+Ability: Intimidate
+- Spark
+- Bite
+- Light Screen
+- Thunder Wave
+
+Aron @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Aerial Ace
+- Metal Sound
+- Roar
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize

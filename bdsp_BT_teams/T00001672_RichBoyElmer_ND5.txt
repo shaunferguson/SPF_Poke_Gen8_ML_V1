@@ -1,0 +1,27 @@
+Manectric @ Magnet
+Ability: Lightning Rod
+- Spark
+- Ice Fang
+- Bite
+- Howl
+
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb
+
+Feraligatr @ King's Rock
+Ability: Torrent
+- Scary Face
+- Waterfall
+- Rock Slide
+- Ice Fang
+
+Granbull @ Razor Claw
+Ability: Intimidate
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact

@@ -1,0 +1,20 @@
+Slowking @ Bright Powder
+Ability: Regenerator
+- Psychic
+- Surf
+- Nasty Plot
+- Swagger
+
+Ambipom @ Wise Glasses
+Ability: Technician
+- Shadow Ball
+- Thunderbolt
+- Swift
+- Nasty Plot
+
+Regirock @ Leftovers
+Ability: Clear Body
+- Stone Edge
+- Earthquake
+- Brick Break
+- Sandstorm

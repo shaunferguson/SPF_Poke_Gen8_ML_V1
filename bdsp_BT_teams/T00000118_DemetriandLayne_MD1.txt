@@ -1,0 +1,27 @@
+Regice @ Ganlon Berry
+Ability: Clear Body
+- Focus Blast
+- Blizzard
+- Giga Impact
+- Rock Polish
+
+Latias @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Energy Ball
+- Grass Knot
+- Recover
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+- Surf
+- Earth Power
+- Recover
+- Counter
+
+Registeel @ Occa Berry
+Ability: Clear Body
+- Iron Defense
+- Rest
+- Substitute
+- Earthquake

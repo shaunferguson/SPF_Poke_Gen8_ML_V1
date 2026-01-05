@@ -1,0 +1,27 @@
+Dustox @ Silver Powder
+Ability: Shield Dust
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Volbeat @ Liechi Berry
+Ability: Swarm
+- Bug Buzz
+- Confuse Ray
+- Quick Attack
+- Helping Hand
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn
+
+Kadabra @ Twisted Spoon
+Ability: Inner Focus
+- Confusion
+- Role Play
+- Future Sight
+- Disable

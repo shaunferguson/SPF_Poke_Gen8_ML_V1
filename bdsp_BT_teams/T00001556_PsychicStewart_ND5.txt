@@ -1,0 +1,27 @@
+Charizard @ Charti Berry
+Ability: Blaze
+- Flamethrower
+- Sunny Day
+- Focus Blast
+- Ancient Power
+
+Quagsire @ Leftovers
+Ability: Water Absorb
+- Body Slam
+- Rock Slide
+- Ice Beam
+- Brick Break
+
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief
+
+Ambipom @ Bright Powder
+Ability: Technician
+- Double Team
+- Baton Pass
+- Agility
+- Double Hit

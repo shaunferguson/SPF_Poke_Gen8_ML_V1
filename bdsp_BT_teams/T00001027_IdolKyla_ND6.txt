@@ -1,0 +1,27 @@
+Houndoom @ Focus Sash
+Ability: Flash Fire
+- Counter
+- Flame Charge
+- Crunch
+- Thunder Fang
+
+Skuntank @ Bright Powder
+Ability: Aftermath
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough
+
+Altaria @ Petaya Berry
+Ability: Cloud Nine
+- Dragon Pulse
+- Roost
+- Perish Song
+- Protect
+
+Ninetales @ Rawst Berry
+Ability: Drought
+- Solar Beam
+- Disable
+- Will-O-Wisp
+- Flamethrower

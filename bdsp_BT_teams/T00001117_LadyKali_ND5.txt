@@ -1,0 +1,27 @@
+Electrode @ Sitrus Berry
+Ability: Aftermath
+- Explosion
+- Spark
+- Thunder Wave
+- Thief
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Protect
+- Spore
+- Leech Seed
+- Low Sweep
+
+Typhlosion @ Wide Lens
+Ability: Blaze
+- Will-O-Wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Hypno @ Leftovers
+Ability: Insomnia
+- Thunder Punch
+- Zen Headbutt
+- Headbutt
+- Drain Punch

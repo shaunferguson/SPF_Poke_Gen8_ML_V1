@@ -1,0 +1,27 @@
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm
+
+Grotle @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Bite
+- Leech Seed
+- Synthesis
+
+Swalot @ Black Sludge
+Ability: Sticky Hold
+- Stockpile
+- Ice Beam
+- Shadow Ball
+- Sludge Bomb
+
+Misdreavus @ Focus Band
+Ability: Levitate
+- Pain Split
+- Shadow Ball
+- Confuse Ray
+- Thunder Wave

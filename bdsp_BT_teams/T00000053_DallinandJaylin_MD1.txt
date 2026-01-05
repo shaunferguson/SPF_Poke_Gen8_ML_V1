@@ -1,0 +1,27 @@
+Swampert @ Sitrus Berry
+Ability: Torrent
+- Waterfall
+- Earthquake
+- Ice Punch
+- Curse
+
+Arcanine @ Salac Berry
+Ability: Intimidate
+- Endure
+- Reversal
+- Flare Blitz
+- Play Rough
+
+Heracross @ Coba Berry
+Ability: Moxie
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Vileplume @ Quick Claw
+Ability: Effect Spore
+- Drain Punch
+- Sludge Bomb
+- Swords Dance
+- Tickle

@@ -1,0 +1,27 @@
+Regice @ Zoom Lens
+Ability: Clear Body
+- Thunder
+- Blizzard
+- Focus Blast
+- Flash Cannon
+
+Togekiss @ Scope Lens
+Ability: Super Luck
+- Air Slash
+- Flamethrower
+- Dazzling Gleam
+- Thunder Wave
+
+Regigigas @ Leftovers
+Ability: Slow Start
+- Crush Grip
+- Drain Punch
+- Knock Off
+- Protect
+
+Steelix @ Life Orb
+Ability: Sheer Force
+- Iron Tail
+- Fire Fang
+- Stone Edge
+- Ice Fang

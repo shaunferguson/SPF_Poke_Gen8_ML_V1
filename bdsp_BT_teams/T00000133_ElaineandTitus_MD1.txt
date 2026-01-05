@@ -1,0 +1,27 @@
+Granbull @ Quick Claw
+Ability: Intimidate
+- Ice Fang
+- Stone Edge
+- Crunch
+- Earthquake
+
+Abomasnow @ Zoom Lens
+Ability: Snow Warning
+- Blizzard
+- Sheer Cold
+- Focus Blast
+- Water Pulse
+
+Drifblim @ Apicot Berry
+Ability: Aftermath
+- Phantom Force
+- Explosion
+- Memento
+- Destiny Bond
+
+Entei @ Heat Rock
+Ability: Inner Focus
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Extrasensory

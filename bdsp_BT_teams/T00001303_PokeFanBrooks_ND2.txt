@@ -1,0 +1,27 @@
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Spinda @ Silk Scarf
+Ability: Own Tempo
+- Flail
+- Teeter Dance
+- Psybeam
+- Icy Wind
+
+Growlithe @ Shuca Berry
+Ability: Intimidate
+- Flame Wheel
+- Bite
+- Roar
+- Agility
+
+Mawile @ Bright Powder
+Ability: Intimidate
+- Crunch
+- Fake Tears
+- Iron Defense
+- Baton Pass

@@ -1,0 +1,27 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Destiny Bond
+- Dazzling Gleam
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Acid Armor
+- Yawn
+- Baton Pass
+
+Regirock @ Liechi Berry
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Body Press
+
+Entei @ Choice Band
+Ability: Inner Focus
+- Sacred Fire
+- Extreme Speed
+- Crunch
+- Stone Edge

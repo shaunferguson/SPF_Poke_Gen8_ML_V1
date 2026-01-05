@@ -1,0 +1,27 @@
+Magmortar @ Wiki Berry
+Ability: Flame Body
+- Earthquake
+- Flamethrower
+- Thunderbolt
+- Will-O-Wisp
+
+Manectric @ Shuca Berry
+Ability: Lightning Rod
+- Thunderbolt
+- Overheat
+- Roar
+- Thunder Wave
+
+Gliscor @ Yache Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Poison Jab
+- Thunder Fang
+
+Regigigas @ Leftovers
+Ability: Slow Start
+- Substitute
+- Double Team
+- Thunder Wave
+- Ice Punch

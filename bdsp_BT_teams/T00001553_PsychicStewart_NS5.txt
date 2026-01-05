@@ -1,0 +1,20 @@
+Quagsire @ Leftovers
+Ability: Water Absorb
+- Body Slam
+- Rock Slide
+- Ice Beam
+- Brick Break
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Brick Break
+- Earthquake
+- Rock Tomb
+- Iron Head
+
+Skuntank @ Bright Powder
+Ability: Aftermath
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough

@@ -1,0 +1,20 @@
+Snorunt @ King's Rock
+Ability: Moody
+- Icy Wind
+- Headbutt
+- Protect
+- Bite
+
+Machop @ Scope Lens
+Ability: No Guard
+- Seismic Toss
+- Revenge
+- Rock Tomb
+- Scary Face
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound

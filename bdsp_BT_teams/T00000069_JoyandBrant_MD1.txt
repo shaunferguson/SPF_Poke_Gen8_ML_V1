@@ -1,0 +1,27 @@
+Machamp @ Flame Orb
+Ability: Guts
+- Close Combat
+- Ice Punch
+- Knock Off
+- Bullet Punch
+
+Medicham @ Expert Belt
+Ability: Pure Power
+- High Jump Kick
+- Ice Punch
+- Fire Punch
+- Fake Out
+
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+- Blizzard
+- Giga Drain
+- Earth Power
+- Ice Shard
+
+Salamence @ Choice Scarf
+Ability: Moxie
+- Outrage
+- Thrash
+- Crunch
+- Earthquake

@@ -1,0 +1,20 @@
+Feraligatr @ Life Orb
+Ability: Sheer Force
+- Waterfall
+- Ice Punch
+- Crunch
+- Dragon Dance
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+- Earthquake
+- Guillotine
+- Substitute
+- Protect
+
+Tyranitar @ Quick Claw
+Ability: Sand Stream
+- Earthquake
+- Dragon Claw
+- Shadow Claw
+- Iron Head

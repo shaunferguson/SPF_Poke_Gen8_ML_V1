@@ -1,0 +1,27 @@
+Aggron @ Shuca Berry
+Ability: Sturdy
+- Stone Edge
+- Avalanche
+- Payback
+- Earthquake
+
+Quagsire @ Quick Claw
+Ability: Water Absorb
+- Amnesia
+- Scald
+- Sludge Bomb
+- Recover
+
+Ambipom @ Muscle Band
+Ability: Technician
+- Double Hit
+- Thief
+- Dual Chop
+- Fake Out
+
+Golem @ Focus Band
+Ability: Sand Veil
+- Sandstorm
+- Defense Curl
+- Rock Blast
+- Gyro Ball

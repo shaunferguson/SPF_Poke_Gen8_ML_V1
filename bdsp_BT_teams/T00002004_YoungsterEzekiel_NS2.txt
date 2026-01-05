@@ -1,0 +1,20 @@
+Parasect @ Sticky Barb
+Ability: Effect Spore
+- Slash
+- Psybeam
+- Spore
+- Flash
+
+Nidorina @ Focus Band
+Ability: Poison Point
+- Double Kick
+- Bite
+- Aerial Ace
+- Flatter
+
+Murkrow @ Wacan Berry
+Ability: Prankster
+- Dark Pulse
+- Fly
+- Torment
+- Taunt

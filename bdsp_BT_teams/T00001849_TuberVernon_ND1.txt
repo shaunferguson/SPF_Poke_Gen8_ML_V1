@@ -1,0 +1,27 @@
+Piplup @ Wacan Berry
+Ability: Torrent
+- Bubble Beam
+- Peck
+- Growl
+- Mist
+
+Bidoof @ Metronome
+Ability: Simple
+- Defense Curl
+- Headbutt
+- Rollout
+- Yawn
+
+Psyduck @ Persim Berry
+Ability: Cloud Nine
+- Confusion
+- Fury Swipes
+- Aerial Ace
+- Disable
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen

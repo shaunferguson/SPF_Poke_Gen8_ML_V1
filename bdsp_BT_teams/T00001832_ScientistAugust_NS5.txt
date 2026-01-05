@@ -1,0 +1,20 @@
+Vespiquen @ Razor Claw
+Ability: Pressure
+- Attack Order
+- Slash
+- Defend Order
+- -
+
+Vileplume @ Big Root
+Ability: Chlorophyll
+- Poison Powder
+- Sleep Powder
+- Stun Spore
+- Giga Drain
+
+Torterra @ Heat Rock
+Ability: Overgrow
+- Sunny Day
+- Synthesis
+- Solar Beam
+- Stone Edge

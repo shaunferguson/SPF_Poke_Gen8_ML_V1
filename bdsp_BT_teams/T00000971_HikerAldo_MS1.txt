@@ -1,0 +1,20 @@
+Gengar @ Bright Powder
+Ability: Cursed Body
+- Hypnosis
+- Dream Eater
+- Shadow Ball
+- Focus Blast
+
+Ambipom @ Wise Glasses
+Ability: Technician
+- Shadow Ball
+- Thunderbolt
+- Swift
+- Nasty Plot
+
+Latias @ Leftovers
+Ability: Levitate
+- Mist Ball
+- Dragon Pulse
+- Calm Mind
+- Safeguard

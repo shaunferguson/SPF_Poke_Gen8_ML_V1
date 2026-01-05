@@ -1,0 +1,20 @@
+Donphan @ Lum Berry
+Ability: Sturdy
+- Earthquake
+- Ice Shard
+- Rock Slide
+- Play Rough
+
+Porygon-Z @ Choice Specs
+Ability: Download
+- Tri Attack
+- Shadow Ball
+- Ice Beam
+- Thunderbolt
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass

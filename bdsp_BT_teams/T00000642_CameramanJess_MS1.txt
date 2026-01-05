@@ -1,0 +1,20 @@
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
+
+Flygon @ Focus Sash
+Ability: Levitate
+- Earthquake
+- Outrage
+- Thunder Punch
+- Dragon Dance

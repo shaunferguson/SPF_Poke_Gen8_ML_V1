@@ -1,0 +1,27 @@
+Marowak @ Thick Club
+Ability: Battle Armor
+- Earthquake
+- Double-Edge
+- Aerial Ace
+- Brick Break
+
+Charizard @ Scope Lens
+Ability: Blaze
+- Flare Blitz
+- Aerial Ace
+- Crunch
+- Dragon Claw
+
+Infernape @ Muscle Band
+Ability: Blaze
+- Flare Blitz
+- Thunder Punch
+- Close Combat
+- U-turn
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Acid Armor
+- Rest

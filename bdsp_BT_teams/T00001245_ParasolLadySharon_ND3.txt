@@ -1,0 +1,27 @@
+Kricketune @ Metronome
+Ability: Swarm
+- Fury Cutter
+- Sticky Web
+- Sing
+- Growl
+
+Seadra @ Mystic Water
+Ability: Sniper
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+- Water Pulse
+- Aerial Ace
+- Stockpile
+- Swallow
+
+Elekid @ Cheri Berry
+Ability: Static
+- Thunder Punch
+- Quick Attack
+- Swift
+- Light Screen

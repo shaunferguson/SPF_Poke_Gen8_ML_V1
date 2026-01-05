@@ -1,0 +1,27 @@
+Tauros @ Leftovers
+Ability: Intimidate
+- Double-Edge
+- Payback
+- Stone Edge
+- Substitute
+
+Flareon @ White Herb
+Ability: Flash Fire
+- Overheat
+- Giga Impact
+- Iron Tail
+- Quick Attack
+
+Heracross @ Coba Berry
+Ability: Moxie
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Slaking @ Wide Lens
+Ability: Truant
+- Hyper Beam
+- Blizzard
+- Fire Blast
+- Thunderbolt

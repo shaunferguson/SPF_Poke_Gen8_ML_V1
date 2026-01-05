@@ -1,0 +1,27 @@
+Remoraid @ Petaya Berry
+Ability: Sniper
+- Bubble Beam
+- Aurora Beam
+- Psybeam
+- Protect
+
+Vulpix @ Focus Sash
+Ability: Drought
+- Will-O-Wisp
+- Confuse Ray
+- Fire Spin
+- Quick Attack
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen
+
+Tentacool @ Pecha Berry
+Ability: Liquid Ooze
+- Bubble Beam
+- Acid
+- Sludge Bomb
+- Wrap

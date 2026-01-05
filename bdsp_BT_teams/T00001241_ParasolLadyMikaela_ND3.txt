@@ -1,0 +1,27 @@
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Togetic @ Lax Incense
+Ability: Serene Grace
+- Aerial Ace
+- Dazzling Gleam
+- Wish
+- Follow Me
+
+Grovyle @ Bright Powder
+Ability: Overgrow
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block

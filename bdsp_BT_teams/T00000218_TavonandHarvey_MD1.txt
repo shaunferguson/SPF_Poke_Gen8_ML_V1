@@ -1,0 +1,27 @@
+Ludicolo @ Leftovers
+Ability: Rain Dish
+- Leech Seed
+- Double Team
+- Scald
+- Substitute
+
+Lapras @ Sitrus Berry
+Ability: Shell Armor
+- Sheer Cold
+- Sleep Talk
+- Rest
+- Double Team
+
+Scizor @ Bright Powder
+Ability: Technician
+- Swords Dance
+- Double Team
+- Bullet Punch
+- Roost
+
+Gliscor @ Yache Berry
+Ability: Hyper Cutter
+- Earthquake
+- Guillotine
+- Poison Jab
+- Thunder Fang

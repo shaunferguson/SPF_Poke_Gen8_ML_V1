@@ -1,0 +1,20 @@
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Gabite @ Yache Berry
+Ability: Rough Skin
+- Dragon Claw
+- Take Down
+- Sand Attack
+- Roar
+
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace

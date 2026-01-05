@@ -1,0 +1,20 @@
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Smoochum @ Bright Powder
+Ability: Oblivious
+- Sweet Kiss
+- Sing
+- Confusion
+- Ice Beam
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound

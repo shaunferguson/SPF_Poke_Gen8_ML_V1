@@ -1,0 +1,20 @@
+Beautifly @ Mental Herb
+Ability: Swarm
+- Bug Buzz
+- Mega Drain
+- Attract
+- Quiver Dance
+
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face

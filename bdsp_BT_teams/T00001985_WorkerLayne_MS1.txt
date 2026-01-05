@@ -1,0 +1,20 @@
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang
+
+Weavile @ Chople Berry
+Ability: Pickpocket
+- Night Slash
+- Ice Shard
+- Ice Punch
+- Fake Out
+
+Salamence @ Choice Scarf
+Ability: Moxie
+- Outrage
+- Thrash
+- Crunch
+- Earthquake

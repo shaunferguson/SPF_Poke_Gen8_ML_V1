@@ -1,0 +1,20 @@
+Pikachu @ Light Ball
+Ability: Lightning Rod
+- Spark
+- Brick Break
+- Iron Tail
+- Quick Attack
+
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn

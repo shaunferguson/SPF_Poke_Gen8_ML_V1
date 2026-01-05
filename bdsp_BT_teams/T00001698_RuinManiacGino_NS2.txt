@@ -1,0 +1,20 @@
+Bonsly @ Passho Berry
+Ability: Sturdy
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Dustox @ Silver Powder
+Ability: Shield Dust
+- Bug Buzz
+- Toxic
+- Psybeam
+- Whirlwind
+
+Wailmer @ Mystic Water
+Ability: Oblivious
+- Whirlpool
+- Roar
+- Defense Curl
+- Rollout

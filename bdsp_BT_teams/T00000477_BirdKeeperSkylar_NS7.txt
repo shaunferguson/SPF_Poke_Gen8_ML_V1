@@ -1,0 +1,20 @@
+Drapion @ Rawst Berry
+Ability: Battle Armor
+- Acupressure
+- Toxic Spikes
+- Crunch
+- Cross Poison
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Earthquake
+- Double-Edge
+- Aerial Ace
+- Brick Break
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Acid Armor
+- Rest

@@ -1,0 +1,27 @@
+Electabuzz @ Cheri Berry
+Ability: Static
+- Thunderbolt
+- Thunder Wave
+- Brick Break
+- Light Screen
+
+Seadra @ Mystic Water
+Ability: Sniper
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Purugly @ Silk Scarf
+Ability: Thick Fat
+- Slash
+- U-turn
+- Attract
+- Fake Out
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

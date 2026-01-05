@@ -1,0 +1,20 @@
+Charmeleon @ Scope Lens
+Ability: Blaze
+- Slash
+- Fire Spin
+- Swords Dance
+- Aerial Ace
+
+Mightyena @ Mental Herb
+Ability: Intimidate
+- Bite
+- Poison Fang
+- Taunt
+- Roar
+
+Swellow @ Flame Orb
+Ability: Guts
+- Fly
+- Endeavor
+- Facade
+- Quick Attack

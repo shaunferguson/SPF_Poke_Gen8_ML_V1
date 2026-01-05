@@ -1,0 +1,27 @@
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz
+
+Purugly @ Silk Scarf
+Ability: Thick Fat
+- Slash
+- U-turn
+- Attract
+- Fake Out
+
+Kingler @ Scope Lens
+Ability: Hyper Cutter
+- Crabhammer
+- Metal Claw
+- Knock Off
+- Protect
+
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+- Slash
+- Counter
+- Encore
+- Uproar

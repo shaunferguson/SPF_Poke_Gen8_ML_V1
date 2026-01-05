@@ -1,0 +1,20 @@
+Metagross @ Occa Berry
+Ability: Clear Body
+- Magnet Rise
+- Rock Polish
+- Zen Headbutt
+- Meteor Mash
+
+Jolteon @ Magnet
+Ability: Volt Absorb
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Yawn
+
+Flareon @ Charcoal
+Ability: Flash Fire
+- Will-O-Wisp
+- Flare Blitz
+- Iron Tail
+- Quick Attack

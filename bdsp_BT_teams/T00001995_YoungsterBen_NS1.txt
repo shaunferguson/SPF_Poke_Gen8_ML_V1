@@ -1,0 +1,20 @@
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Swablu @ Mental Herb
+Ability: Cloud Nine
+- Take Down
+- Dream Eater
+- Sing
+- Attract
+
+Cubone @ Soft Sand
+Ability: Battle Armor
+- Bonemerang
+- Headbutt
+- Brick Break
+- Aerial Ace

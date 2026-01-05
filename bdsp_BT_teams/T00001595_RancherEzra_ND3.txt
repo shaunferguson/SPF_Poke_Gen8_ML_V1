@@ -1,0 +1,27 @@
+Magcargo @ Lax Incense
+Ability: Flame Body
+- Rock Slide
+- Ember
+- Acid Armor
+- Sandstorm
+
+Poliwhirl @ Petaya Berry
+Ability: Water Absorb
+- Water Pulse
+- Earth Power
+- Hypnosis
+- Rain Dance
+
+Combusken @ Scope Lens
+Ability: Blaze
+- Ember
+- Double Kick
+- Quick Attack
+- Sand Attack
+
+Bayleef @ Bright Powder
+Ability: Overgrow
+- Razor Leaf
+- Synthesis
+- Safeguard
+- Light Screen

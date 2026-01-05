@@ -1,0 +1,20 @@
+Granbull @ Razor Claw
+Ability: Intimidate
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact
+
+Mismagius @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Confuse Ray
+- Perish Song
+- Mean Look
+
+Porygon2 @ Leftovers
+Ability: Analytic
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam

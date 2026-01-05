@@ -1,0 +1,20 @@
+Lapras @ Sitrus Berry
+Ability: Water Absorb
+- Surf
+- Freeze-Dry
+- Thunderbolt
+- Sheer Cold
+
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Rock Tomb
+- Ice Shard
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Synthesis

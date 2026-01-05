@@ -1,0 +1,20 @@
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Pupitar @ Soft Sand
+Ability: Shed Skin
+- Dig
+- Bite
+- Scary Face
+- Sandstorm
+
+Linoone @ Sitrus Berry
+Ability: Gluttony
+- Extreme Speed
+- Sand Attack
+- Covet
+- Tickle

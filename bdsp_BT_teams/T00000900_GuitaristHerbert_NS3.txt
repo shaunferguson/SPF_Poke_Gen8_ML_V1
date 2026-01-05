@@ -1,0 +1,20 @@
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Graveler @ Focus Band
+Ability: Sturdy
+- Rollout
+- Rock Throw
+- Defense Curl
+- Brick Break
+
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind

@@ -1,0 +1,27 @@
+Regirock @ Liechi Berry
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Body Press
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+- Fire Punch
+- Close Combat
+- Acrobatics
+- Swords Dance
+
+Latias @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire
+
+Moltres @ Lax Incense
+Ability: Flame Body
+- Mystical Fire
+- Hurricane
+- Will-O-Wisp
+- Roost

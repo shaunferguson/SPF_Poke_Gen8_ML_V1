@@ -1,0 +1,27 @@
+Hariyama @ Salac Berry
+Ability: Thick Fat
+- Endure
+- Reversal
+- Earthquake
+- Rock Tomb
+
+Probopass @ King's Rock
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Explosion
+
+Umbreon @ Bright Powder
+Ability: Inner Focus
+- Foul Play
+- Attract
+- Protect
+- Moonlight
+
+Absol @ Focus Sash
+Ability: Pressure
+- Swagger
+- Night Slash
+- Sucker Punch
+- Taunt

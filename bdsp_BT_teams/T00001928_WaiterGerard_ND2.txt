@@ -1,0 +1,27 @@
+Minun @ Salac Berry
+Ability: Minus
+- Spark
+- Charm
+- Encore
+- Helping Hand
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect
+
+Kabuto @ Sitrus Berry
+Ability: Battle Armor
+- Mega Drain
+- Ancient Power
+- Sand Attack
+- Protect
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen

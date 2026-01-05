@@ -1,0 +1,27 @@
+Treecko @ Big Root
+Ability: Overgrow
+- Mega Drain
+- Aerial Ace
+- Flash
+- Double Team
+
+Torchic @ Sitrus Berry
+Ability: Blaze
+- Will-O-Wisp
+- Feather Dance
+- Double Team
+- Flamethrower
+
+Growlithe @ Shuca Berry
+Ability: Intimidate
+- Flame Wheel
+- Bite
+- Roar
+- Agility
+
+Vibrava @ Cheri Berry
+Ability: Levitate
+- Dragon Breath
+- Dig
+- Screech
+- Rock Tomb

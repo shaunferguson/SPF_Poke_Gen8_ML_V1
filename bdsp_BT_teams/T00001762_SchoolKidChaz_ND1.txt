@@ -1,0 +1,27 @@
+Bidoof @ Leftovers
+Ability: Simple
+- Curse
+- Headbutt
+- Pluck
+- Yawn
+
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility
+
+Exeggcute @ Persim Berry
+Ability: Chlorophyll
+- Confusion
+- Giga Drain
+- Leech Seed
+- Light Screen

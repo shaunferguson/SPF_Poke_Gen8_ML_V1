@@ -1,0 +1,27 @@
+Vibrava @ Cheri Berry
+Ability: Levitate
+- Dragon Breath
+- Dig
+- Screech
+- Rock Tomb
+
+Kabuto @ Sitrus Berry
+Ability: Battle Armor
+- Mega Drain
+- Ancient Power
+- Sand Attack
+- Protect
+
+Munchlax @ Figy Berry
+Ability: Gluttony
+- Metronome
+- Recycle
+- Stockpile
+- Fissure
+
+Grimer @ Black Sludge
+Ability: Stench
+- Sludge
+- Rock Tomb
+- Acid Armor
+- Minimize

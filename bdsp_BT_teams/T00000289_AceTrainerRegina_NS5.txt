@@ -1,0 +1,20 @@
+Mr. Mime @ Sitrus Berry
+Ability: Filter
+- Psychic
+- Reflect
+- Light Screen
+- Mimic
+
+Granbull @ Razor Claw
+Ability: Intimidate
+- Thunder Wave
+- Bite
+- Rock Slide
+- Giga Impact
+
+Skarmory @ Leftovers
+Ability: Sturdy
+- Stealth Rock
+- Roar
+- Drill Peck
+- Roost

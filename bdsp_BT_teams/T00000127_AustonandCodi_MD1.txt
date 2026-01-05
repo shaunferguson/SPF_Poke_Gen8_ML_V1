@@ -1,0 +1,27 @@
+Mismagius @ Leftovers
+Ability: Levitate
+- Shadow Ball
+- Dark Pulse
+- Charge Beam
+- Imprison
+
+Feraligatr @ Wacan Berry
+Ability: Torrent
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance
+
+Whiscash @ Zoom Lens
+Ability: Oblivious
+- Hydro Pump
+- Blizzard
+- Fissure
+- Future Sight
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

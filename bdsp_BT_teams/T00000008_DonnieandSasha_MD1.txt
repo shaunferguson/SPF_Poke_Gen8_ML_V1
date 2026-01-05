@@ -1,0 +1,27 @@
+Hitmontop @ Sitrus Berry
+Ability: Intimidate
+- Fake Out
+- Wide Guard
+- Helping Hand
+- Quick Guard
+
+Gardevoir @ Choice Scarf
+Ability: Telepathy
+- Psychic
+- Dazzling Gleam
+- Thunderbolt
+- Moonblast
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Dazzling Gleam
+- Psychic
+- Energy Ball
+- Nasty Plot
+
+Mamoswine @ Focus Sash
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Rock Tomb

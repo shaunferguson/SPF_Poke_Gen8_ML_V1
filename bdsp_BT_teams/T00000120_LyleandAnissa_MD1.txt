@@ -1,0 +1,27 @@
+Breloom @ Big Root
+Ability: Effect Spore
+- Spore
+- Focus Punch
+- Drain Punch
+- Swords Dance
+
+Drifblim @ Wise Glasses
+Ability: Aftermath
+- Hypnosis
+- Dream Eater
+- Charge Beam
+- Shadow Ball
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Thunder Punch
+- Brick Break
+
+Ninetales @ White Herb
+Ability: Drought
+- Solar Beam
+- Overheat
+- Psyshock
+- Nasty Plot

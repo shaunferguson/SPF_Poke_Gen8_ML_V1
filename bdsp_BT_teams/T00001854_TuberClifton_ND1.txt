@@ -1,0 +1,27 @@
+Glameow @ Quick Claw
+Ability: Limber
+- Fake Out
+- Fury Swipes
+- Growl
+- Attract
+
+Chikorita @ Leftovers
+Ability: Overgrow
+- Magical Leaf
+- Reflect
+- Synthesis
+- Poison Powder
+
+Oddish @ Pecha Berry
+Ability: Chlorophyll
+- Acid
+- Stun Spore
+- Sweet Scent
+- Moonlight
+
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility

@@ -1,0 +1,20 @@
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite
+
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb
+
+Dewgong @ Razor Fang
+Ability: Thick Fat
+- Aqua Jet
+- Ice Shard
+- Fake Out
+- Protect

@@ -1,0 +1,27 @@
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Burmy @ Choice Scarf
+Ability: Shed Skin
+- Bug Bite
+- String Shot
+- -
+- -
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+- Surf
+- Protect
+- Iron Defense
+- Double Team
+
+Staravia @ Charti Berry
+Ability: Intimidate
+- Endeavor
+- Aerial Ace
+- Whirlwind
+- Quick Attack

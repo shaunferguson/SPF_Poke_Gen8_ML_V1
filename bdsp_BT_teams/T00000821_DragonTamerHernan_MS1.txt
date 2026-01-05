@@ -1,0 +1,20 @@
+Raikou @ Lax Incense
+Ability: Pressure
+- Scald
+- Calm Mind
+- Rest
+- Double Team
+
+Regice @ Shell Bell
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Hyper Beam
+- Flash Cannon
+
+Latias @ Bright Powder
+Ability: Levitate
+- Psychic
+- Dragon Pulse
+- Thunderbolt
+- Surf

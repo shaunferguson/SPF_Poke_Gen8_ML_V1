@@ -1,0 +1,20 @@
+Hippowdon @ Life Orb
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Ice Fang
+- Yawn
+
+Infernape @ Focus Sash
+Ability: Iron Fist
+- Close Combat
+- Fire Punch
+- Fake Out
+- Mach Punch
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Acid Armor
+- Yawn
+- Baton Pass

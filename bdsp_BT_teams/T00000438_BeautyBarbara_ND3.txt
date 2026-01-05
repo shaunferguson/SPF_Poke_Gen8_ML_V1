@@ -1,0 +1,27 @@
+Wartortle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn
+
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility
+
+Raticate @ Silk Scarf
+Ability: Guts
+- Endeavor
+- Super Fang
+- Scary Face
+- Quick Attack
+
+Furret @ Liechi Berry
+Ability: Keen Eye
+- Slam
+- Protect
+- Helping Hand
+- Follow Me

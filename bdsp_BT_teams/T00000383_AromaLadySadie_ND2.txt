@@ -1,0 +1,27 @@
+Venonat @ Sitrus Berry
+Ability: Compound Eyes
+- Psybeam
+- Supersonic
+- Stun Spore
+- Skill Swap
+
+Treecko @ Focus Sash
+Ability: Overgrow
+- Mega Drain
+- Endeavor
+- Brick Break
+- Rock Slide
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect
+
+Goldeen @ Petaya Berry
+Ability: Lightning Rod
+- Waterfall
+- Peck
+- Agility
+- Horn Drill

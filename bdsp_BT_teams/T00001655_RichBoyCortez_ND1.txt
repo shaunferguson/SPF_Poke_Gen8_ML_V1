@@ -1,0 +1,27 @@
+Shinx @ King's Rock
+Ability: Intimidate
+- Spark
+- Bite
+- Roar
+- Leer
+
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Rock Slide
+- Dig
+- Avalanche
+- Waterfall
+
+Nuzleaf @ Sitrus Berry
+Ability: Chlorophyll
+- Extrasensory
+- Fake Out
+- Razor Leaf
+- Rock Tomb
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen

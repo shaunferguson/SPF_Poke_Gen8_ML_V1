@@ -1,0 +1,20 @@
+Houndoom @ Passho Berry
+Ability: Flash Fire
+- Fire Fang
+- Thunder Fang
+- Crunch
+- Will-O-Wisp
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Psychic
+
+Shuckle @ Bright Powder
+Ability: Sturdy
+- Power Trick
+- Double Team
+- Wrap
+- Toxic

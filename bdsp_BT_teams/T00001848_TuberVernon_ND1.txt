@@ -1,0 +1,27 @@
+Remoraid @ Petaya Berry
+Ability: Sniper
+- Bubble Beam
+- Aurora Beam
+- Psybeam
+- Protect
+
+Treecko @ Focus Sash
+Ability: Overgrow
+- Mega Drain
+- Endeavor
+- Brick Break
+- Rock Slide
+
+Phanpy @ Lax Incense
+Ability: Pickup
+- Rollout
+- Defense Curl
+- Rock Tomb
+- Sandstorm
+
+Rhyhorn @ Focus Band
+Ability: Rock Head
+- Rock Blast
+- Dig
+- Scary Face
+- Roar

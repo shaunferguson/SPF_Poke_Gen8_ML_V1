@@ -1,0 +1,27 @@
+Golbat @ Scope Lens
+Ability: Inner Focus
+- Poison Fang
+- Confuse Ray
+- Wing Attack
+- Steel Wing
+
+Clefable @ Life Orb
+Ability: Magic Guard
+- Moonblast
+- Flamethrower
+- Thunderbolt
+- Moonlight
+
+Primeape @ Sitrus Berry
+Ability: Defiant
+- Cross Chop
+- Stomping Tantrum
+- Swagger
+- Thief
+
+Xatu @ Sharp Beak
+Ability: Magic Bounce
+- Air Slash
+- Night Shade
+- Wish
+- Future Sight

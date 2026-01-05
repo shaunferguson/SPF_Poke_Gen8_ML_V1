@@ -1,0 +1,20 @@
+Drapion @ Scope Lens
+Ability: Sniper
+- Night Slash
+- Cross Poison
+- Earthquake
+- Ice Fang
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance
+
+Magmortar @ Sitrus Berry
+Ability: Vital Spirit
+- Fire Blast
+- Thunderbolt
+- Psychic
+- Belch

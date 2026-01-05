@@ -1,0 +1,27 @@
+Hitmonchan @ King's Rock
+Ability: Iron Fist
+- Mach Punch
+- Ice Punch
+- Detect
+- Counter
+
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+- Shadow Claw
+- Earthquake
+- Rock Slide
+- Thief
+
+Hypno @ Leftovers
+Ability: Insomnia
+- Thunder Punch
+- Zen Headbutt
+- Headbutt
+- Drain Punch
+
+Huntail @ Persim Berry
+Ability: Swift Swim
+- Whirlpool
+- Scary Face
+- Screech
+- Bite

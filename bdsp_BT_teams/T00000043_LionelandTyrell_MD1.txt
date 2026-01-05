@@ -1,0 +1,27 @@
+Entei @ Heat Rock
+Ability: Inner Focus
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Extrasensory
+
+Cresselia @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Moonlight
+- Psychic
+- Shadow Ball
+
+Alakazam @ Sitrus Berry
+Ability: Magic Guard
+- Psychic
+- Shadow Ball
+- Charge Beam
+- Energy Ball
+
+Gengar @ Payapa Berry
+Ability: Cursed Body
+- Explosion
+- Thunder Punch
+- Poison Jab
+- Shadow Claw

@@ -1,0 +1,20 @@
+Froslass @ Focus Band
+Ability: Cursed Body
+- Blizzard
+- Shadow Ball
+- Thunderbolt
+- Will-O-Wisp
+
+Typhlosion @ Wide Lens
+Ability: Blaze
+- Will-O-Wisp
+- Focus Blast
+- Double Team
+- Fire Blast
+
+Kangaskhan @ Pecha Berry
+Ability: Scrappy
+- Thunderbolt
+- Focus Punch
+- Ice Beam
+- Drain Punch

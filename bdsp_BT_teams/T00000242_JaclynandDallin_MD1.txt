@@ -1,0 +1,27 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance
+
+Cradily @ Leftovers
+Ability: Storm Drain
+- Giga Drain
+- Sludge Bomb
+- Stockpile
+- Leech Seed
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Slaking @ Sitrus Berry
+Ability: Truant
+- Giga Impact
+- Earthquake
+- Night Slash
+- Hammer Arm

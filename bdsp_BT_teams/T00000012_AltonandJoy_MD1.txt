@@ -1,0 +1,27 @@
+Swampert @ Sitrus Berry
+Ability: Torrent
+- Waterfall
+- Earthquake
+- Ice Punch
+- Curse
+
+Miltank @ Salac Berry
+Ability: Scrappy
+- Endure
+- Reversal
+- Milk Drink
+- Rock Slide
+
+Entei @ Heat Rock
+Ability: Inner Focus
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Extrasensory
+
+Bronzong @ Custap Berry
+Ability: Levitate
+- Gyro Ball
+- Body Press
+- Iron Defense
+- Earthquake

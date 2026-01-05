@@ -1,0 +1,20 @@
+Gardevoir @ Choice Scarf
+Ability: Trace
+- Moonblast
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Metagross @ Wise Glasses
+Ability: Clear Body
+- Psychic
+- Flash Cannon
+- Shadow Ball
+- Sludge Bomb
+
+Moltres @ Heat Rock
+Ability: Flame Body
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Endure

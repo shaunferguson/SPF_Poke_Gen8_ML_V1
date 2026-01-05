@@ -1,0 +1,20 @@
+Donphan @ Lum Berry
+Ability: Sturdy
+- Earthquake
+- Ice Shard
+- Rock Slide
+- Play Rough
+
+Scizor @ Choice Band
+Ability: Technician
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Thief
+
+Ursaring @ Flame Orb
+Ability: Guts
+- Facade
+- Earthquake
+- Rock Tomb
+- Protect

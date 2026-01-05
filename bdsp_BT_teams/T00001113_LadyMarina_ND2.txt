@@ -1,0 +1,27 @@
+Omanyte @ Sitrus Berry
+Ability: Shell Armor
+- Mud Shot
+- Water Gun
+- Ancient Power
+- Tickle
+
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Nidorina @ Focus Band
+Ability: Poison Point
+- Double Kick
+- Bite
+- Aerial Ace
+- Flatter
+
+Togetic @ Lax Incense
+Ability: Serene Grace
+- Aerial Ace
+- Dazzling Gleam
+- Wish
+- Follow Me

@@ -1,0 +1,27 @@
+Munchlax @ Figy Berry
+Ability: Gluttony
+- Metronome
+- Recycle
+- Stockpile
+- Fissure
+
+Chimchar @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Acrobatics
+- Fury Swipes
+- Bulk Up
+
+Kabuto @ Sitrus Berry
+Ability: Battle Armor
+- Mega Drain
+- Ancient Power
+- Sand Attack
+- Protect
+
+Beautifly @ Mental Herb
+Ability: Swarm
+- Bug Buzz
+- Mega Drain
+- Attract
+- Quiver Dance

@@ -1,0 +1,27 @@
+Sealeo @ Icy Rock
+Ability: Ice Body
+- Blizzard
+- Hail
+- Snore
+- Rest
+
+Minun @ Salac Berry
+Ability: Minus
+- Spark
+- Charm
+- Encore
+- Helping Hand
+
+Sunflora @ Persim Berry
+Ability: Solar Power
+- Petal Dance
+- Ingrain
+- Leech Seed
+- Light Screen
+
+Marshtomp @ Focus Band
+Ability: Torrent
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Mud-Slap

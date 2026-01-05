@@ -1,0 +1,27 @@
+Slaking @ Sitrus Berry
+Ability: Truant
+- Counter
+- Encore
+- Body Slam
+- Slack Off
+
+Cradily @ Quick Claw
+Ability: Storm Drain
+- Sandstorm
+- Ancient Power
+- Giga Drain
+- Hyper Beam
+
+Togekiss @ Wide Lens
+Ability: Hustle
+- Extreme Speed
+- Aerial Ace
+- Steel Wing
+- Roost
+
+Meganium @ Occa Berry
+Ability: Overgrow
+- Solar Beam
+- Sunny Day
+- Synthesis
+- Ancient Power

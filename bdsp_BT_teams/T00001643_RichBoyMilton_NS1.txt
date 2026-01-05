@@ -1,0 +1,20 @@
+Chimecho @ Grip Claw
+Ability: Levitate
+- Extrasensory
+- Yawn
+- Uproar
+- Shadow Ball
+
+Corphish @ Mystic Water
+Ability: Adaptability
+- Crabhammer
+- Water Pulse
+- Knock Off
+- Protect
+
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility

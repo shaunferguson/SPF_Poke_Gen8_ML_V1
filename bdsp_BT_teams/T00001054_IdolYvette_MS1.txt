@@ -1,0 +1,20 @@
+Forretress @ Custap Berry
+Ability: Sturdy
+- Gyro Ball
+- Earthquake
+- Explosion
+- Rock Tomb
+
+Toxicroak @ Scope Lens
+Ability: Poison Touch
+- Poison Jab
+- X-Scissor
+- Giga Impact
+- Focus Blast
+
+Abomasnow @ Leftovers
+Ability: Snow Warning
+- Wood Hammer
+- Ingrain
+- Substitute
+- Avalanche

@@ -1,0 +1,27 @@
+Togetic @ Lax Incense
+Ability: Serene Grace
+- Aerial Ace
+- Dazzling Gleam
+- Wish
+- Follow Me
+
+Shieldon @ Focus Sash
+Ability: Sturdy
+- Take Down
+- Protect
+- Iron Defense
+- Metal Sound
+
+Onix @ Sitrus Berry
+Ability: Sturdy
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm
+
+Kricketune @ Metronome
+Ability: Swarm
+- Fury Cutter
+- Sticky Web
+- Sing
+- Growl

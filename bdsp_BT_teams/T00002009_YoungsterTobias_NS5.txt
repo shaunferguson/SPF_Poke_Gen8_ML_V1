@@ -1,0 +1,20 @@
+Quagsire @ Leftovers
+Ability: Water Absorb
+- Body Slam
+- Rock Slide
+- Ice Beam
+- Brick Break
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Protect
+- Spore
+- Leech Seed
+- Low Sweep
+
+Feraligatr @ King's Rock
+Ability: Torrent
+- Scary Face
+- Waterfall
+- Rock Slide
+- Ice Fang

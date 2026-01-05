@@ -1,0 +1,20 @@
+Heracross @ Focus Band
+Ability: Moxie
+- Close Combat
+- Stone Edge
+- Megahorn
+- Earthquake
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Acid Armor
+- Rest
+
+Tangrowth @ Big Root
+Ability: Regenerator
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain

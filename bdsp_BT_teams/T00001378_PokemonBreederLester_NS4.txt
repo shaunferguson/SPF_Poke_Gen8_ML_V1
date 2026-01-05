@@ -1,0 +1,20 @@
+Sandslash @ Sitrus Berry
+Ability: Sand Rush
+- Crush Claw
+- Rock Slide
+- Earthquake
+- Sandstorm
+
+Purugly @ Silk Scarf
+Ability: Thick Fat
+- Slash
+- U-turn
+- Attract
+- Fake Out
+
+Fearow @ Sharp Beak
+Ability: Keen Eye
+- Drill Peck
+- Tri Attack
+- Facade
+- Roost

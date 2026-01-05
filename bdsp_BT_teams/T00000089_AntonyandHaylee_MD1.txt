@@ -1,0 +1,27 @@
+Porygon-Z @ Bright Powder
+Ability: Download
+- Thunderbolt
+- Ice Beam
+- Shadow Ball
+- Tri Attack
+
+Cresselia @ Lum Berry
+Ability: Levitate
+- Double Team
+- Moonlight
+- Calm Mind
+- Ice Beam
+
+Dewgong @ Leftovers
+Ability: Thick Fat
+- Sheer Cold
+- Horn Drill
+- Rest
+- Sleep Talk
+
+Houndoom @ White Herb
+Ability: Flash Fire
+- Sunny Day
+- Overheat
+- Solar Beam
+- Dark Pulse

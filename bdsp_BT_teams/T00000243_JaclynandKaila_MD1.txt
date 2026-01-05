@@ -1,0 +1,27 @@
+Latias @ Lum Berry
+Ability: Levitate
+- Calm Mind
+- Dragon Pulse
+- Psychic
+- Roost
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam
+
+Houndoom @ White Herb
+Ability: Flash Fire
+- Sunny Day
+- Overheat
+- Solar Beam
+- Dark Pulse
+
+Raikou @ Shuca Berry
+Ability: Pressure
+- Thunderbolt
+- Scald
+- Shadow Ball
+- Calm Mind

@@ -1,0 +1,27 @@
+Butterfree @ Leftovers
+Ability: Compound Eyes
+- Sleep Powder
+- Quiver Dance
+- Substitute
+- Bug Buzz
+
+Mothim @ Coba Berry
+Ability: Tinted Lens
+- Psybeam
+- Gust
+- Poison Powder
+- Bug Buzz
+
+Grovyle @ Bright Powder
+Ability: Overgrow
+- Fury Cutter
+- Endeavor
+- Brick Break
+- Double Team
+
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility

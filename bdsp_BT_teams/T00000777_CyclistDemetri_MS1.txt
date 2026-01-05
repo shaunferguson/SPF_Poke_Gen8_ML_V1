@@ -1,0 +1,20 @@
+Leafeon @ Shed Shell
+Ability: Chlorophyll
+- Grass Knot
+- Aerial Ace
+- Energy Ball
+- Bite
+
+Jolteon @ Razor Claw
+Ability: Volt Absorb
+- Thunder Wave
+- Thunderbolt
+- Shadow Ball
+- Flash
+
+Moltres @ Bright Powder
+Ability: Flame Body
+- Overheat
+- Sky Attack
+- Fire Blast
+- U-turn

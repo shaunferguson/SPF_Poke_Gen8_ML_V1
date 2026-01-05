@@ -1,0 +1,20 @@
+Shuppet @ Rawst Berry
+Ability: Insomnia
+- Will-O-Wisp
+- Shadow Sneak
+- Grudge
+- Knock Off
+
+Torchic @ Sitrus Berry
+Ability: Blaze
+- Will-O-Wisp
+- Feather Dance
+- Double Team
+- Flamethrower
+
+Skiploom @ Big Root
+Ability: Chlorophyll
+- Mega Drain
+- Leech Seed
+- Cotton Spore
+- Synthesis

@@ -1,0 +1,27 @@
+Charizard @ Scope Lens
+Ability: Blaze
+- Flare Blitz
+- Aerial Ace
+- Crunch
+- Dragon Claw
+
+Metagross @ Occa Berry
+Ability: Clear Body
+- Magnet Rise
+- Rock Polish
+- Zen Headbutt
+- Meteor Mash
+
+Magnezone @ Quick Claw
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+Tangrowth @ Big Root
+Ability: Regenerator
+- Leech Seed
+- Double Team
+- Stun Spore
+- Giga Drain

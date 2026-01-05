@@ -1,0 +1,27 @@
+Kingler @ Scope Lens
+Ability: Hyper Cutter
+- Crabhammer
+- Metal Claw
+- Knock Off
+- Protect
+
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore
+
+Grumpig @ Petaya Berry
+Ability: Thick Fat
+- Psybeam
+- Confuse Ray
+- Future Sight
+- Magic Coat
+
+Dodrio @ Chesto Berry
+Ability: Early Bird
+- Drill Peck
+- Tri Attack
+- Sleep Talk
+- Rest

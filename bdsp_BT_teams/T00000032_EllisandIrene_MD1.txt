@@ -1,0 +1,27 @@
+Abomasnow @ Focus Sash
+Ability: Snow Warning
+- Blizzard
+- Energy Ball
+- Shadow Ball
+- Protect
+
+Rhyperior @ Life Orb
+Ability: Lightning Rod
+- Earthquake
+- Rock Slide
+- Thunder Punch
+- Poison Jab
+
+Bronzong @ Mental Herb
+Ability: Levitate
+- Gyro Ball
+- Body Press
+- Rock Slide
+- Trick Room
+
+Rotom @ Sitrus Berry
+Ability: Levitate
+- Hydro Pump
+- Discharge
+- Thunderbolt
+- Will-O-Wisp

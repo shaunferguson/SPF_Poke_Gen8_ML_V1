@@ -1,0 +1,20 @@
+Gastrodon @ Bright Powder
+Ability: Storm Drain
+- Earth Power
+- Scald
+- Ice Beam
+- Yawn
+
+Empoleon @ Chople Berry
+Ability: Defiant
+- Waterfall
+- Aqua Jet
+- Avalanche
+- Earthquake
+
+Probopass @ King's Rock
+Ability: Sturdy
+- Rock Polish
+- Earthquake
+- Stone Edge
+- Explosion

@@ -1,0 +1,20 @@
+Swellow @ Flame Orb
+Ability: Guts
+- Fly
+- Endeavor
+- Facade
+- Quick Attack
+
+Wormadam @ Coba Berry
+Ability: Overcoat
+- Razor Leaf
+- Psybeam
+- Protect
+- Bug Buzz
+
+Gligar @ Scope Lens
+Ability: Hyper Cutter
+- Metal Claw
+- Dig
+- Aerial Ace
+- Quick Attack

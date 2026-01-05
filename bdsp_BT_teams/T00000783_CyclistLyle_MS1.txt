@@ -1,0 +1,20 @@
+Heracross @ Lum Berry
+Ability: Moxie
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Steelix @ Life Orb
+Ability: Sheer Force
+- Iron Tail
+- Fire Fang
+- Stone Edge
+- Ice Fang
+
+Tangrowth @ Sitrus Berry
+Ability: Regenerator
+- Giga Drain
+- Focus Blast
+- Sludge Bomb
+- Sleep Powder

@@ -1,0 +1,20 @@
+Seviper @ Scope Lens
+Ability: Shed Skin
+- Poison Tail
+- Bite
+- Glare
+- Screech
+
+Magmar @ Rawst Berry
+Ability: Flame Body
+- Flamethrower
+- Smokescreen
+- Brick Break
+- Psychic
+
+Venomoth @ Persim Berry
+Ability: Shield Dust
+- Bug Buzz
+- Psybeam
+- Sleep Powder
+- Skill Swap

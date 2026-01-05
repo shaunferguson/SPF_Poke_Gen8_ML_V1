@@ -1,0 +1,20 @@
+Ampharos @ Light Clay
+Ability: Static
+- Reflect
+- Double Team
+- Focus Punch
+- Thunder Punch
+
+Crobat @ Sharp Beak
+Ability: Inner Focus
+- Sleep Talk
+- Cross Poison
+- Brave Bird
+- U-turn
+
+Froslass @ Wise Glasses
+Ability: Cursed Body
+- Shadow Ball
+- Blizzard
+- Attract
+- Thunderbolt

@@ -1,0 +1,20 @@
+Espeon @ Bright Powder
+Ability: Magic Bounce
+- Reflect
+- Shadow Ball
+- Psychic
+- Morning Sun
+
+Cresselia @ Lum Berry
+Ability: Levitate
+- Double Team
+- Moonlight
+- Calm Mind
+- Ice Beam
+
+Froslass @ Wise Glasses
+Ability: Cursed Body
+- Shadow Ball
+- Blizzard
+- Attract
+- Thunderbolt

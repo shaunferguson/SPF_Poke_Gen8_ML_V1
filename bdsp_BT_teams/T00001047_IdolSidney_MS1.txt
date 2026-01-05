@@ -1,0 +1,20 @@
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Heatran @ Bright Powder
+Ability: Flash Fire
+- Earth Power
+- Magma Storm
+- Dark Pulse
+- Flash Cannon
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+- Outrage
+- Earthquake
+- Thunder Punch
+- Brick Break

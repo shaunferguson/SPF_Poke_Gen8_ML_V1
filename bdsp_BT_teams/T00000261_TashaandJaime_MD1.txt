@@ -1,0 +1,27 @@
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Leaf Blade
+- Leech Seed
+- Synthesis
+- Protect
+
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Counter
+- Bullet Seed
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Protect
+- Perish Song
+
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash

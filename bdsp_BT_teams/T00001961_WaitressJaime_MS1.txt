@@ -1,0 +1,20 @@
+Scizor @ Bright Powder
+Ability: Technician
+- Swords Dance
+- Double Team
+- Bullet Punch
+- Roost
+
+Regigigas @ Shell Bell
+Ability: Slow Start
+- Thunderbolt
+- Focus Blast
+- Earthquake
+- Drain Punch
+
+Skarmory @ Life Orb
+Ability: Weak Armor
+- Brave Bird
+- Iron Head
+- Swords Dance
+- Rock Slide

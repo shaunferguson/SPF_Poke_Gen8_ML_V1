@@ -1,0 +1,20 @@
+Castform @ Persim Berry
+Ability: Forecast
+- Ember
+- Water Pulse
+- Shock Wave
+- Weather Ball
+
+Chatot @ Yache Berry
+Ability: Big Pecks
+- Chatter
+- Torment
+- Sing
+- U-turn
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

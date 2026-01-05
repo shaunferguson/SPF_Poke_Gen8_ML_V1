@@ -1,0 +1,27 @@
+Snubbull @ Scope Lens
+Ability: Intimidate
+- Bite
+- Charm
+- Swagger
+- Scary Face
+
+Chimecho @ Grip Claw
+Ability: Levitate
+- Wrap
+- Yawn
+- Uproar
+- Astonish
+
+Clamperl @ Deep Sea Scale
+Ability: Shell Armor
+- Surf
+- Protect
+- Iron Defense
+- Double Team
+
+Spoink @ Sitrus Berry
+Ability: Thick Fat
+- Psychic
+- Bounce
+- Magic Coat
+- Confuse Ray

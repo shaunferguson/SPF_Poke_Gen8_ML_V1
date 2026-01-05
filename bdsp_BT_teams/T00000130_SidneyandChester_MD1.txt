@@ -1,0 +1,27 @@
+Togekiss @ Scope Lens
+Ability: Super Luck
+- Air Slash
+- Flamethrower
+- Dazzling Gleam
+- Thunder Wave
+
+Charizard @ Sitrus Berry
+Ability: Blaze
+- Belly Drum
+- Dragon Claw
+- Fire Punch
+- Earthquake
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Calm Mind
+- Flamethrower
+- Substitute
+
+Articuno @ Bright Powder
+Ability: Pressure
+- Sheer Cold
+- Mind Reader
+- Substitute
+- Roost

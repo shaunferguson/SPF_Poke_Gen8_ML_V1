@@ -1,0 +1,27 @@
+Slowking @ Wave Incense
+Ability: Oblivious
+- Grass Knot
+- Psychic
+- Scald
+- Flamethrower
+
+Lanturn @ Quick Claw
+Ability: Volt Absorb
+- Charge
+- Charge Beam
+- Hydro Pump
+- Ice Beam
+
+Whiscash @ Chesto Berry
+Ability: Oblivious
+- Fissure
+- Amnesia
+- Spark
+- Rest
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+- Earthquake
+- Ice Fang
+- Slack Off
+- Yawn

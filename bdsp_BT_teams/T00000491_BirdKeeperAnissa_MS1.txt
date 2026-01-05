@@ -1,0 +1,20 @@
+Porygon2 @ Wise Glasses
+Ability: Trace
+- Ice Beam
+- Defense Curl
+- Recover
+- Tri Attack
+
+Dugtrio @ Razor Claw
+Ability: Arena Trap
+- Fissure
+- Earthquake
+- Aerial Ace
+- Night Slash
+
+Donphan @ Bright Powder
+Ability: Sturdy
+- Earthquake
+- Stone Edge
+- Thunder Fang
+- Ice Shard

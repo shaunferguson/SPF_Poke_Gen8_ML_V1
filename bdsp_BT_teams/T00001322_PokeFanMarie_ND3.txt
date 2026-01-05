@@ -1,0 +1,27 @@
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
+
+Seadra @ Mystic Water
+Ability: Sniper
+- Aurora Beam
+- Smokescreen
+- Water Gun
+- Rain Dance
+
+Misdreavus @ Focus Band
+Ability: Levitate
+- Pain Split
+- Shadow Ball
+- Confuse Ray
+- Thunder Wave
+
+Swellow @ Flame Orb
+Ability: Guts
+- Fly
+- Endeavor
+- Facade
+- Quick Attack

@@ -1,0 +1,27 @@
+Plusle @ Petaya Berry
+Ability: Plus
+- Spark
+- Fake Tears
+- Quick Attack
+- Helping Hand
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance
+
+Ponyta @ Passho Berry
+Ability: Flame Body
+- Flame Charge
+- Iron Tail
+- Take Down
+- Tail Whip
+
+Staryu @ Shell Bell
+Ability: Illuminate
+- Surf
+- Minimize
+- Swift
+- Light Screen

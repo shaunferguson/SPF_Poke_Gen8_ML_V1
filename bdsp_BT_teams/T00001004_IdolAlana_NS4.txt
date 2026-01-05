@@ -1,0 +1,20 @@
+Omastar @ Shell Bell
+Ability: Swift Swim
+- Bubble Beam
+- Rock Blast
+- Tickle
+- Ancient Power
+
+Tropius @ Sitrus Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Whirlwind
+- Aerial Ace
+- Steel Wing
+
+Rotom @ Cheri Berry
+Ability: Levitate
+- Thunderbolt
+- Shadow Ball
+- Thunder Wave
+- Confuse Ray

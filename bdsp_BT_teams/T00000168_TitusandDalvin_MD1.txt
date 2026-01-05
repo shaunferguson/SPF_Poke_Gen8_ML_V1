@@ -1,0 +1,27 @@
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash
+
+Suicune @ Leftovers
+Ability: Pressure
+- Rest
+- Sleep Talk
+- Scald
+- Ice Beam
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance
+
+Cresselia @ Wiki Berry
+Ability: Levitate
+- Calm Mind
+- Moonlight
+- Moonblast
+- Psyshock

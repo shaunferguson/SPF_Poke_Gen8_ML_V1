@@ -1,0 +1,27 @@
+Regigigas @ Shell Bell
+Ability: Slow Start
+- Thunderbolt
+- Focus Blast
+- Earthquake
+- Drain Punch
+
+Cresselia @ Lum Berry
+Ability: Levitate
+- Double Team
+- Moonlight
+- Calm Mind
+- Ice Beam
+
+Articuno @ Icy Rock
+Ability: Snow Cloak
+- Swagger
+- Hail
+- Roost
+- Blizzard
+
+Victreebel @ Scope Lens
+Ability: Chlorophyll
+- Power Whip
+- Leech Life
+- Swords Dance
+- Poison Jab

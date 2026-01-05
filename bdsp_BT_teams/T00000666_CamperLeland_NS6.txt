@@ -1,0 +1,20 @@
+Golem @ Liechi Berry
+Ability: Sturdy
+- Endure
+- Earthquake
+- Flail
+- Rock Tomb
+
+Exeggutor @ Leftovers
+Ability: Chlorophyll
+- Giga Drain
+- Leech Seed
+- Double Team
+- Substitute
+
+Muk @ Black Sludge
+Ability: Poison Touch
+- Poison Jab
+- Minimize
+- Acid Armor
+- Brick Break

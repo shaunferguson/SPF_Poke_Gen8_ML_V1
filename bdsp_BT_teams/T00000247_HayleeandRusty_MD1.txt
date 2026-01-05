@@ -1,0 +1,27 @@
+Magmortar @ Sitrus Berry
+Ability: Vital Spirit
+- Fire Blast
+- Thunderbolt
+- Psychic
+- Belch
+
+Cradily @ Leftovers
+Ability: Storm Drain
+- Giga Drain
+- Sludge Bomb
+- Stockpile
+- Leech Seed
+
+Togekiss @ Scope Lens
+Ability: Super Luck
+- Air Slash
+- Flamethrower
+- Dazzling Gleam
+- Thunder Wave
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder

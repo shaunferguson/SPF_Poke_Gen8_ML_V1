@@ -1,0 +1,27 @@
+Pachirisu @ Shuca Berry
+Ability: Volt Absorb
+- Discharge
+- Sweet Kiss
+- Quick Attack
+- Nuzzle
+
+Mime Jr. @ Lax Incense
+Ability: Soundproof
+- Copycat
+- Confusion
+- Reflect
+- Light Screen
+
+Nidorino @ Focus Band
+Ability: Poison Point
+- Double Kick
+- Water Pulse
+- Toxic Spikes
+- Flatter
+
+Farfetch'd @ Leek
+Ability: Defiant
+- Slash
+- Knock Off
+- Swords Dance
+- Agility

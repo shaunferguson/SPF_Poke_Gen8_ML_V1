@@ -1,0 +1,20 @@
+Salamence @ Yache Berry
+Ability: Intimidate
+- Dragon Dance
+- Earthquake
+- Outrage
+- Crunch
+
+Magnezone @ Custap Berry
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Body Press
+- Tri Attack
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam

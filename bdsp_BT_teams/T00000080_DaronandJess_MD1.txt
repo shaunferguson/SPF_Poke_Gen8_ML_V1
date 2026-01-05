@@ -1,0 +1,27 @@
+Latios @ Expert Belt
+Ability: Levitate
+- Psychic
+- Dragon Pulse
+- Ice Beam
+- Shadow Ball
+
+Suicune @ Wacan Berry
+Ability: Pressure
+- Rest
+- Icy Wind
+- Calm Mind
+- Scald
+
+Dewgong @ Chesto Berry
+Ability: Thick Fat
+- Encore
+- Disable
+- Rest
+- Ice Beam
+
+Gallade @ Kasib Berry
+Ability: Steadfast
+- Psycho Cut
+- Close Combat
+- Shadow Sneak
+- Destiny Bond

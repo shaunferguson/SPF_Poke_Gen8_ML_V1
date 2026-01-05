@@ -1,0 +1,20 @@
+Politoed @ Sitrus Berry
+Ability: Drizzle
+- Scald
+- Ice Beam
+- Protect
+- Perish Song
+
+Registeel @ Life Orb
+Ability: Clear Body
+- Explosion
+- Iron Head
+- Flash Cannon
+- Thunderbolt
+
+Claydol @ Leftovers
+Ability: Levitate
+- Iron Defense
+- Body Press
+- Ice Beam
+- Earth Power

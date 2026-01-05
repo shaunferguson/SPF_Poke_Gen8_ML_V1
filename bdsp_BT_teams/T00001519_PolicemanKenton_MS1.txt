@@ -1,0 +1,20 @@
+Gardevoir @ Choice Specs
+Ability: Trace
+- Moonblast
+- Psychic
+- Thunderbolt
+- Mystical Fire
+
+Charizard @ Sitrus Berry
+Ability: Blaze
+- Belly Drum
+- Dragon Claw
+- Fire Punch
+- Earthquake
+
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+- Head Smash
+- Zen Headbutt
+- Earthquake
+- Iron Head

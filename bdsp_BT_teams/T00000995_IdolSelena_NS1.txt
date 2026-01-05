@@ -1,0 +1,20 @@
+Torchic @ Shuca Berry
+Ability: Blaze
+- Flame Charge
+- Quick Attack
+- Sand Attack
+- Double Team
+
+Chimecho @ Grip Claw
+Ability: Levitate
+- Wrap
+- Yawn
+- Uproar
+- Astonish
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen

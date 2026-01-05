@@ -1,0 +1,20 @@
+Gallade @ Kasib Berry
+Ability: Steadfast
+- Psycho Cut
+- Close Combat
+- Shadow Sneak
+- Destiny Bond
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+- Surf
+- Earth Power
+- Recover
+- Counter
+
+Ludicolo @ Lum Berry
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Grass Knot
+- Focus Blast

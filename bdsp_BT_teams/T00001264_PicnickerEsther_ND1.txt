@@ -1,0 +1,27 @@
+Chikorita @ Bright Powder
+Ability: Overgrow
+- Body Slam
+- Bullet Seed
+- Growl
+- Light Screen
+
+Squirtle @ Sitrus Berry
+Ability: Torrent
+- Water Pulse
+- Brine
+- Ice Beam
+- Protect
+
+Tentacool @ Pecha Berry
+Ability: Liquid Ooze
+- Bubble Beam
+- Acid
+- Sludge Bomb
+- Wrap
+
+Rhyhorn @ Focus Band
+Ability: Rock Head
+- Rock Blast
+- Dig
+- Scary Face
+- Roar

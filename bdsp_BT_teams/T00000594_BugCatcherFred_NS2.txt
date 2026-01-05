@@ -1,0 +1,27 @@
+Sandshrew @ Soft Sand
+Ability: Sand Rush
+- Dig
+- Rock Tomb
+- Sandstorm
+- Sand Attack
+
+Baltoy @ Twisted Spoon
+Ability: Levitate
+- Psybeam
+- Ancient Power
+- Light Screen
+- Mud-Slap
+
+Goldeen @ Petaya Berry
+Ability: Lightning Rod
+- Waterfall
+- Peck
+- Agility
+- Horn Drill
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance

@@ -1,0 +1,27 @@
+Lopunny @ Focus Band
+Ability: Limber
+- Fire Punch
+- Charm
+- Encore
+- Thunder Punch
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+- Spore
+- Substitute
+- Bulk Up
+- Rock Tomb
+
+Salamence @ King's Rock
+Ability: Intimidate
+- Dragon Dance
+- Earthquake
+- Outrage
+- Zen Headbutt
+
+Gallade @ Kasib Berry
+Ability: Steadfast
+- Psycho Cut
+- Close Combat
+- Shadow Sneak
+- Destiny Bond

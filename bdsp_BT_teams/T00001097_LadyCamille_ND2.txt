@@ -1,0 +1,27 @@
+Onix @ Sitrus Berry
+Ability: Sturdy
+- Rock Slide
+- Bind
+- Dragon Breath
+- Sandstorm
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze
+
+Roselia @ Black Sludge
+Ability: Poison Point
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore
+
+Exeggcute @ Persim Berry
+Ability: Chlorophyll
+- Confusion
+- Giga Drain
+- Leech Seed
+- Light Screen

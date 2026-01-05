@@ -1,0 +1,20 @@
+Bidoof @ Leftovers
+Ability: Simple
+- Curse
+- Headbutt
+- Pluck
+- Yawn
+
+Treecko @ Focus Sash
+Ability: Overgrow
+- Mega Drain
+- Endeavor
+- Brick Break
+- Rock Slide
+
+Nuzleaf @ Sitrus Berry
+Ability: Chlorophyll
+- Extrasensory
+- Fake Out
+- Razor Leaf
+- Rock Tomb

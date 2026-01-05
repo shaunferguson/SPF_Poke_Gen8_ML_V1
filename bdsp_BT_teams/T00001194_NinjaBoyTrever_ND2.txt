@@ -1,0 +1,27 @@
+Cherubi @ Occa Berry
+Ability: Chlorophyll
+- Magical Leaf
+- Leech Seed
+- Sunny Day
+- Take Down
+
+Bagon @ Liechi Berry
+Ability: Rock Head
+- Dragon Breath
+- Headbutt
+- Brick Break
+- Scary Face
+
+Skorupi @ Payapa Berry
+Ability: Battle Armor
+- Poison Sting
+- Bite
+- Scary Face
+- Toxic Spikes
+
+Teddiursa @ Chesto Berry
+Ability: Pickup
+- Lick
+- Fake Tears
+- Brick Break
+- Rest

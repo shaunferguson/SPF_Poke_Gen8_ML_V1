@@ -1,0 +1,27 @@
+Starly @ Sharp Beak
+Ability: Keen Eye
+- Wing Attack
+- Quick Attack
+- Growl
+- Endeavor
+
+Corphish @ Mystic Water
+Ability: Adaptability
+- Crabhammer
+- Water Pulse
+- Knock Off
+- Protect
+
+Lombre @ Yache Berry
+Ability: Swift Swim
+- Water Pulse
+- Fake Out
+- Brick Break
+- Absorb
+
+Spoink @ Sitrus Berry
+Ability: Thick Fat
+- Psychic
+- Bounce
+- Magic Coat
+- Confuse Ray

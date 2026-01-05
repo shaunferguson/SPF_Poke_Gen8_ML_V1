@@ -1,0 +1,27 @@
+Charmander @ Scope Lens
+Ability: Blaze
+- Fire Fang
+- Brick Break
+- Smokescreen
+- Scary Face
+
+Larvitar @ Persim Berry
+Ability: Guts
+- Thrash
+- Rock Slide
+- Dig
+- Bite
+
+Houndour @ Charcoal
+Ability: Flash Fire
+- Crunch
+- Ember
+- Roar
+- Protect
+
+Stunky @ Poison Barb
+Ability: Aftermath
+- Poison Gas
+- Fury Swipes
+- Screech
+- Smokescreen

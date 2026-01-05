@@ -1,0 +1,27 @@
+Sableye @ Black Glasses
+Ability: Prankster
+- Will-O-Wisp
+- Confuse Ray
+- Night Shade
+- Fake Out
+
+Venonat @ Sitrus Berry
+Ability: Compound Eyes
+- Psybeam
+- Supersonic
+- Stun Spore
+- Skill Swap
+
+Roselia @ Black Sludge
+Ability: Poison Point
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore
+
+Magby @ Lax Incense
+Ability: Flame Body
+- Fire Punch
+- Smokescreen
+- Confuse Ray
+- Smog

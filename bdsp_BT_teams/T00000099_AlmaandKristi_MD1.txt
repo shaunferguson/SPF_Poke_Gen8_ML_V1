@@ -1,0 +1,27 @@
+Bastiodon @ Muscle Band
+Ability: Sturdy
+- Iron Head
+- Iron Tail
+- Metal Burst
+- Stone Edge
+
+Blissey @ Leftovers
+Ability: Serene Grace
+- Soft-Boiled
+- Tri Attack
+- Thunderbolt
+- Flamethrower
+
+Glalie @ Scope Lens
+Ability: Moody
+- Ice Beam
+- Shadow Ball
+- Water Pulse
+- Safeguard
+
+Weavile @ Chople Berry
+Ability: Pickpocket
+- Night Slash
+- Ice Shard
+- Ice Punch
+- Fake Out

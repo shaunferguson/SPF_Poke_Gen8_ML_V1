@@ -1,0 +1,20 @@
+Budew @ Big Root
+Ability: Poison Point
+- Giga Drain
+- Stun Spore
+- Worry Seed
+- Growth
+
+Bidoof @ Metronome
+Ability: Simple
+- Defense Curl
+- Headbutt
+- Rollout
+- Yawn
+
+Growlithe @ Shuca Berry
+Ability: Intimidate
+- Flame Wheel
+- Bite
+- Roar
+- Agility

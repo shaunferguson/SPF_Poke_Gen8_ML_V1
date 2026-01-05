@@ -1,0 +1,20 @@
+Noctowl @ Persim Berry
+Ability: Keen Eye
+- Air Slash
+- Aerial Ace
+- Psychic
+- Reflect
+
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+- Shadow Claw
+- Earthquake
+- Rock Slide
+- Thief
+
+Weezing @ Leftovers
+Ability: Levitate
+- Will-O-Wisp
+- Double Team
+- Sludge Bomb
+- Substitute

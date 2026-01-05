@@ -1,0 +1,20 @@
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize
+
+Gligar @ Scope Lens
+Ability: Hyper Cutter
+- Metal Claw
+- Dig
+- Aerial Ace
+- Quick Attack
+
+Wigglytuff @ Silk Scarf
+Ability: Competitive
+- Sing
+- Disable
+- Wish
+- Dazzling Gleam

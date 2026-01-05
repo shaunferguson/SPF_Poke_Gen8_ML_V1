@@ -1,0 +1,20 @@
+Honchkrow @ Sharp Beak
+Ability: Super Luck
+- Night Slash
+- Pluck
+- Aerial Ace
+- Roost
+
+Magnezone @ Bright Powder
+Ability: Sturdy
+- Body Press
+- Thunderbolt
+- Volt Switch
+- Flash Cannon
+
+Heatran @ Shuca Berry
+Ability: Flash Fire
+- Flamethrower
+- Earth Power
+- Dragon Pulse
+- Ancient Power

@@ -1,0 +1,20 @@
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block
+
+Anorith @ Scope Lens
+Ability: Battle Armor
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun
+
+Volbeat @ Liechi Berry
+Ability: Swarm
+- Bug Buzz
+- Confuse Ray
+- Quick Attack
+- Helping Hand

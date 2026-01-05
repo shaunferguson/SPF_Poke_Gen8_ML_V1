@@ -1,0 +1,20 @@
+Dusknoir @ Bright Powder
+Ability: Pressure
+- Double Team
+- Rest
+- Sleep Talk
+- Night Shade
+
+Mismagius @ Leftovers
+Ability: Levitate
+- Shadow Ball
+- Dark Pulse
+- Charge Beam
+- Imprison
+
+Slaking @ Wide Lens
+Ability: Truant
+- Hyper Beam
+- Blizzard
+- Fire Blast
+- Thunderbolt

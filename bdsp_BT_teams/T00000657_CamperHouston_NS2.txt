@@ -1,0 +1,27 @@
+Kadabra @ Twisted Spoon
+Ability: Inner Focus
+- Confusion
+- Role Play
+- Future Sight
+- Disable
+
+Poliwhirl @ Petaya Berry
+Ability: Water Absorb
+- Water Pulse
+- Earth Power
+- Hypnosis
+- Rain Dance
+
+Buneary @ Black Belt
+Ability: Limber
+- Bounce
+- Quick Attack
+- Charm
+- Splash
+
+Aipom @ Silk Scarf
+Ability: Skill Link
+- Fury Swipes
+- Sand Attack
+- Baton Pass
+- Agility

@@ -1,0 +1,27 @@
+Leafeon @ Shed Shell
+Ability: Chlorophyll
+- Grass Knot
+- Aerial Ace
+- Energy Ball
+- Bite
+
+Cradily @ Sitrus Berry
+Ability: Storm Drain
+- Mirror Coat
+- Energy Ball
+- Stone Edge
+- Ingrain
+
+Heatran @ Bright Powder
+Ability: Flash Fire
+- Earth Power
+- Magma Storm
+- Dark Pulse
+- Flash Cannon
+
+Absol @ Focus Sash
+Ability: Pressure
+- Swagger
+- Night Slash
+- Sucker Punch
+- Taunt

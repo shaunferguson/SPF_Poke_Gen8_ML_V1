@@ -1,0 +1,27 @@
+Articuno @ Chesto Berry
+Ability: Pressure
+- Agility
+- Ice Beam
+- Water Pulse
+- Rest
+
+Golduck @ Muscle Band
+Ability: Cloud Nine
+- Swagger
+- Psych Up
+- Waterfall
+- Cross Chop
+
+Blaziken @ Passho Berry
+Ability: Speed Boost
+- Overheat
+- Flare Blitz
+- Protect
+- Close Combat
+
+Hypno @ Quick Claw
+Ability: Insomnia
+- Zen Headbutt
+- Brick Break
+- Swagger
+- Psych Up

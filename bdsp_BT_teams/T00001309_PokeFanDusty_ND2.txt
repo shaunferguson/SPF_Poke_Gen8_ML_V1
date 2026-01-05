@@ -1,0 +1,27 @@
+Mudkip @ Rindo Berry
+Ability: Torrent
+- Water Pulse
+- Endeavor
+- Rock Slide
+- Dig
+
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Eevee @ Salac Berry
+Ability: Adaptability
+- Charm
+- Attract
+- Take Down
+- Endure
+
+Staravia @ Charti Berry
+Ability: Intimidate
+- Endeavor
+- Aerial Ace
+- Whirlwind
+- Quick Attack

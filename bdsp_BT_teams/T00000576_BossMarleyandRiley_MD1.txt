@@ -1,0 +1,27 @@
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+- Flare Blitz
+- Wild Charge
+- Play Rough
+- Will-O-Wisp
+
+Aerodactyl @ Muscle Band
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Iron Head
+
+Salamence @ Yache Berry
+Ability: Intimidate
+- Heat Wave
+- Draco Meteor
+- Hurricane
+- Protect
+
+Lucario @ Focus Sash
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Earthquake
+- Rock Slide

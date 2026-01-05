@@ -1,0 +1,20 @@
+Vespiquen @ Razor Claw
+Ability: Pressure
+- Attack Order
+- Slash
+- Defend Order
+- -
+
+Jynx @ Bright Powder
+Ability: Dry Skin
+- Mean Look
+- Perish Song
+- Protect
+- Lovely Kiss
+
+Staraptor @ Choice Band
+Ability: Intimidate
+- Brave Bird
+- Close Combat
+- U-turn
+- Facade

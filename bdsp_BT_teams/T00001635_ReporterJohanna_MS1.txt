@@ -1,0 +1,20 @@
+Garchomp @ Focus Sash
+Ability: Rough Skin
+- Draco Meteor
+- Earthquake
+- Rock Tomb
+- Stealth Rock
+
+Mismagius @ Leftovers
+Ability: Levitate
+- Shadow Ball
+- Dark Pulse
+- Charge Beam
+- Imprison
+
+Aggron @ Shuca Berry
+Ability: Sturdy
+- Stone Edge
+- Avalanche
+- Payback
+- Earthquake

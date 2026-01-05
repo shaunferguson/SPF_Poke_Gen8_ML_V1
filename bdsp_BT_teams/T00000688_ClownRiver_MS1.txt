@@ -1,0 +1,20 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+- Waterfall
+- Ice Punch
+- Crunch
+- Dragon Dance
+
+Raikou @ Choice Specs
+Ability: Inner Focus
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Scald

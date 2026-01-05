@@ -1,0 +1,27 @@
+Electivire @ Focus Sash
+Ability: Motor Drive
+- Wild Charge
+- Earthquake
+- Ice Punch
+- Quick Attack
+
+Nidoqueen @ Life Orb
+Ability: Sheer Force
+- Sludge Wave
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+- Scald
+- Acid Armor
+- Yawn
+- Baton Pass
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn

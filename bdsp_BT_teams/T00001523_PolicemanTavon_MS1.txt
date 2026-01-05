@@ -1,0 +1,20 @@
+Lapras @ Sitrus Berry
+Ability: Water Absorb
+- Surf
+- Freeze-Dry
+- Thunderbolt
+- Sheer Cold
+
+Miltank @ Metronome
+Ability: Thick Fat
+- Defense Curl
+- Rollout
+- Milk Drink
+- Thunder Wave
+
+Regigigas @ Leftovers
+Ability: Slow Start
+- Crush Grip
+- Drain Punch
+- Knock Off
+- Protect

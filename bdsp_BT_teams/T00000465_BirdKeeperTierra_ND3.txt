@@ -1,0 +1,27 @@
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind
+
+Elekid @ Cheri Berry
+Ability: Static
+- Thunder Punch
+- Quick Attack
+- Swift
+- Light Screen
+
+Croconaw @ Scope Lens
+Ability: Torrent
+- Slash
+- Water Pulse
+- Bite
+- Scary Face
+
+Solrock @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm

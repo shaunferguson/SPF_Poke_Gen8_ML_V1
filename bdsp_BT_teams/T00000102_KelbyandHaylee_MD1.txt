@@ -1,0 +1,27 @@
+Moltres @ Heat Rock
+Ability: Flame Body
+- Sunny Day
+- Flamethrower
+- Solar Beam
+- Endure
+
+Donphan @ Focus Band
+Ability: Sturdy
+- Counter
+- Stealth Rock
+- Roar
+- Fire Fang
+
+Mamoswine @ Leftovers
+Ability: Thick Fat
+- Fissure
+- Double Team
+- Avalanche
+- Earthquake
+
+Nidoqueen @ Wide Lens
+Ability: Sheer Force
+- Earth Power
+- Sludge Bomb
+- Fire Blast
+- Blizzard

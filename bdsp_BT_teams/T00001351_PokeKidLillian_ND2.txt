@@ -1,0 +1,27 @@
+Clefairy @ Lax Incense
+Ability: Magic Guard
+- Moonblast
+- Metronome
+- Encore
+- Sing
+
+Elekid @ Cheri Berry
+Ability: Static
+- Thunder Punch
+- Quick Attack
+- Swift
+- Light Screen
+
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Anorith @ Scope Lens
+Ability: Battle Armor
+- Metal Claw
+- Fury Cutter
+- Ancient Power
+- Water Gun

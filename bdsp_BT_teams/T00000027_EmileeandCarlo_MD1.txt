@@ -1,0 +1,27 @@
+Snorlax @ Figy Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Lapras @ Sitrus Berry
+Ability: Water Absorb
+- Surf
+- Freeze-Dry
+- Thunderbolt
+- Sheer Cold
+
+Entei @ Choice Band
+Ability: Inner Focus
+- Sacred Fire
+- Extreme Speed
+- Crunch
+- Stone Edge
+
+Medicham @ Expert Belt
+Ability: Pure Power
+- High Jump Kick
+- Ice Punch
+- Fire Punch
+- Fake Out

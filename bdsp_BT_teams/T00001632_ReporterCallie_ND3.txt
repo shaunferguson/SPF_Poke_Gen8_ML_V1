@@ -1,0 +1,27 @@
+Pupitar @ Soft Sand
+Ability: Shed Skin
+- Dig
+- Bite
+- Scary Face
+- Sandstorm
+
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore
+
+Vigoroth @ Focus Band
+Ability: Vital Spirit
+- Slash
+- Counter
+- Encore
+- Uproar
+
+Sneasel @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop

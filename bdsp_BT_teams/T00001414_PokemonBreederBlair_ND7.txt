@@ -1,0 +1,27 @@
+Espeon @ Focus Sash
+Ability: Magic Bounce
+- Light Screen
+- Psychic
+- Shadow Ball
+- Dazzling Gleam
+
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Earthquake
+- Curse
+- Yawn
+
+Dusknoir @ Ganlon Berry
+Ability: Pressure
+- Curse
+- Pain Split
+- Ice Punch
+- Protect
+
+Blaziken @ Life Orb
+Ability: Blaze
+- Protect
+- Close Combat
+- Flare Blitz
+- Baton Pass

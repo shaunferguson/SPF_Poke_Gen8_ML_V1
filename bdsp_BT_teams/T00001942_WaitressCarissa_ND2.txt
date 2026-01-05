@@ -1,0 +1,27 @@
+Nosepass @ Hard Stone
+Ability: Sturdy
+- Rock Slide
+- Shock Wave
+- Thunder Wave
+- Sandstorm
+
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance
+
+Flaaffy @ Shuca Berry
+Ability: Static
+- Shock Wave
+- Thunder Wave
+- Cotton Spore
+- Light Screen

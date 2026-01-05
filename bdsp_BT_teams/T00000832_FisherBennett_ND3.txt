@@ -1,0 +1,27 @@
+Mightyena @ Mental Herb
+Ability: Intimidate
+- Bite
+- Poison Fang
+- Taunt
+- Roar
+
+Ivysaur @ Persim Berry
+Ability: Overgrow
+- Petal Dance
+- Growth
+- Sweet Scent
+- Take Down
+
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day
+
+Wormadam @ Coba Berry
+Ability: Overcoat
+- Razor Leaf
+- Psybeam
+- Protect
+- Bug Buzz

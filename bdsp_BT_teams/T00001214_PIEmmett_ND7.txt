@@ -1,0 +1,27 @@
+Glaceon @ Leftovers
+Ability: Ice Body
+- Mirror Coat
+- Tail Whip
+- Sand Attack
+- Last Resort
+
+Lapras @ Lum Berry
+Ability: Shell Armor
+- Dragon Dance
+- Body Slam
+- Waterfall
+- Ice Shard
+
+Probopass @ Rock Incense
+Ability: Sturdy
+- Rock Polish
+- Stealth Rock
+- Lock-On
+- Stone Edge
+
+Lucario @ Bright Powder
+Ability: Inner Focus
+- Dark Pulse
+- Dragon Pulse
+- Aura Sphere
+- Nasty Plot

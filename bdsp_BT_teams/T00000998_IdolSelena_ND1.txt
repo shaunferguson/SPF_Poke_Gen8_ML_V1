@@ -1,0 +1,27 @@
+Carvanha @ Shell Bell
+Ability: Rough Skin
+- Bite
+- Screech
+- Scary Face
+- Swagger
+
+Piplup @ Wacan Berry
+Ability: Torrent
+- Brine
+- Ice Beam
+- Grass Knot
+- Scald
+
+Shellos @ Lax Incense
+Ability: Storm Drain
+- Water Pulse
+- Mud-Slap
+- Harden
+- Rain Dance
+
+Aron @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Aerial Ace
+- Metal Sound
+- Roar

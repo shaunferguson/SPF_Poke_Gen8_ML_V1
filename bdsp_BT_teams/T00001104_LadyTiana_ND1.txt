@@ -1,0 +1,27 @@
+Geodude @ Sitrus Berry
+Ability: Sturdy
+- Bulldoze
+- Rock Blast
+- Strength
+- Protect
+
+Corphish @ Mystic Water
+Ability: Adaptability
+- Crabhammer
+- Water Pulse
+- Knock Off
+- Protect
+
+Drifloon @ Grip Claw
+Ability: Aftermath
+- Shadow Ball
+- Will-O-Wisp
+- Gust
+- Astonish
+
+Cranidos @ King's Rock
+Ability: Mold Breaker
+- Headbutt
+- Rock Slide
+- Scary Face
+- Leer

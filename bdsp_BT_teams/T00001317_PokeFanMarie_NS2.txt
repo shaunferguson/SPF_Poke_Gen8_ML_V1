@@ -1,0 +1,20 @@
+Cyndaquil @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Swift
+- Quick Attack
+- Smokescreen
+
+Luxio @ Magnet
+Ability: Intimidate
+- Spark
+- Bite
+- Roar
+- Swagger
+
+Roselia @ Black Sludge
+Ability: Poison Point
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore

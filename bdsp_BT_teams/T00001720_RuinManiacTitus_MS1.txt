@@ -1,0 +1,20 @@
+Marowak @ Thick Club
+Ability: Battle Armor
+- Thunder Punch
+- Stone Edge
+- Earthquake
+- Low Kick
+
+Snorlax @ Leftovers
+Ability: Immunity
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Alakazam @ Sitrus Berry
+Ability: Magic Guard
+- Psychic
+- Shadow Ball
+- Charge Beam
+- Energy Ball

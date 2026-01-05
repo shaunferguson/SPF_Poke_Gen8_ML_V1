@@ -1,0 +1,27 @@
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+- Rock Slide
+- Double-Edge
+- Sandstorm
+- Block
+
+Ariados @ Focus Sash
+Ability: Insomnia
+- Sticky Web
+- Toxic Spikes
+- Night Shade
+- Toxic Thread
+
+Sunflora @ Persim Berry
+Ability: Solar Power
+- Petal Dance
+- Ingrain
+- Leech Seed
+- Light Screen
+
+Roselia @ Black Sludge
+Ability: Poison Point
+- Magical Leaf
+- Toxic
+- Sludge Bomb
+- Cotton Spore

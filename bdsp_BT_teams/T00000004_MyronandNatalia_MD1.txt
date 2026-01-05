@@ -1,0 +1,27 @@
+Suicune @ Sitrus Berry
+Ability: Pressure
+- Tailwind
+- Icy Wind
+- Scald
+- Snarl
+
+Togekiss @ Salac Berry
+Ability: Serene Grace
+- Air Slash
+- Dazzling Gleam
+- Light Screen
+- Flamethrower
+
+Garchomp @ King's Rock
+Ability: Rough Skin
+- Dragon Claw
+- Rock Slide
+- Earthquake
+- Protect
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+- Rock Slide
+- Thunder Punch
+- Ice Punch
+- Crunch

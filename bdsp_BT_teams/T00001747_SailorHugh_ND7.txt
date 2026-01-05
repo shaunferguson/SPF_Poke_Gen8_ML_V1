@@ -1,0 +1,27 @@
+Probopass @ Rock Incense
+Ability: Sturdy
+- Rock Polish
+- Stealth Rock
+- Lock-On
+- Stone Edge
+
+Porygon2 @ Leftovers
+Ability: Analytic
+- Magnet Rise
+- Conversion
+- Recover
+- Charge Beam
+
+Swampert @ Lum Berry
+Ability: Torrent
+- Earthquake
+- Waterfall
+- Hammer Arm
+- Curse
+
+Empoleon @ Wacan Berry
+Ability: Torrent
+- Drill Peck
+- Brick Break
+- Aqua Jet
+- Ice Beam

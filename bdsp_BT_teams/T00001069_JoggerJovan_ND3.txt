@@ -1,0 +1,27 @@
+Masquerain @ Sitrus Berry
+Ability: Intimidate
+- Hydro Pump
+- Air Slash
+- Bug Buzz
+- Stun Spore
+
+Wobbuffet @ Leftovers
+Ability: Shadow Tag
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+Mightyena @ Mental Herb
+Ability: Intimidate
+- Bite
+- Poison Fang
+- Taunt
+- Roar
+
+Kricketune @ Metronome
+Ability: Swarm
+- Fury Cutter
+- Sticky Web
+- Sing
+- Growl

@@ -1,0 +1,27 @@
+Lanturn @ Sitrus Berry
+Ability: Water Absorb
+- Scald
+- Ice Beam
+- Volt Switch
+- Thunderbolt
+
+Ninetales @ Choice Specs
+Ability: Drought
+- Flamethrower
+- Solar Beam
+- Psyshock
+- Shadow Ball
+
+Alakazam @ Life Orb
+Ability: Magic Guard
+- Psyshock
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+Cradily @ Leftovers
+Ability: Storm Drain
+- Giga Drain
+- Sludge Bomb
+- Stockpile
+- Leech Seed

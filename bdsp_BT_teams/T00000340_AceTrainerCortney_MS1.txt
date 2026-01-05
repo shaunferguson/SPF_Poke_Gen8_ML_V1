@@ -1,0 +1,20 @@
+Zapdos @ Sharp Beak
+Ability: Static
+- Rain Dance
+- Thunder
+- Charge Beam
+- Drill Peck
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+- Earthquake
+- Ice Fang
+- Slack Off
+- Yawn
+
+Nidoking @ Wise Glasses
+Ability: Sheer Force
+- Earth Power
+- Dragon Pulse
+- Sludge Bomb
+- Sandstorm

@@ -1,0 +1,20 @@
+Lairon @ Metal Coat
+Ability: Sturdy
+- Metal Claw
+- Rock Tomb
+- Iron Defense
+- Protect
+
+Kecleon @ Focus Band
+Ability: Color Change
+- Brick Break
+- Psybeam
+- Magic Coat
+- Shadow Sneak
+
+Qwilfish @ Cheri Berry
+Ability: Intimidate
+- Bubble Beam
+- Pin Missile
+- Spikes
+- Minimize

@@ -1,0 +1,27 @@
+Yanma @ Lax Incense
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Double Team
+- Detect
+
+Sunflora @ Persim Berry
+Ability: Solar Power
+- Petal Dance
+- Ingrain
+- Leech Seed
+- Light Screen
+
+Sneasel @ Focus Sash
+Ability: Pickpocket
+- Ice Shard
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Weepinbell @ Aguav Berry
+Ability: Gluttony
+- Razor Leaf
+- Acid
+- Wrap
+- Sweet Scent

@@ -1,0 +1,20 @@
+Duskull @ Spell Tag
+Ability: Levitate
+- Shadow Sneak
+- Will-O-Wisp
+- Disable
+- Confuse Ray
+
+Corphish @ Mystic Water
+Ability: Adaptability
+- Crabhammer
+- Water Pulse
+- Knock Off
+- Protect
+
+Krabby @ Focus Sash
+Ability: Hyper Cutter
+- Crabhammer
+- Mud Shot
+- Flail
+- Guillotine

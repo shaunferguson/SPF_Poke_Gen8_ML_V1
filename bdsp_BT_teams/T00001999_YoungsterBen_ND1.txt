@@ -1,0 +1,27 @@
+Kricketot @ Sticky Barb
+Ability: Shed Skin
+- Struggle Bug
+- Bug Bite
+- Growl
+- Pound
+
+Chimchar @ Focus Sash
+Ability: Blaze
+- Flame Wheel
+- Acrobatics
+- Fury Swipes
+- Bulk Up
+
+Skorupi @ Payapa Berry
+Ability: Battle Armor
+- Poison Sting
+- Bite
+- Scary Face
+- Toxic Spikes
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze

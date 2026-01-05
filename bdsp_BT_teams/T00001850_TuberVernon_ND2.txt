@@ -1,0 +1,27 @@
+Porygon @ Sitrus Berry
+Ability: Download
+- Psybeam
+- Tri Attack
+- Recycle
+- Agility
+
+Elekid @ Cheri Berry
+Ability: Static
+- Thunder Punch
+- Quick Attack
+- Swift
+- Light Screen
+
+Loudred @ Focus Band
+Ability: Scrappy
+- Hyper Voice
+- Howl
+- Astonish
+- Supersonic
+
+Togetic @ Lax Incense
+Ability: Serene Grace
+- Aerial Ace
+- Dazzling Gleam
+- Wish
+- Follow Me

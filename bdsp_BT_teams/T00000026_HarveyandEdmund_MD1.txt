@@ -1,0 +1,27 @@
+Mr. Mime @ Light Clay
+Ability: Filter
+- Psychic
+- Light Screen
+- Reflect
+- Thunder Wave
+
+Skuntank @ Shuca Berry
+Ability: Aftermath
+- Night Slash
+- Poison Jab
+- Explosion
+- Flamethrower
+
+Zapdos @ Focus Band
+Ability: Pressure
+- Roost
+- Ancient Power
+- Drill Peck
+- Discharge
+
+Ludicolo @ Lum Berry
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Grass Knot
+- Focus Blast

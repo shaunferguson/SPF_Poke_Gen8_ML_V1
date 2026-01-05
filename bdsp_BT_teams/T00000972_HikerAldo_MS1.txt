@@ -1,0 +1,20 @@
+Feraligatr @ Life Orb
+Ability: Sheer Force
+- Waterfall
+- Ice Punch
+- Crunch
+- Dragon Dance
+
+Gastrodon @ Wiki Berry
+Ability: Storm Drain
+- Scald
+- Earth Power
+- Recover
+- Mirror Coat
+
+Leafeon @ Leftovers
+Ability: Chlorophyll
+- Leaf Blade
+- Leech Seed
+- Synthesis
+- Protect

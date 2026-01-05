@@ -1,0 +1,20 @@
+Lapras @ Sitrus Berry
+Ability: Shell Armor
+- Sheer Cold
+- Sleep Talk
+- Rest
+- Double Team
+
+Aerodactyl @ Yache Berry
+Ability: Pressure
+- Aerial Ace
+- Crunch
+- Rock Slide
+- Earthquake
+
+Electivire @ Focus Sash
+Ability: Motor Drive
+- Wild Charge
+- Earthquake
+- Ice Punch
+- Quick Attack

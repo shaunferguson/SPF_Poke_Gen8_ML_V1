@@ -1,0 +1,20 @@
+Turtwig @ Occa Berry
+Ability: Overgrow
+- Grass Knot
+- Bite
+- Curse
+- Withdraw
+
+Dratini @ Persim Berry
+Ability: Shed Skin
+- Outrage
+- Thunder Wave
+- Dragon Dance
+- Water Pulse
+
+Drowzee @ Sitrus Berry
+Ability: Insomnia
+- Confusion
+- Headbutt
+- Disable
+- Shadow Ball

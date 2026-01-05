@@ -1,0 +1,20 @@
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Lucario @ Lum Berry
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Ice Punch
+- Bullet Punch
+
+Breloom @ Focus Sash
+Ability: Technician
+- Spore
+- Mach Punch
+- Counter
+- Bullet Seed

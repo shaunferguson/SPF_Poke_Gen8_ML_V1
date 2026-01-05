@@ -1,0 +1,27 @@
+Golem @ Focus Band
+Ability: Sand Veil
+- Sandstorm
+- Defense Curl
+- Rock Blast
+- Gyro Ball
+
+Forretress @ Sitrus Berry
+Ability: Sturdy
+- Payback
+- Toxic Spikes
+- Gyro Ball
+- Spikes
+
+Mismagius @ Spell Tag
+Ability: Levitate
+- Shadow Ball
+- Payback
+- Energy Ball
+- Psychic
+
+Toxicroak @ Scope Lens
+Ability: Poison Touch
+- Poison Jab
+- X-Scissor
+- Giga Impact
+- Focus Blast

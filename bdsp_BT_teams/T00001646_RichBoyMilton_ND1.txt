@@ -1,0 +1,27 @@
+Squirtle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Withdraw
+- Protect
+
+Cyndaquil @ Sitrus Berry
+Ability: Blaze
+- Flame Charge
+- Lava Plume
+- Aerial Ace
+- Rollout
+
+Stunky @ Poison Barb
+Ability: Aftermath
+- Poison Gas
+- Fury Swipes
+- Screech
+- Smokescreen
+
+Krabby @ Focus Sash
+Ability: Hyper Cutter
+- Crabhammer
+- Mud Shot
+- Flail
+- Guillotine

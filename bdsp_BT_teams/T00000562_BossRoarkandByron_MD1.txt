@@ -1,0 +1,27 @@
+Rampardos @ Life Orb
+Ability: Sheer Force
+- Protect
+- Stone Edge
+- Zen Headbutt
+- Brick Break
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+- Rock Slide
+- Ice Punch
+- Fire Punch
+- Low Kick
+
+Bronzong @ Mental Herb
+Ability: Levitate
+- Trick Room
+- Gyro Ball
+- Rock Slide
+- Zen Headbutt
+
+Bastiodon @ Shuca Berry
+Ability: Sturdy
+- Iron Head
+- Rock Slide
+- Fissure
+- Body Slam

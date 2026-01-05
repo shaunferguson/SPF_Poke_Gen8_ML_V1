@@ -1,0 +1,20 @@
+Chimchar @ Sitrus Berry
+Ability: Blaze
+- Fire Spin
+- Double Team
+- Nasty Plot
+- Grass Knot
+
+Bonsly @ Passho Berry
+Ability: Sturdy
+- Fake Tears
+- Rock Throw
+- Copycat
+- Low Kick
+
+Delibird @ Never-Melt Ice
+Ability: Vital Spirit
+- Present
+- Ice Beam
+- Aerial Ace
+- Hail

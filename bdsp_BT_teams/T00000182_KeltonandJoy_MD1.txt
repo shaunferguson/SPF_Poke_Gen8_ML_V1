@@ -1,0 +1,27 @@
+Skarmory @ Occa Berry
+Ability: Sturdy
+- Drill Peck
+- Metal Sound
+- Double Team
+- Sand Attack
+
+Slowbro @ Quick Claw
+Ability: Regenerator
+- Calm Mind
+- Psychic
+- Shadow Ball
+- Flamethrower
+
+Regice @ Shell Bell
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Hyper Beam
+- Flash Cannon
+
+Mr. Mime @ Light Clay
+Ability: Filter
+- Psybeam
+- Reflect
+- Light Screen
+- Role Play

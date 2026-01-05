@@ -1,0 +1,27 @@
+Ninetales @ Shuca Berry
+Ability: Drought
+- Heat Wave
+- Solar Beam
+- Psyshock
+- Protect
+
+Charizard @ Choice Scarf
+Ability: Solar Power
+- Heat Wave
+- Air Slash
+- Flamethrower
+- Dragon Pulse
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+- Sleep Powder
+- Solar Beam
+- Weather Ball
+- Sludge Bomb
+
+Garchomp @ Yache Berry
+Ability: Rough Skin
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Brick Break

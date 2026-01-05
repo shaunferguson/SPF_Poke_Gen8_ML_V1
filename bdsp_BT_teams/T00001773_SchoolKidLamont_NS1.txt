@@ -1,0 +1,20 @@
+Turtwig @ Occa Berry
+Ability: Overgrow
+- Grass Knot
+- Bite
+- Curse
+- Withdraw
+
+Squirtle @ Sitrus Berry
+Ability: Torrent
+- Water Pulse
+- Brine
+- Ice Beam
+- Protect
+
+Magnemite @ Rawst Berry
+Ability: Sturdy
+- Shock Wave
+- Supersonic
+- Metal Sound
+- Reflect

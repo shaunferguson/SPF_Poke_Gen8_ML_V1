@@ -1,0 +1,27 @@
+Electivire @ Focus Sash
+Ability: Motor Drive
+- Wild Charge
+- Earthquake
+- Ice Punch
+- Quick Attack
+
+Lucario @ Lum Berry
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Ice Punch
+- Bullet Punch
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+- Body Slam
+- Curse
+- Heavy Slam
+- Yawn
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+- Waterfall
+- Ice Punch
+- Crunch
+- Dragon Dance

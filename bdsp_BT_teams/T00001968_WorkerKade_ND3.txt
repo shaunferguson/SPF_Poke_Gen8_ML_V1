@@ -1,0 +1,27 @@
+Furret @ Liechi Berry
+Ability: Keen Eye
+- Slam
+- Protect
+- Helping Hand
+- Follow Me
+
+Haunter @ Persim Berry
+Ability: Levitate
+- Shadow Punch
+- Confuse Ray
+- Spite
+- Grudge
+
+Wartortle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Rapid Spin
+- Yawn
+
+Lileep @ Lax Incense
+Ability: Storm Drain
+- Giga Drain
+- Acid
+- Ingrain
+- Confuse Ray

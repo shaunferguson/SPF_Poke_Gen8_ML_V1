@@ -1,0 +1,20 @@
+Articuno @ Bright Powder
+Ability: Pressure
+- Sheer Cold
+- Mind Reader
+- Substitute
+- Roost
+
+Metagross @ Figy Berry
+Ability: Clear Body
+- Ice Punch
+- Bullet Punch
+- Zen Headbutt
+- Meteor Mash
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+- Waterfall
+- Earthquake
+- Ice Fang
+- Dragon Dance

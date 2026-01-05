@@ -1,0 +1,27 @@
+Bastiodon @ Quick Claw
+Ability: Sturdy
+- Sandstorm
+- Thunder
+- Blizzard
+- Fire Blast
+
+Heracross @ Coba Berry
+Ability: Moxie
+- Megahorn
+- Stone Edge
+- Facade
+- Shadow Claw
+
+Suicune @ Chesto Berry
+Ability: Pressure
+- Calm Mind
+- Rest
+- Scald
+- Ice Beam
+
+Vespiquen @ Leftovers
+Ability: Pressure
+- Double Team
+- Defend Order
+- Roost
+- Toxic

@@ -1,0 +1,20 @@
+Glaceon @ Focus Sash
+Ability: Ice Body
+- Hyper Beam
+- Mirror Coat
+- Avalanche
+- Freeze-Dry
+
+Magmortar @ Wiki Berry
+Ability: Flame Body
+- Earthquake
+- Flamethrower
+- Thunderbolt
+- Will-O-Wisp
+
+Electrode @ Jaboca Berry
+Ability: Aftermath
+- Thunderbolt
+- Volt Switch
+- Swift
+- Thunder Wave

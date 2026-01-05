@@ -1,0 +1,20 @@
+Vileplume @ Black Sludge
+Ability: Chlorophyll
+- Toxic
+- Grass Knot
+- Double Team
+- Attract
+
+Hariyama @ Quick Claw
+Ability: Thick Fat
+- Belly Drum
+- Brick Break
+- Earthquake
+- Stone Edge
+
+Regice @ Chesto Berry
+Ability: Clear Body
+- Ice Beam
+- Ancient Power
+- Charge Beam
+- Rest

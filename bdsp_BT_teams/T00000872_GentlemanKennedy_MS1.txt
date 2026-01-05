@@ -1,0 +1,20 @@
+Blastoise @ Quick Claw
+Ability: Rain Dish
+- Hydro Pump
+- Ice Beam
+- Focus Blast
+- Rain Dance
+
+Flareon @ White Herb
+Ability: Flash Fire
+- Overheat
+- Giga Impact
+- Iron Tail
+- Quick Attack
+
+Regice @ Leftovers
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Protect
+- Focus Blast

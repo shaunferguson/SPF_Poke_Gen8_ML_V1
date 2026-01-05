@@ -1,0 +1,27 @@
+Bronzor @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Hypnosis
+- Confuse Ray
+- Gyro Ball
+
+Bulbasaur @ Leftovers
+Ability: Overgrow
+- Giga Drain
+- Toxic
+- Synthesis
+- Leech Seed
+
+Koffing @ Poison Barb
+Ability: Levitate
+- Sludge
+- Smokescreen
+- Torment
+- Haze
+
+Hippopotas @ Passho Berry
+Ability: Sand Stream
+- Bite
+- Sand Attack
+- Sand Tomb
+- Yawn

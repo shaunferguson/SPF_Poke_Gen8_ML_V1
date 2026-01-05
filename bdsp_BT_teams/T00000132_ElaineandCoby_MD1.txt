@@ -1,0 +1,27 @@
+Zapdos @ Bright Powder
+Ability: Pressure
+- Double Team
+- Roost
+- Discharge
+- Heat Wave
+
+Marowak @ Thick Club
+Ability: Battle Armor
+- Thunder Punch
+- Stone Edge
+- Earthquake
+- Low Kick
+
+Ludicolo @ Leftovers
+Ability: Rain Dish
+- Leech Seed
+- Double Team
+- Scald
+- Substitute
+
+Dewgong @ Chesto Berry
+Ability: Thick Fat
+- Encore
+- Disable
+- Rest
+- Ice Beam

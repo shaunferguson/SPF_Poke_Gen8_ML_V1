@@ -1,0 +1,27 @@
+Piplup @ Wacan Berry
+Ability: Torrent
+- Bubble Beam
+- Peck
+- Growl
+- Mist
+
+Chimecho @ Grip Claw
+Ability: Levitate
+- Wrap
+- Yawn
+- Uproar
+- Astonish
+
+Voltorb @ Lax Incense
+Ability: Aftermath
+- Spark
+- Screech
+- Rollout
+- Light Screen
+
+Slowpoke @ Sitrus Berry
+Ability: Oblivious
+- Confusion
+- Disable
+- Water Pulse
+- Yawn

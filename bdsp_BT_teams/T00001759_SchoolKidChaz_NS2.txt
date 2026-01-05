@@ -1,0 +1,20 @@
+Lickitung @ Sitrus Berry
+Ability: Own Tempo
+- Slam
+- Brick Break
+- Lick
+- Screech
+
+Graveler @ Focus Band
+Ability: Sturdy
+- Rollout
+- Rock Throw
+- Defense Curl
+- Brick Break
+
+Minun @ Salac Berry
+Ability: Minus
+- Spark
+- Charm
+- Encore
+- Helping Hand

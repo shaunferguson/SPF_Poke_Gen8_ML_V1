@@ -1,0 +1,20 @@
+Mamoswine @ Icy Rock
+Ability: Snow Cloak
+- Hail
+- Blizzard
+- Mud Shot
+- Ancient Power
+
+Dragonite @ Wide Lens
+Ability: Multiscale
+- Outrage
+- Aqua Tail
+- Iron Tail
+- Stone Edge
+
+Rhyperior @ Expert Belt
+Ability: Solid Rock
+- Rock Wrecker
+- Ice Beam
+- Thunderbolt
+- Flamethrower

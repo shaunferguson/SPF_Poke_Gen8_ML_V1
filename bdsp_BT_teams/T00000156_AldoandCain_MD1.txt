@@ -1,0 +1,27 @@
+Latias @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Recover
+- Stored Power
+- Mystical Fire
+
+Exeggutor @ Sitrus Berry
+Ability: Harvest
+- Trick Room
+- Giga Drain
+- Psychic
+- Sludge Bomb
+
+Jolteon @ Choice Specs
+Ability: Volt Absorb
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Baton Pass
+
+Lucario @ Lum Berry
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Ice Punch
+- Bullet Punch

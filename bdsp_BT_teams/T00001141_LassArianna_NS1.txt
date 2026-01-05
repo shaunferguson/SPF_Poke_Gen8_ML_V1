@@ -1,0 +1,20 @@
+Charmander @ Scope Lens
+Ability: Blaze
+- Fire Fang
+- Brick Break
+- Smokescreen
+- Scary Face
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+- Spark
+- Brick Break
+- Iron Tail
+- Quick Attack
+
+Lombre @ Yache Berry
+Ability: Swift Swim
+- Water Pulse
+- Fake Out
+- Brick Break
+- Absorb

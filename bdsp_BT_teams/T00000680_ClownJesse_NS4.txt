@@ -1,0 +1,20 @@
+Magneton @ Choice Specs
+Ability: Sturdy
+- Shock Wave
+- Volt Switch
+- Thunder Wave
+- Flash Cannon
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash
+
+Hitmontop @ Liechi Berry
+Ability: Intimidate
+- Triple Kick
+- Dig
+- Mach Punch
+- Fake Out

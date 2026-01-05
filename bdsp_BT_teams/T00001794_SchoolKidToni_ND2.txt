@@ -1,0 +1,27 @@
+Squirtle @ Focus Band
+Ability: Torrent
+- Aqua Tail
+- Bite
+- Withdraw
+- Protect
+
+Swablu @ Mental Herb
+Ability: Cloud Nine
+- Take Down
+- Dream Eater
+- Sing
+- Attract
+
+Drowzee @ Sitrus Berry
+Ability: Insomnia
+- Confusion
+- Headbutt
+- Disable
+- Shadow Ball
+
+Lombre @ Yache Berry
+Ability: Swift Swim
+- Water Pulse
+- Fake Out
+- Brick Break
+- Absorb

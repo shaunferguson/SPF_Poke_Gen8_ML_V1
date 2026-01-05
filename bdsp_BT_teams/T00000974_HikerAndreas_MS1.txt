@@ -1,0 +1,20 @@
+Registeel @ Chesto Berry
+Ability: Clear Body
+- Curse
+- Rest
+- Flash Cannon
+- Metal Claw
+
+Politoed @ Bright Powder
+Ability: Drizzle
+- Surf
+- Focus Blast
+- Ice Beam
+- Perish Song
+
+Venusaur @ Quick Claw
+Ability: Overgrow
+- Earthquake
+- Outrage
+- Petal Blizzard
+- Curse

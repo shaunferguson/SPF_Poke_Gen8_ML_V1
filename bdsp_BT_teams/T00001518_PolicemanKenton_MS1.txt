@@ -1,0 +1,20 @@
+Cresselia @ Leftovers
+Ability: Levitate
+- Calm Mind
+- Moonlight
+- Psychic
+- Shadow Ball
+
+Latias @ Colbur Berry
+Ability: Levitate
+- Psychic
+- Energy Ball
+- Grass Knot
+- Recover
+
+Weavile @ Chople Berry
+Ability: Pickpocket
+- Night Slash
+- Ice Shard
+- Ice Punch
+- Fake Out

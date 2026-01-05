@@ -1,0 +1,27 @@
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Icy Wind
+- Dazzling Gleam
+
+Toxicroak @ Muscle Band
+Ability: Poison Touch
+- Poison Jab
+- Cross Chop
+- Fake Out
+- Bullet Punch
+
+Skuntank @ Silk Scarf
+Ability: Aftermath
+- Explosion
+- Night Slash
+- Poison Jab
+- Play Rough
+
+Sharpedo @ Mystic Water
+Ability: Speed Boost
+- Waterfall
+- Crunch
+- Ice Fang
+- Protect

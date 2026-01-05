@@ -1,0 +1,27 @@
+Swellow @ Flame Orb
+Ability: Guts
+- Fly
+- Endeavor
+- Facade
+- Quick Attack
+
+Cherrim @ Miracle Seed
+Ability: Flower Gift
+- Petal Dance
+- Weather Ball
+- Leech Seed
+- Sunny Day
+
+Tangela @ Lax Incense
+Ability: Regenerator
+- Mega Drain
+- Slam
+- Leech Seed
+- Bind
+
+Combusken @ Scope Lens
+Ability: Blaze
+- Ember
+- Double Kick
+- Quick Attack
+- Sand Attack

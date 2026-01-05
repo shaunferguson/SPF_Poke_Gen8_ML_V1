@@ -1,0 +1,20 @@
+Scizor @ Sitrus Berry
+Ability: Technician
+- Bullet Punch
+- Thief
+- Roost
+- Swords Dance
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+- Foul Play
+- Swagger
+- Yawn
+- Protect
+
+Gengar @ Focus Sash
+Ability: Cursed Body
+- Shadow Ball
+- Sludge Bomb
+- Destiny Bond
+- Dazzling Gleam

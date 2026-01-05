@@ -1,0 +1,27 @@
+Ampharos @ Light Clay
+Ability: Static
+- Reflect
+- Double Team
+- Focus Punch
+- Thunder Punch
+
+Poliwrath @ Quick Claw
+Ability: Water Absorb
+- Waterfall
+- Brick Break
+- Earthquake
+- Hypnosis
+
+Kangaskhan @ Focus Sash
+Ability: Scrappy
+- Endure
+- Reversal
+- Fake Out
+- Double Hit
+
+Bronzong @ Custap Berry
+Ability: Levitate
+- Gyro Ball
+- Body Press
+- Iron Defense
+- Earthquake

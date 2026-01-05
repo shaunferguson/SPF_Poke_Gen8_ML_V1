@@ -1,0 +1,27 @@
+Kingdra @ Wide Lens
+Ability: Swift Swim
+- Hydro Pump
+- Ice Beam
+- Hurricane
+- Rain Dance
+
+Regice @ Leftovers
+Ability: Clear Body
+- Ice Beam
+- Thunderbolt
+- Protect
+- Focus Blast
+
+Charizard @ King's Rock
+Ability: Blaze
+- Flare Blitz
+- Wing Attack
+- Dragon Rush
+- Dragon Dance
+
+Nidoking @ Expert Belt
+Ability: Poison Point
+- Earth Power
+- Sludge Bomb
+- Ice Beam
+- Shadow Ball

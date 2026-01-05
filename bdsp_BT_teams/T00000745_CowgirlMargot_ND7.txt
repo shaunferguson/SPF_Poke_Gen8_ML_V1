@@ -1,0 +1,27 @@
+Swampert @ Lum Berry
+Ability: Torrent
+- Earthquake
+- Waterfall
+- Hammer Arm
+- Curse
+
+Flygon @ Soft Sand
+Ability: Levitate
+- Earthquake
+- Dragon Claw
+- Stone Edge
+- Dragon Dance
+
+Dusknoir @ Ganlon Berry
+Ability: Pressure
+- Curse
+- Pain Split
+- Ice Punch
+- Protect
+
+Kingdra @ Razor Claw
+Ability: Sniper
+- Waterfall
+- Focus Energy
+- Dragon Dance
+- Yawn

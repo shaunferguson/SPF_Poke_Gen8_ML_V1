@@ -1,0 +1,27 @@
+Combusken @ Scope Lens
+Ability: Blaze
+- Ember
+- Double Kick
+- Quick Attack
+- Sand Attack
+
+Butterfree @ Leftovers
+Ability: Compound Eyes
+- Sleep Powder
+- Quiver Dance
+- Substitute
+- Bug Buzz
+
+Bibarel @ Metronome
+Ability: Simple
+- Defense Curl
+- Rollout
+- Waterfall
+- Yawn
+
+Lunatone @ Sitrus Berry
+Ability: Levitate
+- Confusion
+- Cosmic Power
+- Light Screen
+- Sandstorm
